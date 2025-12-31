@@ -1,0 +1,58 @@
+site_name: General Immersion Guide
+site_url: https://Timm04.github.io/general-immersion-language-guide/
+repo_url: https://github.com/Timm04/general-immersion-language-guide.git
+site_author: Timm
+repo_name: Open a pull request
+nav:
+  - 'Foreword':
+    - Home: 'Introduction/home.md'
+    - Motivation: 'Introduction/problematic surrounding immersion.md'
+  - 'Prerequisites':
+    - Traditional Methods: 'Tradtional methods/Methods.md'
+    - How Natives Are Made: 'Native Language/how natives are made.md'
+  - 'Immersion Guide':
+    - Definition of Immersion: 'Definition of immersion/immersion definition.md'
+    - Core Concepts of Immersion: 'Immersion/core concepts of immersion.md'
+    - A Guide for Mining: 'Immersion/How to start Immersion - Mining.md'
+    - Types of Immersion: 'Immersion/types of immersion.md'
+    - Anki in Immersion: 'Immersion/Anki in Immersion.md'
+    - Overall Insights on Immersion Media: 'Immersion/roadmap.md'
+    - Manage your Immersion: "Immersion/routine manager.md"
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - palette.toggle
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+markdown_extensions:
+  - toc:
+        permalink: true
+        toc_depth: 2-4
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - admonition
+extra_css:
+  - css/extra.css
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - js/mermaid-init.js
+plugins:
