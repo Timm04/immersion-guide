@@ -56,3 +56,37 @@
 .md-typeset img.large-image {
     max-width: 70%;
 }
+
+/* Distinct tab backgrounds (light + dark) */
+[data-md-color-scheme="default"] .md-typeset .tabbed-content {
+    background: #f6f7fb;
+    border: 1px solid #dfe2e8;
+    border-radius: 0.5rem;
+    padding: 1rem 1.25rem;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .tabbed-content {
+    background: #1f2530;
+    border: 1px solid #2f3745;
+    border-radius: 0.5rem;
+    padding: 1rem 1.25rem;
+}
+/* Center mermaid flowcharts */
+.md-typeset .mermaid {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem auto;
+}
+
+/* Larger text for collapsible note admonitions */
+.md-typeset .admonition.note {
+    font-size: 1rem;
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.md-typeset .admonition.note p {
+    font-size: 1rem;
+    margin: 0.75rem 0;
+    line-height: 1.8;
+}
