@@ -4,6 +4,8 @@ In the previous section, we dissected the [the traditional, classroom based meth
 
 This begs the question: "What would be a method focused purely on acquisition look like?" To get the bottom of this let's look at the method we all know and have been doing ever since we were born.
 
+---
+
 ## How natives acquire their language
 
 I want you to ask yourself how you learned your native language, how does everyone learn their native language?
@@ -18,11 +20,15 @@ These "difficulties" are not difficulties for natives, since they have been **in
 
 So, if this native approach is so effective, why don't we just do that to study our target language? Actually we are going to replicate it, but *better*.
 
+---
+
 ## Improving the native approach
 
 The ingredient in native acquisition isn't just exposure and hope to make sense of it after some time; it's exposure to language that is **comprehensible enough**. A child understand the questions: "Want cookie?" because of the context as in seeing the cookie and the gestures of the person giving it, not because they are familiar in depth with all the grammar rules. We acquire language when we understand messages, not by purely memorizing rules.
 
 This is the point where we make a crucial improvement over the native approach.
+
+---
 
 ## Distinction between the native approach and immersion
 

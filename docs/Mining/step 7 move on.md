@@ -6,6 +6,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
+---
+
 ### Move on
 
 ``` mermaid
@@ -20,9 +22,11 @@ You can do this because no almost no grammar pattern or word is used once. The s
 
 That's why its not detrimental to move on, because you will revisit whatever you "missed out on" sooner or later be it consciously when you remember from last time you saw what ever you didn't understand or unconsciously seeing that expression again. Like said Immersion is not about understand everything every time 100%, its the consistency and effort to understand everything that counts!
 
-#### Last resort
+#### <span style="color: var(--md-typeset-a-color);">Last resort</span>
 
 As a last resort you can go and translate the sentence to your native language and get that "aha" moment to not lose track of the story or whatever form of entertainment you are immersing in. If you re reading you can just copy paste it. If you are listening then don't bother transcribing it, if it takes a lot of time as in minutes. Try to connect the meaning of the translated sentence with the sentence in your target language before continuing. Don't depend on translating! Try to avoid using the last resort!
+
+---
 
 <div class="grid cards" markdown>
 

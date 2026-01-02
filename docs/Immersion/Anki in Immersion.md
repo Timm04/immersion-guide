@@ -11,11 +11,15 @@ Anki and Immersion are not two separate processes. What you learn in Anki will o
 Anki alone won't make you learn a language.
 Anki doesn't replace your immersion.
 
+---
+
 ## How much Anki you should do
 
 Anki should always make up less time than your immersion time. You don't want to spend a lot of time in Anki because there you only need to learn a new word. To make that actually stick you need to do immersion. That's why Anki should be make up 1/5 of your daily study time. 4/5 of the time should be spent immersing.
 
 Don't spend more than one hour in Anki. 
+
+---
 
 ## How many new cards should you do
 
@@ -28,9 +32,13 @@ For beginners:
 
 Start with 10 new cards a day then keep applying the general rule above. At the beginning your retention will be not good, but that's normal and you should not worry or stress about it too much for now. Your primary focus should be immersing and taking your time to understand the language.
 
+---
+
 ## How much time should you spent per card
 
 Take at absolute maximum 10 seconds per card while reviewing or doing new cards. If you can't remember something in 10 seconds, then most likely you won't remember it in 15, 30 seconds or even minutes. So fail the card if you can't remember it in that timeframe. 10 seconds is a maximum, try to aim for under 5 seconds.
+
+---
 
 ## Choose an Anki Template
 
@@ -46,6 +54,7 @@ There are also sentence cards where on the front you see the whole sentence with
 !!! Note "Additional material for Anki Templates"
     These are many different template for different languages, but the ones for Japanese are the most customizable and easiest to install. I would recommend [Lapis](https://github.com/donkuri/lapis). You can it for your target language if you're not studying Japanese.
 
+---
 
 ## How to make remembering easier in Anki
 
@@ -54,16 +63,20 @@ A word should be mined according to the guidelines in [When to mine and not mine
 Don't mine everything. Mine only expressions that you understand within the context of the sentence. Context is key, since the greater impression an expression/context has on you, the easier you will remember a word in Anki.
 You can boost the impression of an expression by creating as many associations with the card you can, most prominently adding more meaningful pictures to the card. Meaningful here means anything that makes YOU remember the card more easily.
 
+---
+
 ## Backlog
 
 Usually when doing immersion you will mine more words than you will be learning each day. This will result in a backlog of cards.
 For example if you mine 100 words today and do 10 new cards in Anki then you got 90 left in total. The next day you mine 100 words again and do 10 new cards in Anki then you have 180 cards and so on.
 
-### How to manage a backlog
+### <span style="color: var(--md-typeset-a-color);">How to manage a backlog</span>
 
 - If you know a card already then you can suspend it. Chances are high you acquired it already through immersion.
 - Try maintaining a backlog so you don't run out of Anki cards. This comes in handy when you don't have time to immerse for a day.
 - Sort your new cards by frequency so you will always learn the most common used word out of your backlog. This makes sure you'll benefit faster from a newly learnt word.
+
+---
 
 ## Leeches
 

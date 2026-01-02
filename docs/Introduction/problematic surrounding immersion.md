@@ -4,6 +4,8 @@ The language learning method immersion is one of or even the most powerful langu
 
 According to Google it takes around 3000-4500+ hours to pass the highest level from zero. From experience people who studied Japanese doing immersion spent on average under 1530 hours. They didn't go to language school, or lived in Japan, or had prior knowledge of the language. Their first languages were mainly English or other european languages for which Japanese is one of the hardest language to learn along with Russian, Arabic, Korean and Chinese. They weren't geniuses and lived normal lives, going to school, uni or work. You could probably even pass the highest level of the exam doing immersion in 1100 hours as well. The point is immersion is a powerful tool to acquire a language.
 
+---
+
 ## Problematic of the current Immersion method landscape
 
 Currently out of all the immersion language learning communities, only the Japanese one has so far established itself as a sizeable and growing community dedicated to immersion learning by actively creating new tools targeted towards immersion learning and writing guides, yet even they don't have a full definition of how one should do immersion. Most guides just tell you what exactly you have to do without explaining why immersion works in the first place. How to deal with problems that could arise while doing immersion and what kind of mindset you should take on are mostly neglected or completely missing. If you go around asking long time learners for advice on immersion and how to "make it" you will realize the following: "Everybody kinda did their own thing with immersion to varying success and seem to contradict each other or themselves."
@@ -11,6 +13,8 @@ Currently out of all the immersion language learning communities, only the Japan
 Language immersion guides focus mainly on what to do as in what resources and tools to use and which immersion material to start out with while glossing over the how to approach immersion and most critically the why it works.
 
 This creates a big problem for new comers to start learning not only Japanese but really any language they want. Newcomers are mostly told to "just immerse" without really knowing why immersion works and how it's supposed to help them acquire a language. They are just thrown into the deep end without being taught how to swim properly. Being left with no choice but having to piece together the how and why from sunset guides, old forum snippets and the single daunting mantra: "trust the process". 
+
+---
 
 ## The mental toil of "Just trust the process"
 
@@ -28,6 +32,8 @@ This creates a big problem for new comers to start learning not only Japanese bu
 
 The irony is: Immersion works. But the very communities that champion it often fail to provide the right psychological and methodological framework needed to survive it. Only a small amount of stubborn and relentless people pushed through this fog of confusion, self doubt and comparison to reach high proficiency.
 
+---
+
 ## What guides miss 
 
 The current language immersion guides fail in two ways:
@@ -37,6 +43,8 @@ The current language immersion guides fail in two ways:
 2. They ignore the mindset. Immersion is treated as how optimal you can learn a language, ignoring the emotional roller coster of confusion, doubt and comparison it can bring forward. No guide or community is equipping its learners with the right defense against themselves. 
 
 This guide exists to fill these gaps. It's not a list of resources and tools. It's a guidebook on the immersion mindset. Drawing from my experiences as a member and leadership roles in these communities this guide aims to deconstruct confusion, provide the missing theory and equip you with the physiological tools to navigate through teaching yourself a language with immersion.
+
+---
 
 ## Judge your own motivation - Look inward
 
@@ -88,6 +96,8 @@ If there is not a thing that drives you for example the idea of watching or read
 Your motivation can range from a passionate life goal to simple curiosity. It can be not being able to look yourself in the eyes after a year if you haven't started learning a language until then. A vague interest i.e a language just seems interesting to you and you would like to try it out then thats enough as well to get one foot through the door. But then you still need something concrete you can aim for. Something concrete provides direction, measures progress and maintains focus.
 
 Having that something is important!
+
+---
 
 ## Essence of immersion - Learn and hike
 

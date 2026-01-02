@@ -6,6 +6,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
+---
+
 ### If you don't understand the sentence, then spend more time on it to understand what it's trying to say.
 
 ``` mermaid
@@ -24,16 +26,20 @@ graph LR
     
     You basically want to understand the sentence using your target language and using whatever appears in the sentence to understand it. You want to use as little of English as possible to understand each sentence. **After all you want to use the sentence in the target language to understand the sentence itself** like we have outlined in the i+1 sections.
 
-#### What to do if you don't understand a sentence
+#### <span style="color: var(--md-typeset-a-color);">What to do if you don't understand a sentence</span>
 
 If you don't understand what the sentence is trying to say even after having looked up the things you don't know, then that's *fine*. Your goal right now is to just get the gist and understand anything at all. Don't be discourage by being here, this just shows you are putting the effort you need to put in, you're learning right now. Immersion is a learning process. You will have to pause and think, reread, relisten, rewind and rethink again. **If you don't understand something after at max two or three minutes, then move on to the next sentence.**
 
-#### How much time to spend per sentence
+#### <span style="color: var(--md-typeset-a-color);">How much time to spend per sentence</span>
 
 You generally want to spend around a one to two minutes with each sentence. You want to "problem solve" the sentences you don't understand instantly (i+1-3s) i.e look up the things you don't know (words, grammar etc.) and secondly you want pattern recognition so absorbing the *feel* of the language the flow so to speak, where you feel out common chunks of the sentence and natural sound of the language (sentence you comprehend without looking things up). You need both but when you spend too much time on a sentence, you are spending more too much time in the "problem solver" mode, even though the pattern recognition mode is what gets you to "fluency". 
 Spending too much time on a sentence will just give you mental fatigue and demotivate you which can lead to burn out quicker. Its like losing the forest in the trees, where you understand every word but lose the meaning of the whole sentence/paragraph or scene. Also just frustrating to spend a lot of time every sentence.
 
-Keep in mind this time limit is not definitive! Don't time yourself with every sentence. Just read and try to understand as much as you can.
+!!! success "Your approach"
+
+    Keep in mind this time limit is not definitive! Don't time yourself with every sentence. Just read and try to understand as much as you can.
+
+---
 
 <div class="grid cards" markdown>
 

@@ -1,12 +1,41 @@
-# General immersion theory
+# Home
+
+## General immersion theory
+
+Welcome to General Immersion Language Learning, a website made for people interested in learning languages through immersion.
+
+---
+
+## <span style="color: var(--md-typeset-a-color);">How to think about this website</span>
 
 ![fudeimg](../assets/images/fude.png)
 
-Welcome to my general immersion language learning guide. 
-This guide lays the groundwork for what immersion is and how it works. It's written generally such that the it can be applied to acquire any language that has a writing system, without changing the underlying concepts of the immersion method. 
+This guide lays the groundwork for what immersion is and how it works while aiming to provide you with the right and healthy mindset how to approach immersion to study your target language. It's written generally such that the it can be applied to acquire any language that has a writing system, without changing the underlying concepts of the immersion method. 
+
 Think of this guide as a paint brush. You use this paint brush (method and mindset) so *you* can paint (acquire your target language). But what kind of language resources (colors) you end up using will depend on your target language, so please refer to language specific language guides for concrete resources on what the most viable resources there are.
 
-Similarly any numerical statements like ratios or percentages are only suggestions and are subject to be changed depending on your target language peculiarities. There is no one size fits all equation especially for languages and the people who study them, so keep this in mind.
+!!! note "Regarding numeric statements"
+
+    Any numerical statements like ratios or percentages are only suggestions and are subject to be changed depending on your target language peculiarities. There is no one size fits all equation especially for languages and the people who study them, so keep this in mind.
 
 [Start Guide](problematic surrounding immersion.md){ .md-button .md-button--primary }
+
+---
+
+## <span style="color: var(--md-typeset-a-color);">Acknowledgements</span>
+
+This guide is born from my own journey and the experience of many others learning Japanese through immersion. The contents are the organization of years of community advice, evolving methodology and countless conversations with learners of all kinds. Therefore, what follows is not derived from empirical study but from trial and error, and lived experience of what *seems* to work and what does not.
+
+
+My foremost thanks go to 天・Ten (Heaven) for providing me with the opportunity to write this guide and for hosting it on their website dedicated to Japanese immersion learning. Without them nothing of this would have been possible. I would likely have never returned back the Japanese immersion community and met so many incredible people within it. 
+
+Special thanks also to David, who approached me for guidance. By helping him with immersion, I found myself articulating the very ideas that form this guide. In a way, David helped me write this guide unconsciously. 
+
+More generally, I would like to thank every single person who has given others great advice on immersion over the years. They are the true inspiration for this guide. I would like to specifically thank JJ, Dai, Chronopolize, Jakku, Danex, Kuri, Tyogin, Nunko (Dinuz), Jsph, Jazzy, Pastor Sheshbesh and Julian for their input. 
+
+Our community is full of hard working and talented people who have dedicated a large portion of their time for free to make language learning easier and more accessible. Alone for that I'm grateful to have met them.  
+
+
+
+
 

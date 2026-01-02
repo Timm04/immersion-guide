@@ -6,6 +6,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
+---
+
 ### Use Yomitan to look up what you don't know
 
 ``` mermaid
@@ -18,6 +20,8 @@ You find this out by rereading the sentence.
 
 ??? note "Tip Use different dictionaries"
     Different dictionaries will describe the same word differently. This will make understanding a new word easier for you, in case you don't understand a dictionary entry.
+  
+---
 
 <div class="grid cards" markdown>
 

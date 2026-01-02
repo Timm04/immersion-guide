@@ -9,22 +9,26 @@ In this section, we'll look at the method everybody is probably most familiar wi
 Traditional learning methods follow books usually made by **natives for foreigners**.
 These books come in a lot of different kinds, some may start off with basic statement sentences like "I am John" and gradually introduce new vocabulary and grammar points, ultimately allowing one to form more complex sentences. While some translate the target language to a language you understand literally and attach grammar notes alongside.
 
+---
+
 ### Comparison between different language learning philosophies
 
-#### Germany's english education
+#### <span style="color: var(--md-typeset-a-color);">Germany's english education</span>
 The german education system generally uses the former in middle and high school English classes while the russian education system tends to use the latter to teach English. 
 This differences becomes more nuanced by looking at the teaching philosophy. 
 Germany's approach when teaching a foreign language puts a lot of weight on communication. Students will usually start speaking in a foreign language relatively early around grade 3 to 4, aged 8-10, using simple phrases, greetings and classroom language like "Can I go to the toilet?". Teachers also speak almost completely in English while in class. As one advances to higher classes we observe speaking becoming more task-based, think of dialogues, role-plays, presentations and discussions. There is an overall emphasis on **early exposure and communication building confidence and practical fluency, not perfection.**
 
-#### Russia's english education
+#### <span style="color: var(--md-typeset-a-color);">Russia's english education</span>
 
 On the other hand Russia's approach emphasizes grammar comprehension. It prioritizes a solid foundation in grammar, by filling lessons and assigning homework with verb conjugations and translation drills, focusing on correctness; "Spoken English must follow a solid foundation in grammar and vocabulary". Speaking opportunities are limited and mostly happen by repeating after the teacher. Overall it emphasizes understanding the different grammar patterns in-depth **prioritizing a more academic approach, aiming for perfection over "sloppiness"**, going by the notation of **"If you can't write a sentence correctly, you shouldn't say it"**.
 
-#### What works better
+#### <span style="color: var(--md-typeset-a-color);">What works better</span>
 
 Seeing these juxtaposed philosophies, who's students would you expect to perform better in English as a foreign subject? Do you expect the german students to perform better since they focus more on practicality over perfection, or do you think the russian students to exceed them since they focus on the underlying grammar which might be better for performing better on exams?
 
 According to the EF English Proficiency Index (EF EPI) of 2024, which is an annual ranking of countries and regions by their English language proficiency, Germany ranks 10th out of 116 countries while Russia places 44th. So what can we conclude from this observation? Should everyone now write off a grammar heavy approach to language learning as ineffective and start speaking in their target language as early as they can? Maybe we shouldn't even focus on Germany's system and look at the actual top performing countries like Singapore or the Netherlands?
+
+---
 
 ### No method is perfect
 
@@ -37,17 +41,21 @@ Second, **the method you follow should depend on what your personal goals with t
 
 So what kind of goals does the traditional method try to achieve?
 
+---
+
 ### Goals of the traditional method
 
 The biggest goal of the traditional method is to systematically teach a **group** of people in a **set pace** and periodically test them **to pass an exam**. Its laid out to be generalized, educating as many students as possible to a certain level of proficiency and have them *graduate* i.e go through a system. The focus lies not in language **acquisition** but in language **education**, as in being able to understand different grammar patterns and memorizing as many vocabulary as needed for the next upcoming exam. 
 
-#### Foreign language attrition
+#### <span style="color: var(--md-typeset-a-color);">Foreign language attrition</span>
 
 Learning a language is more nuanced and intricate; being able to conjugate and understand different grammar patterns isn't imperative to using them like a native the same way one to one translations of vocabulary are not enough to grasp the full nuance of word usage and meaning in every context.
 That system makes sense in an education system, not in a language acquisition framework.
 This plays part in a phenomenon where students after graduation can't really functionally use the language anymore they learned in school. They can pass exams using the language that was taught to them in school but are unable to retain or use them fluently. We call this **foreign language attrition**.
 
 There is a good chance you have experienced the result of this education system as well. I know I have. I had English since elementary school and had to eventually pick my second foreign language in middle school. The flavor of chaos I picked was French; four years long. And I wasn't slacking either: I was studious, participated in the classroom, handed in all of my homeworks, held presentations and even powered through the entire children book assigned to us! Yet, after graduation, all my years of doing grammar drills, memorizing all the vocab and participating in the speaking tasks magically vanished just like they have been doing after every exam. It's as if my brain was programmed to "Pass the exam, then we'll be deleting that."
+
+---
 
 ### Merits and demerits of the traditional method
 
@@ -59,6 +67,8 @@ Something it does well is the social aspect; being in an environment with people
 While this sounds idealistic in text, reality can be different and not everyone might be willing to participate in class or pay attention or even worse, disturb each other and not learn something in result. One might think back to the time nostalgic; sitting in last row in class with your friends, banting and playing around and not having learning anything at the end of class, but this approach won't make you learn a language.
 
 It's also worth noting exams which are like **measurable benchmarks** for progress. Ideally students get **motivated by their results** and try to improve for next time. Especially by being in a classroom like setting, a sense of community is created where you work towards a **shared goal with others**, which makes overcoming challenges easier. However one could also get discouraged depending on how an exam goes. Not to mention, having to take an exam can lead to just studying enough of the foreign language to get a passing grade or worse not studying at all and cheating. This can lead to something thats called **inert knowledge** where students may be able to memorize and recall information but struggle to actually use it in new situations.
+
+---
 
 ### Conclusion
 
@@ -76,6 +86,8 @@ I mention enjoyment here as an aspect because in general if you have fun doing s
 Based on the arguments I presented so far we can safely conclude that traditional methods have their place in education teaching students about foreign languages. But as outlined it can result in students not actually being able to be proficient at that language. For me it wasn’t until I stepped outside the classroom and its language-learning textbooks that I discovered personal interests, through watching YouTube or playing video games, where I truly began to use the language and started becoming fluent. 
 The traditional method is language education first and **language acquisition** second. 
 Most of the pros I mentioned only manifest themselves if one has the motivation to learn a foreign language. Not a superficial interest but a real **personal** goal they can strive towards and be motivated by. No students wants to spent hours every day for years discussing and reading about school and migration problems, cultural differences or how a political system elsewhere work in a foreign language. One would get way more motivated if they could actually engage with **material/media important to them**. 
+
+---
 
 ### The bottom line
 

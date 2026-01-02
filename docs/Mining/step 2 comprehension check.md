@@ -6,6 +6,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
+---
+
 ### Check your understanding and see what you can understand for yourself.
 
 ``` mermaid
@@ -15,16 +17,16 @@ graph LR
 
 In any case after having read through the sentence, good job!. Now you only move on to the next one after being sure you understood what the sentence said.
 
-#### How to approach understanding a sentence
+#### <span style="color: var(--md-typeset-a-color);">How to approach understanding a sentence</span>
 
 Being sure, means most importantly there weren't any unknown words to you or you could comprehend what the sentence is about. This doesn't mean you translate the sentence literally to yourself. It means you understand the sentence within the target language using the target language. You are basically looking to comprehend what the sentence is saying for yourself, such that *if you had to* translate the sentence you could give *your* best take at communicating what the sentence is about. You don't need to explain to yourself every time after finish reading a sentence what it tries to says, you just need to be like "Okay I get what they said". It's the same as in English where you usually don't actually pause and think about what a sentence said. You basically want to understand the sentence using your target language and using whatever appears in the sentence to understand it. You want to use as little of English as possible to understand each sentence. **After all you want to use the sentence in the target language to understand the sentence itself** like we have outlined in the i+1 sections.
 
-#### How immersing feels
+#### <span style="color: var(--md-typeset-a-color);">How immersing feels</span>
 
 This "understanding process" should be engaging and "hard". We are putting in cognitive effort into understand the sentence with the target language. We're absorbing what we see and try to make sense of the patterns we see. It's a learning process so it's meant to be like that, thats how learning usually is.
 Here you don't want to actually step back and ask yourself "How much did I understand?". You ideally want to feel a mix of enjoyment, engagement, accomplishment or excitement being interested to find out more about what ever you're reading as well as challenge and mental effort. (Remember the ratio 80-85% enjoyment and 15-20% challenge)
 
-#### The ambiguity problem
+#### <span style="color: var(--md-typeset-a-color);">The ambiguity problem</span>
 
 At the beginning most things will be vague since as a beginner you have no idea if the gist is conveyed or not. You basically can't know for sure what you don't know. You most often can't really recognize *everything* you don't know or can break it down enough. To put it more frankly you can't always know whether you understood a sentence completely because you don't have enough knowledge of the target language to check yourself. This is something I refer to as the *ambiguity problem*. There will almost always be a lingering ambiguity in a given sentence you just can't grasp yet.
 
@@ -42,9 +44,11 @@ To give you an idea how much understanding is enough and what to aim for, here a
 
     “Bingle for help!” you shout. “This loopity is dying!” You put your fingers on her neck. Nothing. Her flid is not weafling. You take out your joople and bingle 119, the emergency number in Japan. There’s no answer! Then you muchy that you have a new befourn assengle. It’s from your gutring, Evie. She hunwres at Tokyo University. You play the assengle. “…if you get this…” Evie says. “…I can’t vickarn now… the important passit is…” Suddenly, she looks around, dingle. “Oh no, they’re here! Cripett… the frib! Wasple them ON THE FRIB!…” BEEP! the assengle parantles. Then you gratoon something behind you…
 
-(In case you’re not a native speaker of English or don’t quite get it, yes, there are nonsense words in there. Those represent the uncomprehended 2%.)
+(In case you're not a native speaker of English or don't quite get it, yes, there are nonsense words in there. Those represent the uncomprehended 2%. [:octicons-arrow-right-24: Source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like))
 
-In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension. [Reference source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like)
+In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension.
+
+---
 
 <div class="grid cards" markdown>
 

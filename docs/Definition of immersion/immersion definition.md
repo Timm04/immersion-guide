@@ -6,6 +6,8 @@ People who are doing immersion or have done it for a long time describe that aft
 
 What we consistently expose ourselves to is hereby the most important part, it has to be **comprehensible enough and enjoyable**, but how would that help us?
 
+---
+
 ## The additional condition
 
 When doing immersion it cannot be understated that what ever you're immersing with has to be **comprehensible enough and enjoyable**. This is because these two factors act like acceleration quirks in an engine. They accelerate language acquisition. Without these two, immersion would be just consuming content without necessarily understanding which means we would be exposed to immersion material that might be too easy or too hard for us to learn anything from, thus *wasting* our time and maybe even get discouraged because we are not making any substantial progress. By adding the *filter* of choosing material thats just at our level we can progress and acquire the language faster. 
@@ -13,6 +15,8 @@ When doing immersion it cannot be understated that what ever you're immersing wi
 Choosing immersion material that is also enjoyable for you **makes your time learning the target language easier**. It shifts your mind from "I have to read this book to learn my target language" to "I want to sit down and read this book because its interesting." Without it, the learning process will feel forced and dragged which should be avoided at all cost. The moment when something is not interesting to you, you should stop bothering with it and switch to something different to immerse in. That is because enjoyment keeps you going, without you would be forcing yourself which is not the ideal mind space to be in when learning any skill. Somebody that enjoys what they are doing will outperform anyone that is doing the same but with no enjoyment. Ideally enjoyment should motivate you.
 
 These two factors make up the bottom line when choosing what to immerse in. How you actually choose immersion material and in what proportions these two factors should inter play will be discussed later on in # How to choose what to immerse in. For now I want you to take away the following.
+
+---
 
 ## Evaluating the improved native approach - Immersion
 
@@ -23,6 +27,8 @@ Recalling our three criteria for a good method:
 2. **The time it takes you to reach your goal**: [The power of Immersion](../Introduction/problematic surrounding immersion.md#the-power-of-immersion)
 
 3. **Enjoyment**: Follows from 1. Immersion by design requires the content you consume to be enjoyable for you. This creates a positive feedback loop: You enjoy the content or learning the language, which makes you consume more, which accelerates your acquisition, which allows you to enjoy even more content.
+
+---
 
 ## Key takeaways
 

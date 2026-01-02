@@ -8,13 +8,13 @@ It will suck. You will spend a lot of time pondering on basic grammar patterns a
 
 Similarly, the first time you sit down to watch a show in your target language will probably be more difficult than reading. If you are not rewatching, then you have to focus more on whats going on in a scene, people are talking fast and you just can't keep up or properly parse what you are hearing yet. But by repeatedly doing it while also doing reading your listening ability will improve. 
 
+---
+
 ## On enjoyment, efficiency and the "optimal" path
 
 Immersion encourages optimization. This is good but it gets to a point of people following the persuasive belief: 
 
-!!! quote "Quote"
-
-    "Efficiency is the absolute good."
+> "Efficiency is the absolute good."
 
 This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**. This is all flawed, you could even say bullshit. 
 
@@ -22,7 +22,7 @@ This makes learners chase the "optimal path". Be it optimizing their Anki's SRS,
 
     Efficiency is meaningless unless it improves the total amount of high-quality engagement you sustain with your target language over the long term.
 
-### Total life time utility model
+### <span style="color: var(--md-typeset-a-color);">Total life time utility model</span>
 
 <figure markdown="span", class="plateau-img">
 ![utility diagramimg](../assets/images/utility%20diagram.png)
@@ -36,7 +36,7 @@ Your immersion journey should be perceived as a system aimed at maximizing what 
 
 All of these components are at inter play with each other all the time. They feed into your central engine of high-quality engagement. This here determines whether you immerse for months or years or burn out in weeks.
 
-### Input is the reward, not the means
+### <span style="color: var(--md-typeset-a-color);">Input is the reward, not the means</span>
 
 There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between character, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
 
@@ -50,7 +50,7 @@ If you only focus on grinding color theory and picking the right paint you never
 
     Remember you picked up this "paint brush" (the immersion method) to create your own beautiful "painting" (your experience with the language). Don't get lost in the technical mixing of colors that you forget to paint.
 
-### Cost of "optimal" methods
+### <span style="color: var(--md-typeset-a-color);">Cost of "optimal" methods</span>
 
 Let's compare two different activities:
 
@@ -78,7 +78,7 @@ $$
 
 The **Δ(Long-Term Utility)** must be greater than the **Δ(Cognitive Cost)** and **Δ(Motivation Loss)**. In layman's terms: The value you get out of immersing with something like getting better at comprehension, which also leads to more choice for content to immerse with, that value must be more important **to you** than the potential negative aspects, like stress or the time you invest to get there, affecting you. You must be able to stomach what you  immerse in otherwise the stress becomes to much and your motivation depletes.
 
-### Sustainability is only the meaningful metric
+### <span style="color: var(--md-typeset-a-color);">Sustainability is only the meaningful metric</span>
 
 Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only criterion that matters is sustainability.
 
@@ -92,7 +92,7 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
 - If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. It builds skills and reinforces the habit that you will keep going.
 
-### Things to keep in mind
+### <span style="color: var(--md-typeset-a-color);">Things to keep in mind</span>
 
 !!! question "Am I looking forward to my main language activity today?"
 
@@ -106,34 +106,46 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
     If you can just enjoy your media you are immersing with and stop being pedantic about method, optimization and **progress**, you win. It's mostly mental.
 
+---
+
 # How to make Immersion easier
 
 ## Choose something you are already familiar with
 By doing so you can reread or rewatch media and have an easier time picking up your target language because you're already familiar with the story and can now see how your target language expresses something you are already familiar with. This will be sort of like mapping what you already know to something new i.e your target language. 
+
+---
 
 ## Choosing immersion material
 The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this includes audio and seeing something. Especially shows are great for this because you see whats going on, you have acting or characters you can see and music you hear as well as sound effects. All of these add to the *immersion* of your immersion, and help you make scenes more impactful for you to remember more words easier.
 
 There are many different kinds of native media you can use for your immersion. A few popular ones include: Video platforms like Youtube, streaming websites like Netflix, books, novels and comics, podcasts, music and video games. Like discussed in earlier sections, the best thing you can spend your time with to improve is something 80-85% enjoyable/comprehensible and 15-20% challenging, basically something you can stomach and don't mind spending a lots of time on.
 
+---
+
 ## How much should you be reading and listening
 For the beginning, it's a good idea to make your immersion more reading focused so you can quickly learn more vocabulary to get the most out of your listening as well. Aim for a 65-70% reading-based and 30-35% listening-based split. For more in-depth look in [Why listening is hard](types of immersion.md#why-listening-is-hard).
 
 Generally this ratio changes a lot based on what you currently like to do. In the beginning you won't have many options in what you can immerse with, which can make immersion less appealing. However, your interest in learning your target language and the actual process of doing so should carry you through the initial stage.
 
+---
+
 ## Use subtitles
 If subtitles are available for your target language then use them. As a beginner always use subtitles and mine according to [the mining process](../Mining/step 5 mine it.md#when-to-mine-and-not-mine). 
+
+---
 
 ## How to improve your listening as a beginner 
 
 Look [read more](types of immersion.md#solution-just-read-more). If you pause and try to relisten to things you heard and still don't understand them, don't be discouraged this is normal. Just [move on](../Mining/step 7 move on.md#move-on).
 
-### When to stop using subtitles 
+### <span style="color: var(--md-typeset-a-color);">When to stop using subtitles</span>
 
 For intermediates:
 Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
 
 If, during this process, you are mining more than you are actively training your listening ability i.e parsing the sounds, then thats a sign to hold off listening without subtitles for now and instead return to [moving on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
+
+---
 
 ## Passive vs. Active Listening
 
@@ -141,6 +153,8 @@ Passive listening is listening to your target language without paying active att
 Even listing to audio at very low comprehension but still paying attention somewhat when doing a different task has unclear benefits. There are people who did a lot of passive listening and or very low comprehension audio based listening when starting out and they feel like that helped them to get used to listening itself while some say it didn't help them at all. 
 
 However it is pretty clear that active listening does helps. Active listening requires you to focus on what is being said and to properly understand what is going on. Due to insufficient evidence we drop the argument and conclude you can do passive listening if you like to, but you probably shouldn't expect to get massive benefits from it.
+
+---
 
 ## A disclaimer for grammar
 
@@ -150,6 +164,8 @@ Further grammar study should be done periodically as you encounter new grammar s
 If you plan to sit an general language proficiency exam in your target language that tests you on grammar, then I'd recommend to do some traditional grammar study, by using books and online grammar guides for your language. 
 
 Usually you won't need to do this after having done immersion for months because you will have acquired most if not all nuances in grammar, word usages and reading already. After doing months of immersion you get a feeling of what feels right and what not, the same way you can feel out what feels and sounds right in your native language. This happens because of [the magic in immersion](core concepts of immersion.md#the-magic-in-immersion). But I would still recommend to brush up grammar formally for examinations that test it.
+
+---
 
 ## How to improve
 
@@ -173,11 +189,15 @@ For example for reading:
 
 If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
 
+---
+
 ## Why people plateau
 
 Either they are comfortable at their level meaning they reached their goal. For example they want to be able to read novels in their target language and reached a level where they can read them without needing a dictionary. So they are satisfied and don't need to challenge themselves with listening, harder reading material or pronunciation, because that wasn't their goal in the first place.
 
 On the other hand people plateau because they immerse with media that is similar in difficult, thus not challenging themselves. Immersing with media that is easy for you is not necessarily bad for you, it's actually good to solidify your knowledge and everything you know up until now. But if your goal is to learn and actually make progress i.e learn more words, grammar, get better at listening you need to challenge yourself. See [how to improve](#how-to-improve).
+
+---
 
 ## When to drop things you are immersing with
 
@@ -192,9 +212,11 @@ If you are not having fun with your immersion content, then that means one of tw
 In any of these two cases I would recommend you to drop whatever you are immersing with and switch to something easier or something thats more fun. 
 For reference see [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension).
 
+---
+
 ## How to get the most out of immersion
 
-### How hard should you pay attention when immersing
+### <span style="color: var(--md-typeset-a-color);">How hard should you pay attention when immersing</span>
 
 ![bookattentionimg](../assets/images/book_fukayomi.png)
 
@@ -217,9 +239,11 @@ You can *get by* with just the gist always but you'll miss a lot of small detail
 
 You can totally just read casually for the gist and break down things only when you really don't understand things, but if you want to get good fast then consistent, deep and focused reading is the way.
 
-### Trade of between enjoyment and efficiency
+### <span style="color: var(--md-typeset-a-color);">Trade of between enjoyment and efficiency</span>
 
 Something you can sustain is important, if you're not enjoying the process then making compromises on efficiency to make it more sustainable and enjoyable for you is always worth it. On the other hand, if you're at a point where you feel very motivated to get better and are willing to make slight compromises on max enjoyment to up efficiency then that's also fine (e.g. there were some points early on like that for me where I'd swap out some non-subbed anime listening for more podcast/audiobook listening, although I stopped doing that after a few months into learning).
+
+---
 
 ## General things to make things easier
 

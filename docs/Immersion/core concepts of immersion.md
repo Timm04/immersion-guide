@@ -28,6 +28,8 @@ For Anki decks refer to [shared decks](https://ankiweb.net/shared/decks) or to y
     
     During this process you will basically be doing only Anki alongside some grammar study. If you already start to hate Anki or doing grammar here, then you lost the beginner immersion mental game. The start before you can immerse is the hardest part.
 
+---
+
 ## What "comprehensible enough" means - i+1
 
 Before you can start using your foundation to start immersing, we need to go over how to choose what to immerse in and for that we need to define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways). 
@@ -40,7 +42,7 @@ You have to build upon your existing knowledge i.e the **decent and rough founda
 This concept of using your existing knowledge to learn new information is referred to in immersion language learning as **i+1**. Hereby the i stands for your existing knowledge of the target language and the +1 stands for one information you don't know in a given sentence, basically meaning something that is *slightly* above your current level. That unknown piece of information (+1) can be a new grammar pattern, a new pronunciation of a known word, an idiom, or a cultural reference.
 The idea behind having one unknown information in a given sentence is that **you use the rest of the sentence i.e the context to understand the missing piece of information**. Here is an example:
 
-### Example sentence
+### <span style="color: var(--md-typeset-a-color);">Example sentence</span>
 
 To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
@@ -51,6 +53,8 @@ Here the unknown piece of information (+1) was the word сөйләмчәк and y
 Essentially you learned the word through context using your existing knowledge. We found the ideal type of sentence where you have a good understanding of the entire message of the sentence except for one missing piece of information you are trying to learn. 
 
 **Doing immersion is basically trying to have as many moments like this (i+1 sentences) as possible.** This is the *most optimal* case speaking from an efficiency standpoint. 
+
+---
 
 ## How i+1 is a motivating ideal but not reality 
 
@@ -77,6 +81,8 @@ For sentence A, you were maybe a bit lost but overall you could probably underst
 For sentence B, you were maybe more confused but still hanging on. It's more challenging but you could still infer that "сөйләгән" would mean something like "to talk/to tell". If you had a dictionary you could very well look up what you don’t know and understand the overall meaning or maybe the whole sentence.
 While for the i+n sentence, you probably felt overwhelmed and lost. Even a dictionary wouldn't help at that point to understand the overall meaning of the sentence. There is just too much ambiguity to use the sentence, or context, to infer some kind of meaning. This is no longer comprehensible but just whitenoise.
 
+---
+
 ## Getting just the gist is fine
 
 What I want you to take away from this little exercise is that **immersion is not about comprehending every sentence perfectly. It's also fine to just get the gist sometimes**. It's fine to not understand every sentence perfectly every single time, what matters is **putting in the effort into trying to understand a sentence**. The effort is you looking up words using a dictionary and putting in cognitive effort to infer and deduce meaning based on the given information. You must learn to be comfortable not knowing everything in a sentence every time and just absorb whatever you understood. In a way doing immersion is **tolerating this specific kind of ambiguity**.
@@ -85,6 +91,8 @@ Note:
 A tool helping you to do put in the effort to understand a sentence will be introduced later. As well as how to actually deal with ambiguity and how do you know when you got the gist will be discussed in later sections.
 
 For now think of it as food. You don't need a perfectly scientifically mutinously crafted gourmet meal every time (i+1). What you generally need is a nutritious homemade meal that makes you full (a sentence you put effort into to understand). Sometimes you have a snack (catching just the gist). Sometimes you try a new spice you're unsure about (an expression you look up using the aforementioned tool). Bottom line is it all nourishes you. It all helps you acquire the target language.
+
+---
 
 ## The „magic“ in immersion 
 
@@ -109,6 +117,8 @@ Think of it like transfer knowledge from school where you do different exercises
 
 The are more reasons why „i+1“ is not really achievable. If you are interested then refer to # Not knowing what you don’t know.
 
+---
+
 ## How to choose what to immerse in - What to look for in immersion material - Importance of enjoyment
 
 We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y way yet real way:
@@ -121,12 +131,16 @@ We'll use the last sections about „i+1“ as motivation for defining a guiding
 
 This quotes here highlights one of the most if not the most important aspect of immersion. It reminds us that immersion, no language learning is at the end of the day a hobby you do for fun. While the goals for learning a foreign language might be different for everyone, the reason why people continue doing immersion does not. It's all fun after all. This is because with immersion we let **our interests guide us**. Unlike with school classes where we are most often forced to engage with material that is most often boring and not important to us personally in any way, with immersion we have the freedom to choose to immerse in everything we are interested in and thus enjoy it. 
 
+---
+
 ## Enjoyment as a metric for comprehension
 
 Enjoyment is so to speak our core principle, and **enjoyment is a great metric for comprehension.**
 If you enjoy something then you probably understand enough to enjoy it, meaning it's at least something around your current language skills. If we were to take the concept of i+1 here, then i would be here your enjoyment i.e comprehension. What's great about enjoying something is that you forget about a bit of struggle or difficulty, because you'll inherently pour in more effort to understand or do that thing because it's fun, thus learn more. Enjoyment is basically the "cheat code", a tool we use to handle i.e get through those sentences with more ambiguity. We are driven to understand what interests us so we put in that effort comprehend it.
 
 If you don't enjoy immersing with something, then it might be because it's either genuinely uninteresting to you or more likely too difficult preventing you to understand. Taking the i+1 example once again, that would be a i+n sentence with a lot of ambiguity, which we want to avoid to progress.
+
+---
 
 ## The ratio
 

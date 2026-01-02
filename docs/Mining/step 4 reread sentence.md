@@ -6,6 +6,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
+---
+
 ### Reread the sentence or the part where that word you just looked up appears in and try to understand the sentence.
 
 ``` mermaid
@@ -17,7 +19,11 @@ graph LR
 
 Using the information you looked up from Yomitan, you reread the sentence and check your understanding again. This is where you are now in "problem solving" mode and actually should question yourself what is the sentence trying to say now that you looked up everything you think you didn't know. In the most likely case, you know feel like you understood the sentence because you looked up the missing puzzle piece(s) and reread the sentence and understood how they are used there. 
 
-**After having looked up everything you don't know and understood what the sentence is trying to say you mine the word i.e add it to Anki.**
+!!! success "Mining it"
+
+    After having looked up everything you don't know and understood what the sentence is trying to say you mine the word i.e add it to Anki.
+
+---
 
 <div class="grid cards" markdown>
 

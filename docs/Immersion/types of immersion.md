@@ -14,6 +14,8 @@ Now, what would you think is the most efficient way for beginners to do immersio
 
 This matter is actually where opinions diverge. Lets read through some accounts of people, that disagree with me and who started immersion completely different, to get more perspectives on this matter. These are long time learners that reached a pretty high levels of proficiency in their languages doing immersion. I snuck in my opinion, maybe you can find out which one is mine? Really do read through all of these! 
 
+---
+
 ## Different opinions
 
 Now let's read through what other people think of the question: "Should I start with listening or reading and how much should I look things up?"
@@ -58,6 +60,8 @@ Now let's read through what other people think of the question: "Should I start 
 
 Now having read through all of these accounts, you probably feel confused since everybody seems to contradict themselves or one another. What should you do now and how should you start immersion? As you can see you can do immersion in many different ways. You can start with a show or with reading all of course after having developed a foundation strong enough to pick up media. 
 
+---
+
 ## Freedom with Immersion
 
 The point I want you to realize is that the confusion on what to immerse in is **the freedom you have with immersion**. You have this confusion because of the freedom of choice you have with what kind of media you can immersion with. You navigate through this freedom by letting your motivation i.e the fun you are having guide you, without overthinking too much on the method or details. This is because **Immersion is actually not *that* deep**. 
@@ -70,6 +74,8 @@ Someone who is enjoying themselves doing something they are interested in, will 
 
 This freedom is exactly why immersion is so different and more effective than traditional methods. You decide what you want to immerse in, and to what extend, what to mine and to look up and thus what to learn. If you are interested in a specific domain like architecture, then nobody is forcing you to learn vocab relating to something different like baseball terminology. You decide what you learn and don't learn and you decide your pace as well. If you want to read more today then nobody is stopping, same for listening. If you want to watch one more episode then you can. You decide what you learn and how much you do that. This freedom is the biggest upside and difference between traditional language learning methods and immersion. In school or language class this is most often different, because for one you **have to** not only immerse in material most often not interesting to you but also learn vocab associated with that material, while doing all of this at a set pace determined by your teacher. 
 
+---
+
 ## Enjoyment vs. Efficiency {#trade-off-between-enjoyment-and-efficiency}
 
 With that being said, nobody can or should be able to judge you for immersing in whats fun for you since you have your own goals and priorities. Immersing by **strictly** choosing whats interests is not bad, since whatever you find most enjoyable will *eventually* bring the great results. The question we now should be asking ourselves is: 
@@ -78,7 +84,7 @@ With that being said, nobody can or should be able to judge you for immersing in
 
 Sometimes whats most enjoyable is not the most efficient way to achieve your goals. 
 
-### A weird analogy
+### <span style="color: var(--md-typeset-a-color);">A weird analogy</span>
 
 ![konbiniimg](../assets/images/conbinianalogz.png)
 
@@ -91,17 +97,19 @@ You can totally approach immersion however you like. For example, you might want
 !!! tip "Trade of between enjoyment and efficiency"
     The efficient path isn't always the most fun, but the most fun path often requires a baseline of comprehension to actually be enjoyable. So, choose your starting point wisely, based on what you can sustain, not just on what you're most excited about. [:octicons-arrow-right-24: Reference](roadmap.md#trade-of-between-enjoyment-and-efficiency)
 
+---
+
 ## Why listening is hard
 
 ![listeninghardimg](../assets/images/listeningghard.png)
 
 Generally speaking listening is going to be way harder for beginners than reading because there is an added layer of complexity, like accustoming your ears to properly parse the foreign sounds of your target language in your head and then translating these sounds to words and meaning. With some language like Japanese you are likely to encounter a lot of homonyms (words with the same reading but different meaning depending on context) that just adds more difficulty. As outlined in earlier sections the most efficient way to learn is by following the right ratio of new information and information you are already familiar with. Concretely this means using the context and the parts of a given sentence you already comprehend, ideally 80-85% of a sentence, to infer and learn the missing pieces of information, the remaining 15-20%. 
 
-### Problematic with listening
+### <span style="color: var(--md-typeset-a-color);">Problematic with listening</span>
 
 The problematic with audio based immersion for beginners is that to upholding this ratio will be hard. As a beginner you naturally will struggle to intuitively and quickly grasp full sentences because you have far too little capability to comprehend anything well in your target language yet. In this case, reading is great because you can easier find reading material targeted at beginners, read at your own pace and take your time looking up words and attempting to piece them together to comprehend a given sentence. Since you are struggling that would be less than 80% so around 50-70% comprehension with 30-50% unknown information i.e struggle learning environment which is still really good for a beginner! 
 
-### Why listening is difficult for beginners
+### <span style="color: var(--md-typeset-a-color);">Why listening is difficult for beginners</span>
 
 But if that same beginner were to attempt to immerse in audio-based media at around the same difficulty level as the reading material that ratio would drop even further. This is because now the beginner has to deal with the added layer of difficulty of having to accurately hear the sounds and keep up with the pace of their target language. Essentially comprehension would drop to around 20-30% and as a result you understand way less, thus have less fun and learn less things, spend more time on each sentence trying to keep up with the audio, pausing frequently and eventually doubt and burnout appear. Listening be it in type 1 or type 3 with subtitles as a beginner starting immersion, won't be as efficient as just focusing on **building a solid base in the language first through reading**, and then once proficient enough, come back to audio based listening later where you help training your listening ability and not language comprehension, allowing for the ideal ratio of around 80% comprehension and 20% challenge.
 
@@ -109,11 +117,11 @@ To use the metaphor from before, you would save the chocolate you would have eat
 
 Consider the chocolate and magazine for later to enjoy it without time pressure! The keyword is here consider! If anything I don't want to indoctrinate you to only do one thing and not the other, it's immersion after all where you should not be guided by anyone but yourself. Thats why I want to give you many different perspectives to make you realize the breadth of immersion and the options you have. Right now it seems listening is not that effective at the beginning, but lets look at the people who nonetheless decided to do listening first!
 
+---
 
 ### Case study on people who mainly did listening over reading
 
-!!! question "What happens if you start immersion with listening only?"
-    Learners who mostly did a full audio based immersion without any reading at the beginning develop certain skills earlier. 
+What happens if you start immersion with listening only? Learners who mostly did a full audio based immersion without any reading at the beginning develop certain skills earlier. 
 
 !!! success "Strengths"
 
@@ -133,13 +141,13 @@ Consider the chocolate and magazine for later to enjoy it without time pressure!
     
     - Lack overall comprehension depth
 
-#### The cause
+#### <span style="color: var(--md-typeset-a-color);">The cause</span>
 
 This happens because audio-based immersion is momentary and context-limited, containing short spoken sentences, with more repetitious filler words and simpler grammatical structure. 
 
 You can't really stop taking your time to ponder a spoken expression you heard like you can with written text. Furthermore audio-based media in generally skewed towards frequently used vocabulary and conversational phrases. Because of that you won't learn vast amounts of literary domains i.e expressions found more in written media like novels and books. 
 
-#### The consequence
+#### <span style="color: var(--md-typeset-a-color);">The consequence</span>
 
 This will lead to you improving slower compared to the amount of time you continue to put in, because you'll generally only learn the most frequent expressions since audio-based media mostly only uses these. They would have great conversational abilities but their overall comprehension of the language would be poor for the amount of time they put into.
 
@@ -154,11 +162,11 @@ Concretely this means once you have acquired the let say 2000 to 3000 most commo
 
 As such these learners plateaus relative to time invested. They lack the rich mental model of their target language, which requires vast exposure to lexical and syntactic diversity more readily found in written material. Without exposure to written material which uses more embedded clauses, formal conjunctions, complex sentence architecture, nuanced vocabulary and just more depth, their brain doesn't build the "machinery" to process more sophisticated ideas in the language, limiting the ceiling of what thy can ultimately comprehend.
 
-#### How reading focused learners compare
+#### <span style="color: var(--md-typeset-a-color);">How reading focused learners compare</span>
 
 The interesting part is that reading-based immersion learners who also did some listening pick up the same skills things but quicker and with much better comprehension and vocabulary, quicker or in a similar amount of time.
 
-#### Solution: Just read more
+#### <span style="color: var(--md-typeset-a-color);">Solution: Just read more</span>
 
 ![readomreimg](../assets/images/readmore.png)
 
@@ -181,6 +189,8 @@ Starting with ony listening is like trying to assemble a complex puzzle without 
 
 !!! note "Going forward"
     The optimal path is not sequential, do one thing then another, but mixed, doing reading and listening.
+
+---
 
 # Key Takeaways
 
