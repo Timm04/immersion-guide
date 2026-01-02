@@ -62,7 +62,7 @@ Let's compare two different activities:
 
     This can create negative **Immediate Utility** like boredom or frustration for learners. It's taxing on your mind (**Cognitive cost**) as it drains willpower. The value you get out is promised in the long term utility like better retention or knowing more vocab.
 
-!!! question "Does the long term utility gained from doing Anki justify it#s cognitive cost?"
+!!! question "Does the long term utility gained from doing Anki justify its cognitive cost?"
 
     For some learners it does! Those who find structure energizing or gain a sense of security from a systematic workflow will have a low cognitive cost and the payoff is high. 
 

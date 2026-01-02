@@ -51,6 +51,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 markdown_extensions:
+  - abbr
   - toc:
         permalink: true
         toc_depth: 2-4
