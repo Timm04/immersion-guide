@@ -68,11 +68,16 @@ When you are stressed or tired you autopilot and default back to your day to day
 To make you more likely to achieve your habit reduce friction in your environment. This means making the barrier of entry for your goal as easy as possible.
 This can be immersing being a few clicks away from doing. Having your immersion material be always open in the background or installing Anki on your phone so you can always do it. You might want to use programs to block out distractions on your devices. You can also create new accounts for social media specifically for your target language so you always surrounded by native content ready to be immersed with.
 
+You can really notice your progress and improvement the most when revisiting the media you immersed with a while ago! 
+
 #### Break goals down
 
 Start small: Ask yourself what is the smallest amount you would easily manage to do. Let's say if you want to read for 3 hours, then it's not about one whole session where you have to fit in these 3 hours. You can break these 3 hours up into short 25 minute sessions with 5 minute pauses in between. This is called pomodoro and it works wonders!
 During these 5 minute pauses you should do something that doesn't relate with the 25 minute task. This can be walking around, getting something to drink or listening to music.
-You can use this [website](https://pomofocus.io/) for a pomodoro timer.
+
+!!! note "Pomodoro Timer"
+
+    You can use this [website](https://pomofocus.io/) for a pomodoro timer.
 
 The hardest part is actually sitting down and doing what you want to. Continuing is most often easier.
 For Anki you can first do 1 review or new card then build upon it.
@@ -86,7 +91,7 @@ You forget everything. Jokes aside missing a day is normal, you won't forget eve
 #### Celebrate yourself
 
 Really anytime you sit down and actually do immerse is a win. Treat it as such. 
-You can also use tracking sheets or habit trackers where you can check log or check off days. Seeing your progress being visualized is rewarding.
+Progress is hard to measure with immersion so it's important to drive home the point of celebrating yourself when you immerse or achieve your self set goals! You can do this by using tracking sheets or habit trackers where you can check log or check off days. Seeing your progress being visualized is rewarding as well.
 
 ### How to approach your routine
 

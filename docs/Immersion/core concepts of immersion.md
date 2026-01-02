@@ -24,6 +24,10 @@ Although this doesn't mean you should learn tons of vocab as in in the thousands
 
 For Anki decks refer to [shared decks](https://ankiweb.net/shared/decks) or to your language specific immersion guide as immersion learning communities have their own starter deck and starter grammar resources.
 
+!!! warning "Giving up before it begins"
+    
+    During this process you will basically be doing only Anki alongside some grammar study. If you already start to hate Anki or doing grammar here, then you lost the beginner immersion mental game. The start before you can immerse is the hardest part.
+
 ## What "comprehensible enough" means - i+1
 
 Before you can start using your foundation to start immersing, we need to go over how to choose what to immerse in and for that we need to define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways). 

@@ -1,10 +1,106 @@
-# What you can expect from your first immersion experience
+# Overall insights on Immersion Media
+
+## What you can expect from your first immersion experience
 
 ![booksumeruimg](../assets/images/book_umoreru.png)
 
 It will suck. You will spend a lot of time pondering on basic grammar patterns and easy words. Almost every sentence you encounter will have something new for you to analyze and think about and to mine, most often multiple things at once. This is normal! The key is here to trust the process based on what you have read so far in this guide. The more you read the easier it will become. Same goes for listening or speaking.
 
 Similarly, the first time you sit down to watch a show in your target language will probably be more difficult than reading. If you are not rewatching, then you have to focus more on whats going on in a scene, people are talking fast and you just can't keep up or properly parse what you are hearing yet. But by repeatedly doing it while also doing reading your listening ability will improve. 
+
+## On enjoyment, efficiency and the "optimal" path
+
+Immersion encourages optimization. This is good but it gets to a point of people following the persuasive belief: 
+
+!!! quote "Quote"
+
+    "Efficiency is the absolute good."
+
+This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**. This is all flawed, you could even say bullshit. 
+
+!!! warning "What do you actually gain from it?"
+
+    Efficiency is meaningless unless it improves the total amount of high-quality engagement you sustain with your target language over the long term.
+
+### Total life time utility model
+
+<figure markdown="span", class="plateau-img">
+![utility diagramimg](../assets/images/utility%20diagram.png)
+</figure>
+
+Your immersion journey should be perceived as a system aimed at maximizing what keeps you the happiest and makes you going forward the longest. Maximize **total life time utility** (TLU). TLU isn't not just your final proficiency level, it's the sum of all good and bad experiences along your journey weighted by their duration and intensity. More precisely it includes:
+
+- **Immediate Utility**: The enjoyment, drive to learn more about your target language, being in *zone* (flowing) while immersing.
+- **Cognitive cost**: The effort you put in, time invested, stress, doubt, motivation dropping.
+- **Long term utility**: The benefit you get out of learning your target language, what you get out of comprehending, learning and access to culture.
+
+All of these components are at inter play with each other all the time. They feed into your central engine of high-quality engagement. This here determines whether you immerse for months or years or burn out in weeks.
+
+### Input is the reward, not the means
+
+There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between character, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
+
+Treating immersing in itself, treating enjoyable input as a mere means to learn some vocabulary is detrimental. Referring back to the paint brush analogy from [home](../Introduction/home.md):
+
+The immersion is the painting you are creating, how you view and understand each connection how your target language functions. The grammar, vocabulary, reading and listening skills are the pigments and different brushes. They are essential tools, but they are not the painting. 
+
+If you only focus on grinding color theory and picking the right paint you never step back to appreciate the emerging picture you create. You run danger of turning the creative process of language acquisition into a joyless chore. 
+
+!!! warning "Value the experience"
+
+    Remember you picked up this "paint brush" (the immersion method) to create your own beautiful "painting" (your experience with the language). Don't get lost in the technical mixing of colors that you forget to paint.
+
+### Cost of "optimal" methods
+
+Let's compare two different activities:
+
+=== "Reading a book"
+
+    This can create positive **Immediate Utility** for learners. The cognitive cost varies from low to moderate and it fuels your motivation. It directly adds to the TLU model *while* you are reading a book, and it builds skills for the future as in improving your comprehension.
+
+=== "Anki"
+
+    This can create negative **Immediate Utility** like boredom or frustration for learners. It's taxing on your mind (**Cognitive cost**) as it drains willpower. The value you get out is promised in the long term utility like better retention or knowing more vocab.
+
+!!! question "Does the long term utility gained from doing Anki justify it#s cognitive cost?"
+
+    For some learners it does! Those who find structure energizing or gain a sense of security from a systematic workflow will have a low cognitive cost and the payoff is high. 
+
+    For others, doing Anki is an energy draining torture needed to engage with activities like "Reading a book".
+
+There is no universal optimum. Even if a method is 100% "efficient" at teaching the most common 1000-1500 words but alienates like 20% of learners making them quit after a month is on a systematic level inefficient.
+
+We can denote this using the following formula:
+
+$$
+\Delta(\text{long-term utility}) - \Delta(\text{cognitive cost}) - \Delta(\text{motivation loss}) > 0
+$$
+
+The **Δ(Long-Term Utility)** must be greater than the **Δ(Cognitive Cost)** and **Δ(Motivation Loss)**. In layman's terms: The value you get out of immersing with something like getting better at comprehension, which also leads to more choice for content to immerse with, that value must be more important **to you** than the potential negative aspects, like stress or the time you invest to get there, affecting you. You must be able to stomach what you  immerse in otherwise the stress becomes to much and your motivation depletes.
+
+### Sustainability is only the meaningful metric
+
+Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only criterion that matters is sustainability.
+
+> Does whatever I'm immersing in make me want to pour in more time such that I will realistically and willingly spend more time engaging with my target language in the future?
+
+- If you dread something in your immersion, it is **inefficient**. [:octicons-arrow-right-24: When to drop things you are immersing with](#when-to-drop-things-you-are-immersing-with)
+
+- If watching a difficult show without subtitles would make you improve but you are barely keeping up, feeling anxious, stressed or dumb then forcing yourself to do it is **less efficient** than watching something more enjoyable and easier with tools that let you enjoy the plot.
+
+- If reading a difficult book you are interested in but spend more time digging through different dictionaries to understand just one word more than actually engaging with the story then this is ***inefficient**.
+
+- If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. It builds skills and reinforces the habit that you will keep going.
+
+### Things to keep in mind
+
+!!! question "Am I looking forward to my main language activity today?"
+
+    If the answer is consistently no, then in most cases change your activity, unless you can sustain it, considering [Cost of "optimal" methods](#cost-of-optimal-methods)
+
+!!! note "Use as little optimization as you can"
+
+    The bare bones are Anki, Yomitan and a basic card template. You may adjust them with some starter quality of life settings, but don't obsess over optimization. I don't want to see you immersing in the Anki manual and SRS-addons till 3am.
 
 # How to make Immersion easier
 
@@ -40,7 +136,7 @@ If, during this process, you are mining more than you are actively training your
 Passive listening is listening to your target language without paying active attention to what you're listening to. You are not following the story or thinking about it, you are just taking in the sounds while doing something else actively like cleaning or driving. It's not entirely clear to what extent passive listening helps you learn language.
 Even listing to audio at very low comprehension but still paying attention somewhat when doing a different task has unclear benefits. There are people who did a lot of passive listening and or very low comprehension audio based listening when starting out and they feel like that helped them to get used to listening itself while some say it didn't help them at all. 
 
-However it is pretty clear that active listening does helps. Active listening requires you to focus on what is being said and to properly understand what is going on. Due to insufficient evidence we drop t he argument and conclude you can do passive listening if you like to, but you probably shouldn't expect to get massive benefits from it.
+However it is pretty clear that active listening does helps. Active listening requires you to focus on what is being said and to properly understand what is going on. Due to insufficient evidence we drop the argument and conclude you can do passive listening if you like to, but you probably shouldn't expect to get massive benefits from it.
 
 ## A disclaimer for grammar
 
@@ -124,3 +220,6 @@ Something you can sustain is important, if you're not enjoying the process then 
 ## General things to make things easier
 
 Care for your health. Sleep enough. Stay hydrated. Get fresh air. Do some exercise. Even standing up, working around, doing something quick like a walk or situps in between your 5min pomodoro breaks are game changers. Sleep deprivation and dehydration cause headaches, now couple it with the fact of sitting for hours starring at screens focused, thinking hard and things can get worse. Similarity fresh air and a quick walk can really boost your capacity to acquire new information. Exercise in general improves your [cognitive ability](https://pubmed.ncbi.nlm.nih.gov/28666827/). Just as important is enough sleep because even [relatively moderate sleep restriction can seriously impair waking neurobehavioral functions in healthy adults](https://pubmed.ncbi.nlm.nih.gov/12683469/). Breaking up prolonged sessions of sitting down is crucial. Same goes for your posture; your next posture is your best posture.
+
+*[SRS]: Space repetition system
+*[high-quality engagement]: Motivation, energy, sustainability
