@@ -81,3 +81,5 @@ For example if you mine 100 words today and do 10 new cards in Anki then you got
 ## Leeches
 
 Suspend or delete them. You'll probably encounter that expression through immersion again and again.
+
+---

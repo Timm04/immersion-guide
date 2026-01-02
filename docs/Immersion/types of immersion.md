@@ -198,8 +198,7 @@ Starting with ony listening is like trying to assemble a complex puzzle without 
 
 - You are your own guide, use the freedom of immersion to tailor your own experience to your interests while being mindful of the efficiency trade offs i.e choosing something that interests you and is appropriate for the level you're at.
 
-
-
+---
 
 
 

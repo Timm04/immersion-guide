@@ -69,3 +69,5 @@ In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% c
     [:octicons-arrow-right-24: Look it up](step 3 yomitan.md#use-yomitan-to-look-up-what-you-dont-know)
 
 </div>
+
+---

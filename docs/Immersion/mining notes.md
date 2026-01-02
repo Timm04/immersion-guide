@@ -80,3 +80,5 @@ Different dictionaries will describe the same word differently. This will make u
 
     [:octicons-arrow-right-24: Next sentence](../Mining/step 1 read the sentence.md)
 </div>
+
+---

@@ -118,3 +118,5 @@ Some have more time, some have less. Some maybe learn faster, some maybe don't. 
 Think of it like this. Wouldn't it be weird to say "Ohh I needed 2 weeks to learn how to play volleyball or "I learned how to cook in 3 months." These just sound weird, because nobody is even looking at how long they take for these things. Things like these make it seem like you are in a race to go as fast as you can. But immersion is not a race. **Immersion is a hike.**
 
 You go in this direction because it looks interesting, i.e immerse in a show that seems interesting to you for a bit, you might want to go slower and enjoy other things, i.e prioritize other things in your life, sometimes you go uphill, i.e listening becomes easier, sometimes you go downhill, i.e reading feels like a drag, but everything lies on your path to reach your goal. **You are your own guide.**
+
+---

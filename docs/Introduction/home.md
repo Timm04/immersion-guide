@@ -35,7 +35,7 @@ More generally, I would like to thank every single person who has given others g
 
 Our community is full of hard working and talented people who have dedicated a large portion of their time for free to make language learning easier and more accessible. Alone for that I'm grateful to have met them.  
 
-
+---
 
 
 

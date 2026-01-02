@@ -153,3 +153,5 @@ To iterate again, enjoying something is another way to say you understand someth
 For something to be challenging can mean different things. Challenging can be when you know all the words but not the grammar in a sentence or vice versa. Challenging can be even when you understand every word and grammar but still need your time to understand what is actually being said for example missing some culture clue. What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well, i.e the impression will be greater than if you juggle multiple unknown pieces of information in a sentence which will make the context less impactful and more vague.
 
 Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing [How to start Immersion - Mining](How to start Immersion - Mining.md#how-to-start-immersion-mining).
+
+---

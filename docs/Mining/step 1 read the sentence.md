@@ -28,3 +28,5 @@ You read through the sentence like you would do in your native language. This do
     [:octicons-arrow-right-24: Check understanding](step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself)
 
 </div>
+
+---

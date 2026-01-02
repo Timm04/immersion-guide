@@ -8,7 +8,7 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 ---
 
-### If you don't understand the sentence, then spend more time on it to understand what it's trying to say.
+### If you don't understand the sentence, then spend more time on it to understand what it's trying to say
 
 ``` mermaid
 graph LR

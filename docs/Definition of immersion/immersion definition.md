@@ -37,3 +37,5 @@ Recalling our three criteria for a good method:
 - Immersion also has to be done **consistently** to work. Just like any skill, you need to consistently use it to not forget it.
 
 The next section will focus on at what point you can start to immerse and what makes up immersion in general.
+
+---

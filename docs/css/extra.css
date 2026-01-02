@@ -2,6 +2,11 @@
     margin-bottom: 0em;
 }
 
+/* Zoom out effect - 90% scale */
+html {
+    font-size: 135%;
+}
+
 [data-md-color-scheme="default"] {
   --md-typeset-kbd-border-color: #7e56c2;
 }

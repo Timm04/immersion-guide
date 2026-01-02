@@ -119,3 +119,4 @@ You are not failing or struggling alone. Ask anyone doing immersion and they wil
 
 Reflect on your progress and how you feel. What worked? What friction did you encounter? How can you tweak your approach, your environment or routine to make it easier for you going forward?
 
+---

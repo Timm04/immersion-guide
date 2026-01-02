@@ -47,3 +47,5 @@ As a last resort you can go and translate the sentence to your native language a
     [:octicons-arrow-right-24: View Overview](../Immersion/mining notes.md)
 
 </div>
+
+---

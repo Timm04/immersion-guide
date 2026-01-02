@@ -34,3 +34,5 @@ You find this out by rereading the sentence.
     [:octicons-arrow-right-24: Reread sentence](step 4 reread sentence.md#reread-the-sentence-or-the-part-where-that-word-you-just-looked-up-appears-in-and-try-to-understand-the-sentence)
 
 </div>
+
+---

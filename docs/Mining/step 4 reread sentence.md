@@ -44,3 +44,5 @@ Using the information you looked up from Yomitan, you reread the sentence and ch
     [:octicons-arrow-right-24: Spend more time](step 6 spending more time.md#if-you-dont-understand-the-sentence-then-spend-more-time-on-it-to-understand-what-its-trying-to-say)
 
 </div>
+
+---

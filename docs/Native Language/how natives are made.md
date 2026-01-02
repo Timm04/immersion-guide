@@ -44,3 +44,5 @@ Think of it this way:
 - **Immersion**: Easing your way into the pool gradually with floaties keeping you afloat, gradually removing them as you gain confidence and skill. You're still in the water, but supported at the right level so you can actually learn to swim.
 
 The same way how we grew up while being surrounded by our native language and becoming so proficient in it, **immersion** also does the same but **faster, more efficiently and enjoyable**. It's an improved form. In a way, you reading this guide is you doing immersion in English, because it's written for natives of the English language, its comprehensible for you and at least a bit interesting since you are reading this.
+
+---

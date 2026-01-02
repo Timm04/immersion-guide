@@ -5,3 +5,5 @@ To explain what immersion is I think it's best to look at what you're already fa
 From there I want to show you how it performs and fails for language acquisition, giving you reasons not to practice it while providing you with another, better option you can take; the native approach.
 
 With the native approach I would like you to realize that this method "Immersion" is not that different to what we are doing on an everyday basis already. We basically optimize it for our needs. 
+
+---

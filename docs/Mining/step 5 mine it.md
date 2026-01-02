@@ -58,3 +58,5 @@ Here is a simple checklist of things you should do in order:
     [Next sentence](step 1 read the sentence.md)
 
 </div>
+
+---

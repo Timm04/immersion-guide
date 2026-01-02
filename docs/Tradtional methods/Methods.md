@@ -93,4 +93,4 @@ Most of the pros I mentioned only manifest themselves if one has the motivation 
 
 Someone who is interested in something will inherently pour in more effort into something than someone who is not interested in that same thing. They're less likely to give up and actually try to understand whatever interest they have. It lacks **personal interest driven material** to motivate students and real world exposure of the language as in material made **by natives for natives** to solidify itself as a language learning method justifiable to follow for years. Especially when there are different methods that solve these issues and make you achieve your goals faster, easier and more enjoyable.
 
-
+---
