@@ -12,7 +12,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 
 ``` mermaid
 graph LR
-  F{Spend more time try to understand} -->|I don't understand it| G[Move on]
+  F{Spend more time 
+  trying to understand} -->|I don't understand it| G[Move on]
 ```
 
 You don't understand the sentence what so ever even after having thought about it really hard.
@@ -29,11 +30,11 @@ That's why its not detrimental to move on, because you will revisit whatever you
 
 You can move on after you have gone through steps 1-5 (reading the sentence -> checking comprehension -> Looking up with Yomitan -> rereading sentence -> checking comprehension), meaning you:
 
-1. Tried your best to understand the sentence multiple times
+1. Tried your best to understand the sentence multiple times.
 
-2. Looked up everything you can to the best of your ability
+2. Looked up everything you can to the best of your ability.
 
-3. Still couldn't make sense of the sentence
+3. Still couldn't make sense of the sentence.
 
 
 #### <span style="color: var(--md-typeset-a-color);">Last resort</span>

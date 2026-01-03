@@ -13,7 +13,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 ``` mermaid
 graph LR
   D[Reread the sentence
-  with what you have looked up in mind] ----> E{Do I understand it now?} -->|No| F{Spend more time trying to understand}
+  with what you have looked up in mind] ----> E{Do I understand it now?} -->|No| F{Spend more time 
+  trying to understand}
 ```
 
 ??? note "Reference: How to approach understanding a sentence"
