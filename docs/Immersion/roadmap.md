@@ -40,7 +40,7 @@ All of these components are at inter play with each other all the time. They fee
 
 There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between character, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
 
-Treating immersing in itself, treating enjoyable input as a mere means to learn some vocabulary is detrimental. Referring back to the paint brush analogy from [home](../Introduction/home.md):
+Treating immersing in itself, treating enjoyable input as a mere means to learn some vocabulary is detrimental. Referring back to the paint brush analogy from [home](../index.md):
 
 The immersion is the painting you are creating, how you view and understand each connection how your target language functions. The grammar, vocabulary, reading and listening skills are the pigments and different brushes. They are essential tools, but they are not the painting. 
 

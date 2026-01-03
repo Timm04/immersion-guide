@@ -1,9 +1,9 @@
+## An Overview of Mining
+
 <figure markdown="span", class="miningoverview-img">
   [![miningoverviewimg](../assets/images/miningoverview.png)](../assets/images/miningoverview.png)
   <figcaption style="margin-top: 0.25em; margin-bottom: 0.5em;">Flowchart of the mining process in immersion.</figcaption>
 </figure>
-
-## An Overview of Mining
 
 You read through the sentence, check what you understand. If you there is something you don't know in a sentence or are unsure about then use Yomitan. After doing so reread the sentence, or the part that you didn't understand, with the information you looked up and see for yourself if you can understand the sentence now. 
 

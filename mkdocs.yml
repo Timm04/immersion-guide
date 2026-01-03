@@ -5,7 +5,7 @@ site_author: Timm
 repo_name: Open a pull request
 nav:
   - 'Foreword':
-    - Home: 'Introduction/home.md'
+    - Home: 'index.md'
     - Motivation: 'Introduction/problematic surrounding immersion.md'
   - 'Prerequisites':
     - Lead in: 'Tradtional methods/lead in.md'
