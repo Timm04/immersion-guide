@@ -86,14 +86,17 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
 - If you dread something in your immersion, it is **inefficient**. [:octicons-arrow-right-24: When to drop things you are immersing with](#when-to-drop-things-you-are-immersing-with)
 
-- If watching a difficult show without subtitles would make you improve but you are barely keeping up, feeling anxious, stressed or dumb then forcing yourself to do it is **less efficient** than watching something more enjoyable and easier with tools that let you enjoy the plot.
+- If watching a difficult show without subtitles would make you improve but you are barely keeping up, feeling anxious, stressed or dumb then forcing yourself to do it is **less efficient** than watching something more enjoyable and easier with tools that let you enjoy the plot. 
 
-- If reading a difficult book you are interested in but spend more time digging through different dictionaries to understand just one word more than actually engaging with the story then this is ***inefficient**.
+- If reading a difficult book you are interested in but spend more time digging through different dictionaries to understand just one word more than actually engaging with the story then this is ***inefficient**. Might as well be a signal that whatever you are immersing with is too hard.
 
 - If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. It builds skills and reinforces the habit that you will keep going.
 
 ### <span style="color: var(--md-typeset-a-color);">Things to keep in mind</span>
 
+I'm not suggesting you to drop doing things like Anki because you maybe dreading it. [Anki is important](Anki in Immersion.md) and you should continue doing it unless you are more [advanced](Anki in Immersion.md#when-you-can-stop-doing-anki).  
+
+You need to find out what you can sustain i.e stomach on your day to day basis to improve at your pace in the long term. [:octicons-arrow-right-24: Routine management in Immersion](routine manager.md)
 !!! question "Am I looking forward to my main language activity today?"
 
     If the answer is consistently no, then in most cases change your activity, unless you can sustain it, considering [Cost of "optimal" methods](#cost-of-optimal-methods)

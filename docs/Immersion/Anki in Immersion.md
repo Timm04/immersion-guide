@@ -19,6 +19,28 @@ Anki should always make up less time than your immersion time. You don't want to
 
 Don't spend more than one hour in Anki. 
 
+### <span style="color: var(--md-typeset-a-color);">When you *can* stop doing Anki</span>
+
+!!! info "Intermediate Learners"
+
+    This section is targeted at "intermediate" learners.
+
+Anki is always good to do. It doesn't hurt learning new words everyday, but after doing a lot of immersion you will reach a point where new cards in Anki have such a high frequency that they are barely used in your target language. You would *usually* get "nothing" out of learning these words because they are so rare. Here you have two choices:
+
+1. Continue learning these rare words if you learning them has some value for you. Reference the [:octicons-arrow-right-24: total life time utility model](roadmap.md#total-life-time-utility-model).
+
+2. Suspend the rare words and focus only on reviewing your existing cards and mining more common words instead. Being an intermediate you can better judge if a word is rare but still used or actually really rare and unused.
+
+But there is also a third choice you have:
+
+3. Stop doing Anki completely.
+
+You could only do this and have minimal drawbacks if immersion is part of your daily life so much so the contents you are immersing with are part of who you are. At this point immersion isn't anymore about learning your target language but just a means to keep consuming what you are interested in. The target language is no longer a subject to be studied, but a medium for living. 
+
+Think of it like this: In your native language and day to day life you probably are not consuming content because you want to get better at your native language. You just want to keep up with your hobbies and interests, since you are already comfortable with your proficiency in your native language. You don't need to improve anymore because you "made it". You just do now what you feel like doing, which is mostly something in your native language because the content it provides to you are something part of who you are. If you reach this state with your target language then the need for Anki is omitted. 
+
+At that point you can pick up words perfectly fine like you can do with your native language and remember them easily without Anki. You hardly forget these words because you are comfortable with your level i.e proficient enough and constantly surrounded by the same domains in your target language that picking up new words doesn't require much effort.
+
 ---
 
 ## How many new cards should you do
