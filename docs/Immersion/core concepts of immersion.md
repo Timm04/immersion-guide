@@ -141,7 +141,7 @@ We'll use the last sections about „i+1“ as motivation for defining a guiding
 >
 > Step 2: don't do boring stuff"
 >
-> — Dinuz, January 2022
+> — Nunko, January 2022
 
 This quote here highlights one of the most if not the most important aspect of immersion. It reminds us that immersion, no language learning is at the end of the day a hobby you do for fun. While the goals for learning a foreign language might be different for everyone, the reason why people continue doing immersion does not. It's all fun after all. This is because with immersion we let **our interests guide us**. Unlike with school classes where we are most often forced to engage with material that is most often boring and not important to us personally in any way, with immersion we have the freedom to choose to immerse in everything we are interested in and thus enjoy it. 
 

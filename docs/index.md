@@ -33,7 +33,7 @@ My foremost thanks go to [天・Ten (Heaven)](https://www.ten.guide/) for provid
 
 Special thanks also to David, who approached me for guidance. By helping him with immersion, I found myself articulating the very ideas that form this guide. In a way, David helped me write this guide unconsciously. 
 
-More generally, I would like to thank every single person who has given others great advice on immersion over the years. They are the true inspiration for this guide. I would like to specifically thank JJ, Dai, Chronopolize, Jakku, Danex, Kuri, Tyogin, Nunko (Dinuz), Jsph, Jazzy, Pastor Sheshbesh and Julian for their input. 
+More generally, I would like to thank every single person who has given others great advice on immersion over the years. They are the true inspiration for this guide. I would like to specifically thank JJ, Dai, Chronopolize, Jakku, Danex, Kuri, Tyogin, Nunko, Jsph, Jazzy, Pastor Sheshbesh and Julian for their input. 
 
 Our community is full of hard working and talented people who have dedicated a large portion of their time for free to make language learning easier and more accessible. Alone for that I'm grateful to have met them.  
 

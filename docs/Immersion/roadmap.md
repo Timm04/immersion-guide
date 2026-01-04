@@ -8,6 +8,10 @@ It will suck. You will spend a lot of time pondering on basic grammar patterns a
 
 Similarly, the first time you sit down to watch a show in your target language will probably be more difficult than reading. If you are not rewatching, then you have to focus more on whats going on in a scene, people are talking fast and you just can't keep up or properly parse what you are hearing yet. But by repeatedly doing it while also doing reading your listening ability will improve. 
 
+!!! success "Immerse!!!"
+
+    Trying to understand something you are interested in [as much as you can](#how-to-get-the-most-out-of-immersion) and failing is discouraging. But as long as you keep immersing you are making progress, at the very least unconsciously. As long as you continue to put in effort in immersion that you [can enjoy](#how-to-improve) you're gonna make it!
+
 ---
 
 ## On enjoyment, efficiency and the "optimal" path
@@ -197,7 +201,7 @@ Usually you won't need to do this after having done immersion for months because
 
 ## How to improve
 
-Challenge yourself. [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the mining process](../Mining/step 1 read the sentence.md), do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
+Challenge yourself. Set [higher goals](routine manager.md#routine-management-in-immersion). [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the mining process](../Mining/step 1 read the sentence.md), do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
 
 More concretely this means referencing media recommendation sheets for your target language based on difficulty. Let say you read a book with difficulty 4/10 then try to find something that is one or two steps higher while letting your interest guide you.
 
