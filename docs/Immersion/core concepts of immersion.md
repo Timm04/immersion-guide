@@ -161,11 +161,26 @@ If you don't enjoy immersing with something, then it might be because it's eithe
 
 To express the idea of one having immersion material that is comprehensive (=enjoyable) to you and challenging enough to learn efficiently (=i+1-3) we use the following ratio:
 
-80-85% should be enjoyment(=comprehensive) and 15-20% should be challenging (=falling into that i+1-3 range). This ratio ensures and encapsulates everything we have talked about so far. This ratio changes person by person. Some people may be able to tolerate more ambiguity but can still enjoy what ever they are immersing with. While some people may lose enjoyment when they don't understand as much i.e can't tolerate as much ambiguity. Both worlds are fine and justifiable, for example sometimes you may want to immerse in something thats really hard for you because you know you would enjoy it. But then the question arises if you can justify your time spent reading more difficult stuff and maybe progressing slower that reading something easier that may not be as enjoyable but would make you progress faster. How to handle this dilemma will be discussed in #. For now take away the following:
+80-85% should be enjoyment(=comprehensive) and 15-20% should be challenging (=falling into that i+1-3 range). This ratio ensures and encapsulates everything we have talked about so far. 
+
+!!! note "This ratio changes person by person"
+
+    Some people may be able to tolerate more ambiguity but can still enjoy what ever they are immersing with. While some people may lose enjoyment when they don't understand as much i.e can't tolerate as much ambiguity. Both worlds are fine and justifiable, for example sometimes you may want to immerse in something thats really hard for you because you know you would enjoy it. But then the question arises if you can justify your time spent reading more difficult stuff and maybe progressing slower that reading something easier that may not be as enjoyable but would make you progress faster. How to handle this dilemma will be discussed in [Overall insights on Immersion Media](roadmap.md#total-life-time-utility-model). 
+    
+For now take away the following:
 
 Basically we are juggling enjoyment(=comprehensive) and challenging (=ambiguity). 
 To iterate again, enjoying something is another way to say you understand something enough to well enjoy it. 
-For something to be challenging can mean different things. Challenging can be when you know all the words but not the grammar in a sentence or vice versa. Challenging can be even when you understand every word and grammar but still need your time to understand what is actually being said for example missing some culture clue. What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well, i.e the impression will be greater than if you juggle multiple unknown pieces of information in a sentence which will make the context less impactful and more vague.
+
+Challenging can mean different things. 
+
+- Challenging can be when you know all the words but not the grammar in a sentence or vice versa. 
+
+- Challenging can be even when you understand every word and grammar but still need your time to understand what is actually being said for example missing some culture clue. 
+
+- Challenging can be when you think you understand everything in a sentence but nuances are flying above your head keeping you from grasping the real meaning. 
+
+What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well. That missing piece(s) of information will stick the better the impression, you understanding of the sentence, is. It will probably stick not as easy or even not at all if you juggle multiple unknown pieces of information in a sentence, a lot of ambiguity, which will make the context less impactful and more vague.
 
 Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing [How to start Immersion - Mining](How to start Immersion - Mining.md#how-to-start-immersion-mining).
 
