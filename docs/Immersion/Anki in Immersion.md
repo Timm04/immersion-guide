@@ -1,5 +1,31 @@
 # Anki in Immersion
 
+!!! tldr ""
+
+    - Learn a word in Anki :octicons-arrow-right-24: meet it multiple times again in immersion :octicons-arrow-right-24: *acquire* it forever. Anki is the *fuel* for your immersion not the engine. 
+
+    - Do less than 1 hour a day of Anki. Always immerse more than you do Anki.
+
+    - Start with 10 new cards. Adjust the amount to keep a 80-90% retention rate.
+
+    - Spend a maximum of 10 seconds per card. Aim for under 5 seconds.
+
+    - When immersion feels like "just living life", you can drop Anki without sizeable drawbacks.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: How to use Anki for Immersion](#how-to-use-anki-for-immersion)
+
+[2. :octicons-arrow-right-24: How much Anki you should do](#how-much-anki-you-should-do)
+
+[3. :octicons-arrow-right-24: How many new cards should you do](#how-many-new-cards-should-you-do)
+
+[4. :octicons-arrow-right-24: How much time should you spent per card](#how-much-time-should-you-spent-per-card)
+
+[5. :octicons-arrow-right-24: When you *can* stop doing Anki](#when-you-can-stop-doing-anki)
+
+---
+
 ## How to use Anki for Immersion
 
 You will never not forget information. To put it more simply one will always forget things. Thats the baseline of how things are. If you learn something then do nothing with it you will eventually forget it. Thats why we need Anki to remember things in the long term. 
@@ -29,7 +55,8 @@ You can but that time you spend reviewing what you already know is better spent 
 
 Anki should always make up less time than your immersion time. You don't want to spend a lot of time in Anki because there you only need to learn a new word. To make that actually stick you need to do immersion. That's why Anki should be make up 1/5 of your daily study time. 4/5 of the time should be spent immersing.
 
-Don't spend more than one hour in Anki. 
+!!! success "Don't spend more than one hour in Anki."
+     
 
 ### <span style="color: var(--md-typeset-a-color);">When you *can* stop doing Anki</span>
 
@@ -63,7 +90,7 @@ At that point you can pick up words perfectly fine like you can do with your nat
     - Aim for at least 80% retention, anything above 90% is optimal. 
     
     - If your retention is below 80% then do less cards.
-    
+
     - If your retention is above 90% then you can raise the amount of new cards or continue doing the same amount.
 
 For beginners:

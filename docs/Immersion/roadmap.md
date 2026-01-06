@@ -1,5 +1,27 @@
 # Overall insights on Immersion Media
 
+!!! tldr ""
+
+    1. Start with something familiar. For listening use sub-titled material in your target language at the beginning.
+    2. Keep a 70% reading / 30% listening split.
+    3. Prioritize enjoyment: If you dread todays' main immersion activity then change it so you can sustain yourself doing it.
+    4. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
+    5. Reflect on difficulty every week: If you want to improve (learn more words, grammar) then challenge yourself.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: Start with familiar stories](#start-with-familiar-stories)
+
+[2. :octicons-arrow-right-24: How much should you be reading and listening](#how-much-should-you-be-reading-and-listening)
+
+[3. :octicons-arrow-right-24: How to keep going - Enjoyment, Efficiency and "Optimal"](#how-to-keep-going-enjoyment-efficiency-and-optimal)
+
+[4. :octicons-arrow-right-24: How hard should you pay attention when immersing](#how-hard-should-you-pay-attention-when-immersing)
+
+[5. :octicons-arrow-right-24: How to improve](#how-to-improve)
+
+---
+
 ## What you can expect from your first immersion experience
 
 ![booksumeruimg](../assets/images/book_umoreru.png)
@@ -12,15 +34,13 @@ Similarly, the first time you sit down to watch a show in your target language w
 
     Trying to understand something you are interested in [as much as you can](#how-to-get-the-most-out-of-immersion) and failing is discouraging. But as long as you keep immersing you are making progress, at the very least unconsciously. As long as you continue to put in effort in immersion that you [can enjoy](#how-to-improve) you're gonna make it!
 
----
-
-## On enjoyment, efficiency and the "optimal" path
+## How to keep going - Enjoyment, Efficiency and "Optimal"
 
 Immersion encourages optimization. This is good but it gets to a point of people following the persuasive belief: 
 
 > "Efficiency is the absolute good."
 
-This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**. This is all flawed.
+This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**.
 
 !!! warning "What do you actually gain from it?"
 
@@ -32,7 +52,7 @@ This makes learners chase the "optimal path". Be it optimizing their Anki's SRS,
 ![utility diagramimg](../assets/images/utility%20diagram.png)
 </figure>
 
-Your immersion journey should be perceived as a system aimed at maximizing what keeps you the happiest and makes you going forward the longest. Maximize **total life time utility** (TLU). TLU isn't not just your final proficiency level, it's the sum of all good and bad experiences along your journey weighted by their duration and intensity. More precisely it includes:
+Your immersion journey can be perceived as a system aimed at maximizing what keeps you the happiest and makes you going forward the longest. Maximize **total life time utility** (TLU). TLU isn't not just your final proficiency level, it's the sum of all good and bad experiences along your journey weighted by their duration and intensity. More precisely it includes:
 
 - **Immediate Utility**: The enjoyment, drive to learn more about your target language, being in *zone* (flowing) while immersing.
 - **Cognitive cost**: The effort you put in, time invested, stress, doubt, motivation dropping.
@@ -40,7 +60,7 @@ Your immersion journey should be perceived as a system aimed at maximizing what 
 
 All of these components are at inter play with each other all the time. They feed into your central engine of high-quality engagement. This here determines whether you immerse for months or years or burn out in weeks.
 
-### <span style="color: var(--md-typeset-a-color);">Input is the reward, not the means</span>
+### <span style="color: var(--md-typeset-a-color);">Input is the reward not the means</span>
 
 There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between characters, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
 
@@ -110,7 +130,7 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
 - If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. You can sustain it since it captivates you and you are making progress. It builds skills and reinforces the habit that you will keep going.
 
-### <span style="color: var(--md-typeset-a-color);">Things to keep in mind</span>
+### <span style="color: var(--md-typeset-a-color);">How to practice sustainability</span>
 
 I'm not suggesting you to drop doing things like Anki because you maybe dreading it. [Anki is important](Anki in Immersion.md) and you should continue doing it unless you are more [advanced](Anki in Immersion.md#when-you-can-stop-doing-anki).  
 
@@ -131,12 +151,18 @@ You need to find out what you can sustain i.e stomach on your day to day basis t
 
 # How to make Immersion easier
 
-## Choose something you are already familiar with
+## Start with familiar stories
 By doing so you can reread or rewatch media and have an easier time picking up your target language because you're already familiar with the story and can now see how your target language expresses something you are already familiar with. This will be sort of like mapping what you already know to something new i.e your target language. 
 
 ---
 
-## Choosing immersion material
+## The more context the better
+
+1. [Visual Novels](https://en.wikipedia.org/wiki/Visual_novel)
+2. Shows with subtitles in your tl
+3. Comics (visual + text) 
+4. Pure audio / pure text
+
 The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this also includes audio and seeing something. Especially shows are great for this because you see whats going on, you have things like acting or characters you can see and music you hear as well as sound effects.
  
 **All of these add to the *immersion* of your immersion**, and help you make scenes more impactful for you to remember more words easier.
@@ -146,6 +172,7 @@ There are many different kinds of native media you can use for your immersion. A
 ---
 
 ## How much should you be reading and listening
+
 For the beginning, it's a good idea to make your immersion more reading focused so you can quickly learn more vocabulary to get the most out of your listening as well. Aim for a 65-70% reading-based and 30-35% listening-based split. For more in-depth look in [Why listening is hard](types of immersion.md#why-listening-is-hard).
 
 Generally this ratio changes a lot based on what you currently like to do. In the beginning you won't have many options in what you can immerse with, which can make immersion less appealing. However, your interest in learning your target language and the actual process of doing so should carry you through the initial stage.
@@ -226,7 +253,7 @@ If you think you found something that meets these criteria, then keep in mind [e
 !!! success "What to expect"
     Finding something to immerse in is a process by trial and error. Expect to drop media, switch mid way through to something different, starting something but never coming back to it. Don't feel bad about doing this and rather feel good about yourself that you are not immersing in something you cannot sustain i.e forcing yourself. As long as you keep immersing you're good. But remember to improve you have to challenge yourself.
 
-### Reading faster
+### Focus on comprehension and not reading speed
 
 Don't focus on reading speed, focus on comprehension. Reading speed reflects how much you comprehend and will naturally improve the more you comprehend. You focus on comprehension by [paying more attention while reading](#how-hard-should-you-pay-attention-when-immersing) and [reading more](types of immersion.md#solution-just-read-more).
 
@@ -331,3 +358,4 @@ Care for your health. Sleep enough. Stay hydrated. Get fresh air. Do some exerci
 *[SRS]: Space repetition system
 *[high-quality engagement]: Motivation, energy, sustainability
 *[i+1]: one unknown piece of information
+*[tl]: target language
