@@ -82,7 +82,7 @@ You can really notice your progress and improvement the most when revisiting the
 >
 > - Jsph, April 2022
 
-This quote here highlights an important aspect of setting yourself daily goals. Make them ridiculously small so you [just go immerse](roadmap.md#what-you-can-expect-from-your-first-immersion-experience) and you can hit your goals even on the busiest days you might have. The idea is to just go immerse 
+This quote here highlights an important aspect of setting yourself daily goals. Make them ridiculously small so you [just go immerse](roadmap.md#what-you-can-expect-from-your-first-immersion-experience) and you can hit your goals even on the busiest days you might have.
 
 **Start small**: Ask yourself what is the smallest amount you would easily manage to do. Let's say if you want to read for 3 hours, then it's not about one whole session where you have to fit in these 3 hours. You can break these 3 hours up into short 25 minute sessions with 5 minute pauses in between. This is called pomodoro and it works wonders!
 During these 5 minute pauses you should do something that doesn't relate with the 25 minute task. This can be walking around, getting something to drink or listening to music.
