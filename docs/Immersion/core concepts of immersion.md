@@ -22,7 +22,7 @@ Although this doesn't mean you should learn tons of vocab as in in the thousands
     
     - You know around 1000-1500 words. You could start off with less than 1k words as well but I wouldn't recommend it.
 
-    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea of how sentence structure and how your target language works.
+    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea of how sentence structure and your target language works.
     
     Combining these two factors builds a foundation comfortable enough to start immersing. 
 
