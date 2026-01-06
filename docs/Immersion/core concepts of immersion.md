@@ -53,7 +53,8 @@ To illustrate the process of how to mine, let's pretend we are learning a langua
 - "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
 By reading through this sentence you'll know that Maria's brother is quite and more reserved while Maria herself is the opposite as in *something (сөйләмчәк)* because she likes telling long, detailed stories, is talkative and always open to share. Through context you'll understand now that the word сөйләмчәк means something like loquacious or talkative. 
-Here the unknown piece of information (+1) was the word сөйләмчәк and your existing knowledge, about the English language, (i) was everything else in the sentence helping you understand the unknown piece of information.
+
+Here the unknown piece of information (i+1) was the word сөйләмчәк and your existing knowledge, about the English language, (i) was everything else in the sentence helping you understand the unknown piece of information.
 Essentially you learned the word through context using your existing knowledge. We found the ideal type of sentence where you have a good understanding of the entire message of the sentence except for one missing piece of information you are trying to learn. 
 
 **Doing immersion is basically trying to have as many moments like this (i+1 sentences) as possible.** This is the *most optimal* case speaking from an efficiency standpoint. 
@@ -66,19 +67,17 @@ In reality, coming by true i+1 sentences where you know almost everything except
 
 We are going to expand on the concept of i+1 by allowing ourself to not only have one missing piece of information in a given sentence but perhaps multiple. Meaning we would be exposed to more ambiguity. Using the example from before, [What "comprehensible enough" means](#what-comprehensible-enough-means-i1), sentences could look like this
 
-Sentence A with two unknown pieces of information (i+2): 
+=== "Sentence A with i+2" 
 
-- "торса да her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
+    "торса да her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
-Furthermore:
-Sentence B with three unknown pieces of information (i+3): 
+=== "Sentence B i+3"
 
-- "торса да her brother was quiet and reserved, Maria was incredibly сөйләмчәк, сөйләгән long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
+    "торса да her brother was quiet and reserved, Maria was incredibly сөйләмчәк, сөйләгән long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
-Sometimes even like this:
-Sentence C with n unknown pieces of information (i+n): 
-
-- "Her brother энесе тыныч һәм reserved торса да, Maria бик сөйләмчәк иде. Ул кичке аш вакытында озын-озын детальле хикәяләр сөйләгән, easily strangers белән сөйләшкән and always having an opinion to share."
+=== "Sentence C with i+n"
+    Sometimes even like this:
+    "Her brother энесе тыныч һәм reserved торса да, Maria бик сөйләмчәк иде. Ул кичке аш вакытында озын-озын детальле хикәяләр сөйләгән, easily strangers белән сөйләшкән and always having an opinion to share."
 
 **Now how did you feel when reading through these kind of sentences?**
 
@@ -86,7 +85,8 @@ For sentence A, you were maybe a bit lost but overall you could probably underst
 
 For sentence B, you were maybe more confused but still hanging on. It's more challenging but you could still infer that "сөйләгән" would mean something like "to talk/to tell". If you had a dictionary you could very well look up what you don’t know and understand the overall meaning or maybe the whole sentence.
 
-While for the i+n sentence, you probably felt overwhelmed and lost. Even a dictionary wouldn't help at that point to understand the overall meaning of the sentence. There is just too much ambiguity to use the sentence, or context, to infer some kind of meaning. This is no longer comprehensible but just whitenoise.
+!!! failure "Avoid these"
+    While for the i+n sentence, you probably felt overwhelmed and lost. Even a dictionary wouldn't help at that point to understand the overall meaning of the sentence. There is just too much ambiguity to use the sentence, or context, to infer some kind of meaning. This is no longer comprehensible but just unintelligible whitenoise.
 
 ---
 
@@ -94,10 +94,7 @@ While for the i+n sentence, you probably felt overwhelmed and lost. Even a dicti
 
 What I want you to take away from this little exercise is that **immersion is not about comprehending every sentence perfectly. It's also fine to just get the gist sometimes**. It's fine to not understand every sentence perfectly every single time, what matters is **putting in the effort into trying to understand a sentence completely**. The effort is you looking up words using a dictionary and putting in cognitive effort to infer and deduce meaning based on the given information. You must learn to be comfortable not knowing everything in a sentence every time and just absorb whatever you understood. In a way doing immersion is **tolerating this specific kind of ambiguity**. 
 
-Note:
-A tool helping you to do put in the effort to understand a sentence will be introduced later. As well as how to actually deal with ambiguity and how do you know when you got the gist will be discussed in later sections.
-
-For now think of it as food. You don't need a perfectly scientifically mutinously crafted gourmet meal every time (i+1). What you generally need is a nutritious homemade meal that makes you full (a sentence you put effort into to understand completely). Sometimes you have a snack (catching just the gist). Sometimes you try a new spice you're unsure about (an expression you look up using the aforementioned tool). Bottom line is it all nourishes you. It all helps you acquire the target language.
+For now think of it as food. You don't need a perfectly scientifically mutinously crafted gourmet meal every time (i+1). What you generally need is a nutritious homemade meal that makes you full (a sentence you put effort into to understand completely). Sometimes you have a snack (catching just the gist). Sometimes you try a new spice you're unsure about (an expression you look up). Bottom line is it all nourishes you. It all helps you acquire the target language.
 
 !!! warning "Snacking in moderation"
 
@@ -185,3 +182,9 @@ What challenging means in immersion, is having content where most sentences, if 
 Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing [How to start Immersion - Mining](How to start Immersion - Mining.md#how-to-start-immersion-mining).
 
 ---
+
+*[i+1]: one unknown piece of information
+*[i+2]: two unknown pieces of information
+*[i+3]: three unknown pieces of information
+*[i+n]: n unknown pieces of information
+*[i+1-3]: one to three unknown pieces of information

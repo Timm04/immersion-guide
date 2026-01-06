@@ -19,6 +19,12 @@ Immerse.
 
 ---
 
+## I finished my reviews in Anki should I do a custom study and do more reviews for the day?
+
+You can but that time you spend reviewing what you already know is better spent immersing and learning new things.
+
+---
+
 ## How much Anki you should do
 
 Anki should always make up less time than your immersion time. You don't want to spend a lot of time in Anki because there you only need to learn a new word. To make that actually stick you need to do immersion. That's why Anki should be make up 1/5 of your daily study time. 4/5 of the time should be spent immersing.
