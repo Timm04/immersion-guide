@@ -1,3 +1,31 @@
+!!! tldr ""
+
+    1. You don't have to be smart or have a degree to be able to learn a language. This whole thing is not *that* complicated.
+
+    2. The method "immersion" is a powerful method allowing you to acquire a language quickly and efficiently like no other method.
+
+    3. This guide exists to fill the gap left by most immersion guides by explaining **why** immersion works and **how** to go about it so you can learn the language with as little unnecessary mental strain as possible. It aims to equip you with the right mindset.
+
+    4. Motivation is the most important aspect. To learn a language you need to put in hours in the thousands to be proficient and being motivated gets you there.
+
+    5. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
+
+    6. Immersion is a hike you embark on being guided by **your own** interests. It's **your** journey that has no time limit nor is supposed to meet arbitrary standards you should full fill. Everybody's lifestyle, circumstances, goals and motivations are different thus shaping how each person learns a language. There is noting wrong or to feel bad about in that.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: The trifecta](#the-trifecta)
+
+[2. :octicons-arrow-right-24: The power of Immersion](#the-power-of-immersion)
+
+[3. :octicons-arrow-right-24: The mental toil of "Just trust the process"](#the-mental-toil-of-just-trust-the-process) and [What guides miss](#what-guides-miss)
+
+[4. :octicons-arrow-right-24: Judge your own motivation - Look inward](#judge-your-own-motivation-look-inward)
+
+[6. :octicons-arrow-right-24: Essence of immersion - Learn and hike](#essence-of-immersion-learn-and-hike)
+
+---
+
 ## The power of Immersion
 
 The language learning method immersion is one of or even the most powerful language learning method there is. It allows you to acquire a language on a intuitive and effortless level almost like a native in great speeds no other method allows you. To illustrate the speed aspect of the method, let's look at the [Japanese Language Proficiency Test](https://www.jlpt.jp/e/).
