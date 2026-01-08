@@ -29,7 +29,7 @@ Further reading:
 [6. :octicons-arrow-right-24: Squeezing in immersion time](#squeezing-in-immersion-time)
 
 
-## Routine management in Immersion
+## Routine management in immersion
 
 From the earlier sections, we now understand that freedom plays a big role in immersion. Being able to carve out your own path by being the one who chooses what to immerse with and from what to learn puts you in the role of being in charge. You are responsible for yourself. Especially when it comes to undertaking something as big as teaching yourself a new language. 
 This calls for a structured approach, consistency and achievable goals you set yourself that also reflect your approach. Inevitably when talking about these things failure looms behind it, so it's important to also understand and see what failing really entails to bounce back from and use it to your advantage!
@@ -100,7 +100,7 @@ When you are stressed or tired you autopilot and default back to your day to day
 
 ### How to make goals easier for you
 
-#### <span style="color: var(--md-typeset-a-color);">Engineer Your Environment</span>
+#### <span style="color: var(--md-typeset-a-color);">Engineer your environment</span>
 
 To make you more likely to achieve your habit reduce friction in your environment. This means making the barrier of entry for your goal as easy as possible.
 This can be immersing being a few clicks away from doing. Having your immersion material be always open in the background or installing Anki on your phone so you can always do it. You might want to use programs to block out distractions on your devices. You can also create new accounts for social media specifically for your target language so you always surrounded by native content ready to be immersed with.

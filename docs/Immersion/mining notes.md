@@ -2,7 +2,7 @@
 
     *summary to be added*
 
-## An Overview of Mining
+## An overview of mining
 
 <figure markdown="span", class="miningoverview-img">
   [![miningoverviewimg](../assets/images/miningoverview.png)](../assets/images/miningoverview.png)

@@ -26,7 +26,7 @@ Further reading:
 
 ---
 
-## The power of Immersion
+## The power of immersion
 
 The language learning method immersion is one of or even the most powerful language learning method there is. It allows you to acquire a language on a intuitive and effortless level almost like a native in great speeds no other method allows you. To illustrate the speed aspect of the method, let's look at the [Japanese Language Proficiency Test](https://www.jlpt.jp/e/).
 
@@ -34,7 +34,7 @@ According to Google it takes around 3000-4500+ hours to pass the highest level f
 
 ---
 
-## Problematic of the current Immersion method landscape
+## Problematic of the current immersion method landscape
 
 Currently out of all the immersion language learning communities, only the Japanese one has so far established itself as a sizeable and growing community dedicated to immersion learning by actively creating new tools targeted towards immersion learning and writing guides, yet even they don't have a full definition of how one should do immersion. Most guides just tell you what exactly you have to do without explaining why immersion works in the first place. How to deal with problems that could arise while doing immersion and what kind of mindset you should take on are mostly neglected or completely missing. If you go around asking long time learners for advice on immersion and how to "make it" you will realize the following: 
 
@@ -46,7 +46,7 @@ This creates a big problem for new comers to start learning not only Japanese bu
 
 ---
 
-## The mental toil of "Just trust the process"
+## The mental toil of "just trust the process"
 
 ![kuyamigoto](../assets/images/nayamigoto.png)
 

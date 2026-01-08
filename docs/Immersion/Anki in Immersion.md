@@ -1,4 +1,4 @@
-# Anki in Immersion
+# Anki in immersion
 
 !!! tldr ""
 
@@ -32,7 +32,7 @@ Further reading:
     
     Low frequency word = a word that is rarely used
 
-## How to use Anki for Immersion
+## How to use Anki for immersion
 
 You will never not forget information. To put it more simply one will always forget things. Thats the baseline of how things are. If you learn something then do nothing with it you will eventually forget it. Thats why we need Anki to remember things in the long term. 
 
@@ -45,7 +45,7 @@ Anki doesn't replace your immersion.
 
 ---
 
-## I finished my anki for the day what now?
+## I finished my Anki for the day what now?
 
 Immerse.
 

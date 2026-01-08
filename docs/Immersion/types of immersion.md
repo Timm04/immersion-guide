@@ -26,7 +26,7 @@ Further reading:
 
 ---
 
-# Types of Immersion
+# Types of immersion
 
 Immersion can be either reading or listening. Some guides further subdivide these into 3 types:
 
@@ -90,7 +90,7 @@ Now having read through all of these accounts, you probably feel confused since 
 
 ---
 
-## Freedom with Immersion
+## Freedom with immersion
 
 The point I want you to realize is that the confusion on what to immerse in is **the freedom you have with immersion**. You have this confusion because of the freedom of choice you have with what kind of media you can immersion with. You navigate through this freedom by letting your motivation i.e the fun you are having guide you, without overthinking too much on the method or details. This is because **Immersion is actually not *that* deep**. 
 

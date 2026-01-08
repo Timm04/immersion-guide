@@ -1,4 +1,4 @@
-# Overall insights on Immersion Media
+# Overall insights on immersion media
 
 !!! tldr ""
 
@@ -42,7 +42,7 @@ Similarly, the first time you sit down to watch a show in your target language w
 
     Trying to understand something you are interested in [as much as you can](#how-to-get-the-most-out-of-immersion) and failing is discouraging. But as long as you keep immersing you are making progress, at the very least unconsciously. As long as you continue to put in effort in immersion that you [can enjoy](#how-to-improve) you're gonna make it!
 
-## How to keep going - Enjoyment, Efficiency and "Optimal"
+## How to keep going - Enjoyment, efficiency and "optimal"
 
 Immersion encourages optimization. This is good but it gets to a point of people following the persuasive belief: 
 

@@ -1,4 +1,4 @@
-# Core concepts of Immersion
+# Core concepts of immersion
 
 !!! tldr ""
 
@@ -32,7 +32,7 @@ Further reading:
 
 [6. :octicons-arrow-right-24: Enjoyment as a metric for comprehension](#enjoyment-as-a-metric-for-comprehension) and [the ratio](#the-ratio)
 
-## When to start Immersion
+## When to start immersion
 
 Because of this guide’s general approach, I can’t pinpoint a specific level at which you can or should start immersion. Even for a specific language, it is still hard to identify and define a level of proficiency that is best suited for diving into easy native material. As such, I can only say: **You start when you feel ready**.
 

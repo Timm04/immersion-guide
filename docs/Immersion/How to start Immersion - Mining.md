@@ -1,4 +1,4 @@
-# How to start Immersion - Mining
+# How to start immersion - Mining
 
 ## How to learn words - Anki
 
@@ -10,7 +10,7 @@ Anki is a flashcard program that helps you spend more time on challenging materi
 
 ---
 
-## Main tool for Immersion - Yomitan
+## Main tool for immersion - Yomitan
 
 The browser addon Yomitan is a powerful and versatile pop-up dictionary for language learning used by 100,000+ language learners. It makes looking up words effortless and seamless whether you're reading a book, browsing the web or watching movies. Just hover and press a key to instantly see detailed definitions, word frequencies, native audio, examples sentence and more right where you are. With Yomitan's powerful [Anki flashcard integration](https://ankiweb.net/shared/info/2055492159 "https://ankiweb.net/shared/info/2055492159") you can turn your lookups into rich and beautifully formatted Anki flashcards and send them straight to your deck with single key presses. 
 

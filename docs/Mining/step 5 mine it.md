@@ -27,9 +27,9 @@ Now to make remembering the word you want to mine easier for yourself, you ask y
 
 You probably have experienced that "big enough impression" sentence yourself before. Maybe there was a movie you watched with a really impression lasting scene where a character said something really impactful to you which made some specific phrase or maybe just a word stick in your mind for a long time. In essence, these impactful moment i.e something you really comprehend makes a new word or phrase stick in your mind. **The stronger the context (the more you understand it) the easier time you have picking up this missing +1 piece.**
 
-#### <span style="color: var(--md-typeset-a-color);">Avoid high frequency words</span>
+#### <span style="color: var(--md-typeset-a-color);">Avoid low frequency words</span>
 
-If your goal is general fluency then avoid mining high frequencies words, because they wont help you anytime soon especially as a beginner or even intermediate. The higher the frequency of the word the less likely its used and the less natural it usually sounds.
+If your goal is general fluency then avoid mining high frequencies words, because they wont help you anytime soon especially as a beginner or even intermediate. The low the frequency of the word the less likely its used and the less natural it usually sounds.
 
 #### <span style="color: var(--md-typeset-a-color);">Checklist for mining</span>
 

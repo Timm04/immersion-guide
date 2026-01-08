@@ -1,4 +1,4 @@
-## How you can use this guide
+## How to Navigate This Guide
 
 Every section includes a summary of the topics at the top that will be discussed in that section. You can read the summary first to get an overview or last to check your understand depending on what you like most. You can use the summaries for quickly referencing topics as well. Feel free to jump around the guide! 
 

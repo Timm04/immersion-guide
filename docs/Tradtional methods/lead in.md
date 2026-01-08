@@ -1,5 +1,7 @@
 # Lead in
 
+## The idea behind the "prerequisites"
+
 To explain what immersion is I think it's best to look at what you're already familiar with and lead from there to what immersion is. I want to do this by showing you a language learning method you are most familiar with; the traditional classroom method.
 
 From there I want to show you how it performs and fails for language acquisition, giving you reasons not to practice it while providing you with another, better option you can take; the native approach.
