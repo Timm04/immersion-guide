@@ -20,8 +20,6 @@ Further reading:
 
 [3. 4. :octicons-arrow-right-24: Merits and demerits of the traditional method](#merits-and-demerits-of-the-traditional-method)
 
-[4. :octicons-arrow-right-24: How much time should you spent per card](#how-much-time-should-you-spent-per-card)
-
 [5. :octicons-arrow-right-24: The bottom line](#the-bottom-line)
 
 ## The traditional method
