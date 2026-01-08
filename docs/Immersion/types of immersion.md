@@ -1,3 +1,31 @@
+!!! tldr ""
+
+    1. Immersion is not *that* deep. Just immerse and let your motivation guide you. That's your freedom with immersion. You choose what to read or listen to.
+
+    2. It's a good idea to make your immersion more reading focused at the beginning. Reading = builds a solid base of the language; makes listening later easier.
+
+    3. Listening is difficult at the beginning; no solid base of the language (vocab, grammar etc.) and can't properly parse sounds. Listening becomes more training language comprehension than training listening ability; discouraging to pause and look up a lot.
+    
+    4. Focusing only on listening at the beginning will give you great pronunciation and good conversation skills, but you'll be limited by basic vocab and poor reading ability. 
+
+    5. The consequence: You reach a brick wall you can't break through because you lack the rich mental model of the language only reading can give you.
+
+    6. Just reading more solves most if not all problems. Reading and Listening are not two separate skills. You could say reading builds the mental model and listening uses that model. Mix both for best results.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: Freedom with Immersion](#freedom-with-immersion)
+
+[2. 3. :octicons-arrow-right-24: Why listening is hard](#why-listening-is-hard)
+
+[4. :octicons-arrow-right-24: Case study on people who mainly did listening over reading](#case-study-on-people-who-mainly-did-listening-over-reading)
+
+[5. :octicons-arrow-right-24: The consequence](#the-consequence)
+
+[6. :octicons-arrow-right-24: Solution: Just read more](#solution-just-read-more)
+
+---
+
 # Types of Immersion
 
 Immersion can be either reading or listening. Some guides further subdivide these into 3 types:
@@ -174,7 +202,7 @@ The interesting part is that reading-based immersion learners who also did some 
 >
 > - JJ
 
-Reading is a high quality exposure input channel. It allows for precise, slow mapping of words to meaning. it exposes you to wider, more complex, varied and more precise vocabulary and grammar. This foundation you got from reading then enables your listening. When you hear loads of sounds your brain now is matching it against a richer more detailed mental map. **You're not just parsing sounds; you are retrieving known words and structures.**
+Reading is a high quality exposure input channel. It allows for precise, slow mapping of words to meaning. It exposes you to wider, more complex, varied and more precise vocabulary and grammar. This foundation you got from reading then enables your listening. When you hear loads of sounds your brain now is matching it against a richer more detailed mental map. **You're not just parsing sounds; you are retrieving known words and structures.**
 
 This brings us to an important point.
 
