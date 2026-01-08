@@ -2,15 +2,15 @@
 
 !!! tldr ""
 
-    - Learn a word in Anki :octicons-arrow-right-24: meet it multiple times again in immersion :octicons-arrow-right-24: *acquire* it forever. Anki is the *fuel* for your immersion not the engine. 
+    1. Learn a word in Anki :octicons-arrow-right-24: meet it multiple times again in immersion :octicons-arrow-right-24: *acquire* it forever. Anki is the *fuel* for your immersion not the engine. 
 
-    - Do less than 1 hour a day of Anki. Always immerse more than you do Anki.
+    2. Do less than 1 hour a day of Anki. Always immerse more than you do Anki.
 
-    - Start with 10 new cards. Adjust the amount to keep a 80-90% retention rate.
+    3. Start with 10 new cards. Adjust the amount to keep a 80-90% retention rate.
 
-    - Spend a maximum of 10 seconds per card. Aim for under 5 seconds.
+    4. Spend a maximum of 10 seconds per card. Aim for under 5 seconds.
 
-    - When immersion feels like "just living life", you can drop Anki without sizeable drawbacks.
+    5. When immersion feels like "just living life", you can drop Anki without sizeable drawbacks.
 
 Further reading:
 
