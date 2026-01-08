@@ -1,4 +1,4 @@
-# Overall insights on immersion media
+# Overall Insights on Immersion Media
 
 !!! tldr ""
 
@@ -157,7 +157,7 @@ You need to find out what you can sustain i.e stomach on your day to day basis t
 
 ---
 
-# How to make Immersion easier
+# How to make immersion easier
 
 ## Start with familiar stories
 By doing so you can reread or rewatch media and have an easier time picking up your target language because you're already familiar with the story and can now see how your target language expresses something you are already familiar with. This will be sort of like mapping what you already know to something new i.e your target language. 
@@ -208,7 +208,7 @@ If, during this process, you are mining more than you are actively training your
 
 ---
 
-## Passive vs. Active Listening
+## Passive vs. active listening
 
 Passive listening is listening to your target language without paying active attention to what you're listening to. You are not following the story or thinking about it, you are just taking in the sounds while doing something else actively like cleaning or driving. It's not entirely clear to what extent passive listening helps you learn language.
 Even listing to audio at very low comprehension but still paying attention somewhat when doing a different task has unclear benefits. There are people who did a lot of passive listening and or very low comprehension audio based listening when starting out and they feel like that helped them to get used to listening itself while some say it didn't help them at all. 

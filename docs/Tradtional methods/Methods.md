@@ -1,4 +1,4 @@
-# The traditional method
+# The Traditional Method
 
 !!! tldr ""
 

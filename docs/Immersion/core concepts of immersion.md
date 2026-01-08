@@ -1,4 +1,4 @@
-# Core concepts of immersion
+# Core Concepts of Immersion
 
 !!! tldr ""
 

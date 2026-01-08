@@ -1,4 +1,4 @@
-# Anki in immersion
+# Anki in Immersion
 
 !!! tldr ""
 

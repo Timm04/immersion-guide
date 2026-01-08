@@ -1,4 +1,4 @@
-## The process of mining
+## The Process of Mining
 
 ![miningimg](../assets/images/mining.png)
 
