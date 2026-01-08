@@ -103,3 +103,8 @@ html {
     accent-color: #3f51b5;
 }
 
+/* Make TL;DR sections have bigger font */
+.md-typeset .admonition.tldr {
+    font-size: 0.8rem;
+}
+
