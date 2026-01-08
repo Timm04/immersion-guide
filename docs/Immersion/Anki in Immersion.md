@@ -28,9 +28,9 @@ Further reading:
 
 !!! note "Terminology for this section"
 
-    High frequency word = a word that is rarely used
+    High frequency word = a word that is commonly used
     
-    Low frequency word = a word that is commonly used
+    Low frequency word = a word that is rarely used
 
 ## How to use Anki for Immersion
 
@@ -74,7 +74,7 @@ Anki should always make up less time than your immersion time. You don't want to
 
     This section is targeted at "intermediate" learners.
 
-Anki is always good to do. It doesn't hurt learning new words everyday, but after doing a lot of immersion you will reach a point where new cards in Anki have such a high frequency that they are barely used in your target language. You would *usually* get "nothing" out of learning these words because they are so rare. Here you have two choices:
+Anki is always good to do. It doesn't hurt learning new words everyday, but after doing a lot of immersion you will reach a point where new cards in Anki have such a low frequency that they are barely used in your target language. You would *usually* get "nothing" out of learning these words because they are so rare. Here you have two choices:
 
 1. Continue learning these rare words if you learning them has some value for you. Reference the [:octicons-arrow-right-24: total life time utility model](roadmap.md#total-life-time-utility-model).
 
