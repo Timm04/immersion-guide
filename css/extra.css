@@ -43,11 +43,11 @@ html {
 
 /* Increase content width */
 .md-grid {
-    max-width: 71rem;
+    max-width: 72rem;
 }
 
 .md-main__inner {
-    max-width: 71rem;
+    max-width: 72rem;
 }
 
 /* Center standalone images in content */
@@ -107,4 +107,8 @@ html {
 .md-typeset .admonition.tldr {
     font-size: 0.8rem;
 }
-
+/* Add padding/margin to buttons */
+.md-typeset .md-button {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
