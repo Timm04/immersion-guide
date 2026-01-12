@@ -1,17 +1,5 @@
 .md-typeset ul li, .md-typeset ol li{
-    margin-bottom: 0;
-}
-
-/* Zoom out effect - 90% scale */
-html {
-    font-size: 135%;
-}
-
-/* Smaller font size on mobile */
-@media screen and (max-width: 768px) {
-    html {
-        font-size: 97%;
-    }
+    margin-bottom: 0em;
 }
 
 [data-md-color-scheme="default"] {
@@ -23,7 +11,8 @@ html {
 }
 
 .md-typeset blockquote {
-    border-left: .2rem solid hsl(262deg 47% 55%);
+	border-left: .2rem solid hsl(262deg 47% 55%);
+
 }
 
 [data-md-color-primary=blue-grey] {
@@ -35,29 +24,10 @@ html {
     --md-primary-bg-color--light: hsla(0,0%,100%,.7);
 }
 
-.md-banner {
-    padding: 1rem 0;
-}
-
 .md-banner__inner {
-    font-size: .8rem;
+    font-size: .7rem;
     margin: .1rem auto;
-    padding: 1.25rem .8rem;
-}
-
-/* Increase font size */
-.md-typeset {
-    font-size: 0.85rem;
-    line-height: 1.6;
-}
-
-/* Increase content width */
-.md-grid {
-    max-width: 72rem;
-}
-
-.md-main__inner {
-    max-width: 72rem;
+    padding: 0 .8rem;
 }
 
 /* Center standalone images in content */
@@ -102,28 +72,6 @@ html {
     display: flex;
     justify-content: center;
     margin: 1.5rem auto;
-}
-
-/* Style task list checkboxes */
-.md-typeset .task-list-control [type="checkbox"] {
-    accent-color: #3f51b5;
-}
-
-/* Make TL;DR sections have bigger font */
-.md-typeset .admonition.tldr {
-    font-size: 0.8rem;
-}
-
-/* Add padding/margin to buttons */
-.md-typeset .md-button {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-}
-
-/* Make immersion start callouts more prominent */
-.md-typeset .immersion_start {
-    font-size: 1.25rem;
-    font-weight: 600;
 }
 
 /* Soften question admonitions with neutral gray */
@@ -219,8 +167,17 @@ html {
     transition: opacity 0.2s ease;
 }
 
-/* Add spacing between navigation items */
-.md-nav__list > li {
-    margin-bottom: 0.35rem;
-    font-size: 0.75rem;
+/* Make TL;DR sections have bigger font */
+.md-typeset .admonition.tldr {
+    font-size: 0.78rem;
+}
+
+/* Increase content width */
+.md-grid {
+    max-width: 1600px;
+}
+
+/* Remove whitespace under headings */
+.md-typeset h1 {
+    margin-bottom: -0.65rem;
 }
