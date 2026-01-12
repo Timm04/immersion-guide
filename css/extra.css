@@ -1,5 +1,5 @@
 .md-typeset ul li, .md-typeset ol li{
-    margin-bottom: 0em;
+    margin-bottom: 0;
 }
 
 /* Zoom out effect - 90% scale */
@@ -16,8 +16,7 @@ html {
 }
 
 .md-typeset blockquote {
-	border-left: .2rem solid hsl(262deg 47% 55%);
-
+    border-left: .2rem solid hsl(262deg 47% 55%);
 }
 
 [data-md-color-primary=blue-grey] {
@@ -29,10 +28,14 @@ html {
     --md-primary-bg-color--light: hsla(0,0%,100%,.7);
 }
 
+.md-banner {
+    padding: 1rem 0;
+}
+
 .md-banner__inner {
-    font-size: .7rem;
+    font-size: .8rem;
     margin: .1rem auto;
-    padding: 0 .8rem;
+    padding: 1.25rem .8rem;
 }
 
 /* Increase font size */
@@ -43,11 +46,11 @@ html {
 
 /* Increase content width */
 .md-grid {
-    max-width: 72rem;
+    max-width: 71rem;
 }
 
 .md-main__inner {
-    max-width: 72rem;
+    max-width: 71rem;
 }
 
 /* Center standalone images in content */
@@ -58,18 +61,13 @@ html {
 }
 
 .plateau-img img {
-  width: 80%;
-  max-width: 1100px; /* adjust */
+    width: 80%;
+    max-width: 1100px;
 }
 
 .miningoverview-img img {
-  width: 80%;
-  max-width: 1100px; /* adjust */
-}
-
-.miningoverview-img img {
-  width: 80%;
-  max-width: 1100px; /* adjust */
+    width: 80%;
+    max-width: 1100px;
 }
 
 /* Larger images with specific class */
@@ -91,6 +89,7 @@ html {
     border-radius: 0.5rem;
     padding: 1rem 1.25rem;
 }
+
 /* Center mermaid flowcharts */
 .md-typeset .mermaid {
     display: flex;
@@ -107,6 +106,7 @@ html {
 .md-typeset .admonition.tldr {
     font-size: 0.8rem;
 }
+
 /* Add padding/margin to buttons */
 .md-typeset .md-button {
     margin-top: 0.5rem;
@@ -212,3 +212,8 @@ html {
     transition: opacity 0.2s ease;
 }
 
+/* Add spacing between navigation items */
+.md-nav__list > li {
+    margin-bottom: 0.35rem;
+    font-size: 0.75rem;
+}
