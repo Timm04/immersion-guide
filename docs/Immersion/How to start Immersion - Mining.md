@@ -39,14 +39,14 @@ The browser addon Yomitan is a powerful and versatile pop-up dictionary for lang
 
 - "Mining deck" = your own unique Anki deck which contains all things you mined from immersion.
 
-- "To mine (something) = creating a flashcard of something you didn't know, for example a word, with Yomitan and adding it to your mining deck.
+- "To mine (something)" = creating a flashcard of something you didn't know, for example a word, with Yomitan and adding it to your mining deck.
 
 ---
 
 !!! question "How does mining look like?"
 !!! question "When and what should I exactly mine?"
 
-These questions alongside others will be answered during the [:octicons-arrow-right-24: process of mining](mining notes.md).
+These questions alongside others will be answered during the [:octicons-arrow-right-24: Process of mining](mining notes.md).
 
 ---
 
