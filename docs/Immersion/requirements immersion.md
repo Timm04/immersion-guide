@@ -36,8 +36,7 @@ Further reading:
 In this section I will give you a flowchart you can follow to go through before starting immersion (=consuming content made by natives for natives in your target language that is comprehensible enough, enjoyable and somewhat challenging). For each step I'll explain what to do and what to look out for before moving to the next step. 
 
 <figure markdown="span", class="miningoverview-img">
-  ![immersionstart](../assets/images/immersionstart.png)
-  <figcaption>Roadmap before starting immersion</figcaption>
+  ![immersionstart](../assets/images/immersionstart.png)<figcaption>Roadmap before starting immersion</figcaption>
 </figure>
 
 !!! abstract "Disclaimer from [Home](../index.md)"
