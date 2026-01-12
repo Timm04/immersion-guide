@@ -12,7 +12,6 @@ Welcome to Immersion-Based Language Learning, a website made for people interest
   ![fudeimg](assets/images/fude.png)
 </figure>
 
-
 This guide lays the groundwork for what immersion is and how it works while aiming to provide you with the right and healthy mindset how to approach immersion to study your target language. It's written in such a way that it can be applied to acquire any language that has a writing system, without changing the underlying concepts of the immersion method. 
 
 Think of this guide as a paint brush. You use this paint brush (method and mindset) so *you* can paint (acquire your target language). But what kind of language resources (colors) you end up using will depend on your target language, so please refer to a language specific immersion guide for concrete resources and setup guides.
