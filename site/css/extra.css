@@ -10,7 +10,7 @@ html {
 /* Smaller font size on mobile */
 @media screen and (max-width: 768px) {
     html {
-        font-size: 95%;
+        font-size: 97%;
     }
 }
 
