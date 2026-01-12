@@ -17,13 +17,13 @@ nav:
     - Before starting immersion: 'Immersion/requirements immersion.md'
     - Principles of Immersion: 'Immersion/core concepts of immersion.md'
     - How to start Immersion: 'Immersion/How to start Immersion - Mining.md'
-    - 'Mining':
+    - 'The Process of Mining':
       - Overview of Mining: 'Immersion/mining notes.md'
       - Read the sentence: 'Mining/step 1 read the sentence.md'
       - Check your understanding: 'Mining/step 2 comprehension check.md'
       - Use Yomitan: 'Mining/step 3 yomitan.md'
       - Reread the sentence: 'Mining/step 4 reread sentence.md'
-      - Mining: 'Mining/step 5 mine it.md'
+      - How to mine: 'Mining/step 5 mine it.md'
       - Spend more time to understand: 'Mining/step 6 spending more time.md'
       - Moving on after not understanding: 'Mining/step 7 move on.md'
       - Appendix for Mining: 'Immersion/appendix mining.md'
@@ -32,6 +32,8 @@ nav:
     - Overall Insights on Immersion Media: 'Immersion/roadmap.md'
     - Manage your Immersion: "Immersion/routine manager.md"
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   features:
     - navigation.top
@@ -45,13 +47,13 @@ theme:
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/weather-night
+        icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/weather-sunny
+        icon: material/brightness-4
         name: Switch to light mode
 markdown_extensions:
   - abbr
