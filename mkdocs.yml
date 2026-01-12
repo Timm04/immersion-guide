@@ -6,25 +6,25 @@ repo_name: Open a pull request
 nav:
   - Home: 'index.md'
   - How to Use This Guide: 'Introduction/navigation help.md'
-  - Why Motivation Matters: 'Introduction/problematic surrounding immersion.md'
+  - Why Mindset Matters: 'Introduction/problematic surrounding immersion.md'
   - 'Before You Begin':
     - Lead In: 'Tradtional methods/lead in.md'
-    - Why Traditional Methods fail: 'Tradtional methods/Methods.md'
+    - Why Traditional Methods Fail: 'Tradtional methods/Methods.md'
     - The Native Language Approach: 'Native Language/how natives are made.md'
   - 'Immersion Method':
     - Defining Immersion: 'Definition of immersion/immersion definition.md'
     - Getting Started: 'Immersion/requirements immersion.md'
     - Core Principles: 'Immersion/core concepts of immersion.md'
-    - How to start Immersion: 'Immersion/How to start Immersion - Mining.md'
+    - How to Start Immersion: 'Immersion/How to start Immersion - Mining.md'
     - 'Mining Step-by-Step':
       - Mining Overview: 'Immersion/mining notes.md'
-      - Read the sentence: 'Mining/step 1 read the sentence.md'
-      - Check your understanding: 'Mining/step 2 comprehension check.md'
+      - Read the Sentence: 'Mining/step 1 read the sentence.md'
+      - Check Your Understanding: 'Mining/step 2 comprehension check.md'
       - Use Yomitan: 'Mining/step 3 yomitan.md'
-      - Reread the sentence: 'Mining/step 4 reread sentence.md'
-      - How to mine: 'Mining/step 5 mine it.md'
-      - Spend more time to understand: 'Mining/step 6 spending more time.md'
-      - Moving on after not understanding: 'Mining/step 7 move on.md'
+      - Reread the Sentence: 'Mining/step 4 reread sentence.md'
+      - How to Mine: 'Mining/step 5 mine it.md'
+      - Spend more Time to Understand: 'Mining/step 6 spending more time.md'
+      - Moving on After not Understanding: 'Mining/step 7 move on.md'
       - Appendix for Mining: 'Immersion/appendix mining.md'
     - Reading vs. Listening: 'Immersion/types of immersion.md'
     - Using Anki in Immersion: 'Immersion/Anki in Immersion.md'
@@ -41,6 +41,11 @@ theme:
     - navigation.footer
     - content.tabs.link
     - palette.toggle
+    - navigation.instant
+    - navigation.instant.progress
+    - search.suggest
+    - search.highlighting
+    - search.share
   palette:
     - scheme: default
       primary: indigo
