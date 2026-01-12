@@ -1,5 +1,3 @@
-# Anki in Immersion
-
 !!! tldr ""
 
     1. Learn a word in Anki :octicons-arrow-right-24: meet it multiple times again in immersion :octicons-arrow-right-24: *acquire* it forever. Anki is the *fuel* for your immersion not the engine. 

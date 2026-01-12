@@ -172,11 +172,6 @@
     font-size: 0.78rem;
 }
 
-/* Increase content width */
-.md-grid {
-    max-width: 1600px;
-}
-
 /* Remove whitespace under headings */
 .md-typeset h1 {
     margin-bottom: -0.65rem;

@@ -1,5 +1,3 @@
-# Overall Insights on Immersion Media
-
 !!! tldr ""
 
     1. Start with something familiar. For listening use sub-titled material in your target language at the beginning.

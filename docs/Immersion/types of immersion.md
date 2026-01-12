@@ -1,5 +1,3 @@
-# Types of Immersion
-
 !!! tldr ""
 
     1. Immersion is not *that* deep. Just immerse and let your motivation guide you. That's your freedom with immersion. You choose what to read or listen to.

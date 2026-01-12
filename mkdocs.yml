@@ -4,21 +4,20 @@ repo_url: https://github.com/Timm04/immersion-based-language-learning.git
 site_author: Timm
 repo_name: Open a pull request
 nav:
-  - 'Foreword':
-    - Home: 'index.md'
-    - Guide: 'Introduction/navigation help.md'
-    - Motivation: 'Introduction/problematic surrounding immersion.md'
-  - 'Prerequisites':
+  - Home: 'index.md'
+  - How to Use This Guide: 'Introduction/navigation help.md'
+  - Why Motivation Matters: 'Introduction/problematic surrounding immersion.md'
+  - 'Before You Begin':
     - Lead In: 'Tradtional methods/lead in.md'
-    - Traditional Method: 'Tradtional methods/Methods.md'
-    - How Natives Are Made: 'Native Language/how natives are made.md'
-  - 'Immersion Guide':
-    - What is Immersion: 'Definition of immersion/immersion definition.md'
-    - Before starting immersion: 'Immersion/requirements immersion.md'
-    - Principles of Immersion: 'Immersion/core concepts of immersion.md'
+    - Why Traditional Methods fail: 'Tradtional methods/Methods.md'
+    - The Native Language Approach: 'Native Language/how natives are made.md'
+  - 'Immersion Method':
+    - Defining Immersion: 'Definition of immersion/immersion definition.md'
+    - Getting Started: 'Immersion/requirements immersion.md'
+    - Core Principles: 'Immersion/core concepts of immersion.md'
     - How to start Immersion: 'Immersion/How to start Immersion - Mining.md'
-    - 'The Process of Mining':
-      - Overview of Mining: 'Immersion/mining notes.md'
+    - 'Mining Step-by-Step':
+      - Mining Overview: 'Immersion/mining notes.md'
       - Read the sentence: 'Mining/step 1 read the sentence.md'
       - Check your understanding: 'Mining/step 2 comprehension check.md'
       - Use Yomitan: 'Mining/step 3 yomitan.md'
@@ -27,10 +26,10 @@ nav:
       - Spend more time to understand: 'Mining/step 6 spending more time.md'
       - Moving on after not understanding: 'Mining/step 7 move on.md'
       - Appendix for Mining: 'Immersion/appendix mining.md'
-    - Types of Immersion: 'Immersion/types of immersion.md'
-    - Anki in Immersion: 'Immersion/Anki in Immersion.md'
-    - Overall Insights on Immersion Media: 'Immersion/roadmap.md'
-    - Manage your Immersion: "Immersion/routine manager.md"
+    - Reading vs. Listening: 'Immersion/types of immersion.md'
+    - Using Anki in Immersion: 'Immersion/Anki in Immersion.md'
+    - Choosing Immersion Content: 'Immersion/roadmap.md'
+    - Managing Your Routine: "Immersion/routine manager.md"
 theme:
   icon:
     repo: fontawesome/brands/github

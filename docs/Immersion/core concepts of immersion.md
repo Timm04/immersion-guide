@@ -1,5 +1,3 @@
-# Principles of Immersion
-
 !!! tldr ""
 
     1. Choose native media that is "comprehensible enough": Content that is *slightly* above your level = sentences where you don't know at least one thing, allowing you to use the context and sentence itself (=your existing knowledge and comprehension) to infer the unknown piece of information (=something new you learn like a word) in the same sentence. These sentences are called "i+1".

@@ -1,5 +1,3 @@
-# Before starting immersion
-
 !!! tldr ""
 
     1. Optional: Learn enough of the writing system to read somewhat.
@@ -232,6 +230,6 @@ Another way could be after having learned your target language to some extent in
 
 !!! question "What should I look for in immersion media?"
 
-These questions will be answered in the next section [:octicons-arrow-right-24: Principles of Immersion](core concepts of immersion.md#principles-of-immersion).
+These questions will be answered in the next section [:octicons-arrow-right-24: Principles of Immersion](core concepts of immersion.md).
 
 ---
