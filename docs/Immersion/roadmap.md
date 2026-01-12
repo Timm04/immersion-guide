@@ -219,7 +219,7 @@ However it is pretty clear that active listening does helps. Active listening re
 
 ## A disclaimer for grammar
 
-To start immersion, it is enough to familiarize yourself with basic grammar patterns and sentence structure of your target language. Feel free to jump between different grammar resources and see what works for yourself. The goal of the [initial stage](core concepts of immersion.md#when-to-start-immersion) before immersion is not to understand grammar completely and fully. What matters is a rough and basic enough foundation to get you started. Don't [get lost in the technical of choosing the best grammar](#input-is-the-reward-not-the-means) at the beginning, and just pick something you like. You'll solidify and *acquire* grammar later through immersion anyways because of [the "magic" in immersion](core concepts of immersion.md#the-magic-in-immersion).
+To start immersion, it is enough to familiarize yourself with basic grammar patterns and sentence structure of your target language. Feel free to jump between different grammar resources and see what works for yourself. The goal of the [building foundation stage](requirements immersion.md#building-a-foundation) before immersion is not to understand grammar completely and fully. What matters is a basic enough foundation to get you started. Don't [get lost in the technical of choosing the best grammar](#input-is-the-reward-not-the-means) at the beginning, and just pick something you like. You'll solidify and *acquire* grammar later through immersion anyways because of [the "magic" in immersion](core concepts of immersion.md#the-magic-in-immersion).
 
 !!! success "Further grammar study"
     Further grammar study should be done periodically as you encounter new grammar structures through immersion.
@@ -319,7 +319,7 @@ This is per se not harmful, but rather draining, because you end up spending mor
 
 For the people who would like to hyper analyze every sentence, *which is not bad*, I want to remind you of the [ambiguity problem](../Mining/step 2 comprehension check.md#the-ambiguity-problem). There is only so much you can learn from a sentence. You can look up unfamiliar words and analyze sentences, but you'll reach a limit. For this reason, after [spending time](../Mining/step%206%20spending%20more%20time.md#how-much-time-to-spend-per-sentence) (at max 3 minutes) on a sentence be it by hyper analyzing everything, *if you can manage that*, or by reading more casually but not settling for just the gist, you move on to the next sentence. More actually massive exposure (reading a ton) trains what matters *more* for language acquisition; intuition and pattern recognition. You will learn way more by reading more (after you spent your time on a sentence). 
 
-[:octicons-arrow-right-24: Flowing when immersing](mining notes.md#flowing-while-immersing)
+[:octicons-arrow-right-24: Flowing when immersing](appendix mining.md#flowing-while-immersing)
 
 [:octicons-arrow-right-24: The "magic" in immersion](core concepts of immersion.md#the-magic-in-immersion)
 

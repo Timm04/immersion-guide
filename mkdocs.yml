@@ -13,10 +13,12 @@ nav:
     - Traditional Method: 'Tradtional methods/Methods.md'
     - How Natives Are Made: 'Native Language/how natives are made.md'
   - 'Immersion Guide':
-    - Definition of Immersion: 'Definition of immersion/immersion definition.md'
-    - Core Concepts of Immersion: 'Immersion/core concepts of immersion.md'
+    - What is Immersion: 'Definition of immersion/immersion definition.md'
+    - Before starting immersion: 'Immersion/requirements immersion.md'
+    - Principles of Immersion: 'Immersion/core concepts of immersion.md'
+    - How to start Immersion: 'Immersion/How to start Immersion - Mining.md'
     - 'Mining':
-      - Tools to start: 'Immersion/How to start Immersion - Mining.md'
+      - Overview of Mining: 'Immersion/mining notes.md'
       - Read the sentence: 'Mining/step 1 read the sentence.md'
       - Check your understanding: 'Mining/step 2 comprehension check.md'
       - Use Yomitan: 'Mining/step 3 yomitan.md'
@@ -24,7 +26,7 @@ nav:
       - Mining: 'Mining/step 5 mine it.md'
       - Spend more time to understand: 'Mining/step 6 spending more time.md'
       - Moving on after not understanding: 'Mining/step 7 move on.md'
-      - Overview: 'Immersion/mining notes.md'
+      - Appendix for Mining: 'Immersion/appendix mining.md'
     - Types of Immersion: 'Immersion/types of immersion.md'
     - Anki in Immersion: 'Immersion/Anki in Immersion.md'
     - Overall Insights on Immersion Media: 'Immersion/roadmap.md'
@@ -81,6 +83,7 @@ markdown_extensions:
 extra_css:
   - css/extra.css
 extra_javascript:
+  - js/image-lightbox.js
   - https://unpkg.com/mermaid@10/dist/mermaid.min.js
   - js/mermaid-init.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6

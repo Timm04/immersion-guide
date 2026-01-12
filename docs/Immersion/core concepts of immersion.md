@@ -1,12 +1,10 @@
-# Core Concepts of Immersion
+# Principles of Immersion
 
 !!! tldr ""
 
-    1. Start immersion when you feel ready. (You roughly know around +1000-1500 words and have a basic understanding of grammar and sentence structure).
+    1. Choose native media that is "comprehensible enough": Content that is *slightly* above your level = sentences where you don't know at least one thing, allowing you to use the context and sentence itself (=your existing knowledge and comprehension) to infer the unknown piece of information (=something new you learn like a word) in the same sentence. These sentences are called "i+1".
 
-    2. Choose native media that is "comprehensible enough": Content that is *slightly* above your level = sentences where you don't know at least one thing, allowing you to use the context and sentence itself (=your existing knowledge and comprehension) to infer the unknown piece of information (=something new you learn like a word) in the same sentence. These sentences are called "i+1".
-
-    3. "i+1" sentences (a sentence where you don't know exactly one thing) are rare. Sentences that are "i+1-3" (=a sentence with 1 to 3 unknown pieces of information, meaning they have more ambiguity) are more common in real life.
+    2. "i+1" sentences (a sentence where you don't know exactly one thing) are rare. Sentences that are "i+1-3" (=a sentence with 1 to 3 unknown pieces of information, meaning they have more ambiguity) are more common in real life.
 
     3. Effort over 100% comprehension: Accept that at the beginning you can't understand everything every time, **but put effort into understanding every sentence and pay attention as much as you can.**
 
@@ -16,66 +14,52 @@
 
     6. Aim for roughly 85% enjoyment and 15% challenge in native content. Enjoyment is your comprehension meter.
 
-
-
 Further reading:
 
-[1. :octicons-arrow-right-24: When to start Immersion](#when-to-start-immersion)
+[1. :octicons-arrow-right-24: What "comprehensible enough" means - i+1](#what-comprehensible-enough-means-i1)
 
-[2. :octicons-arrow-right-24: What "comprehensible enough" means - i+1](#what-comprehensible-enough-means-i1)
+[2. :octicons-arrow-right-24: How i+1 is a motivating ideal but not reality](#how-i1-is-a-motivating-ideal-but-not-reality)
 
-[3. :octicons-arrow-right-24: How i+1 is a motivating ideal but not reality](#how-i1-is-a-motivating-ideal-but-not-reality)
+[3. :octicons-arrow-right-24: The „magic“ in immersion](#the-magic-in-immersion)
 
-[4. :octicons-arrow-right-24: The „magic“ in immersion](#the-magic-in-immersion)
+[4. :octicons-arrow-right-24: What to look for in immersion material - Importance of enjoyment](#what-to-look-for-in-immersion-material-importance-of-enjoyment)
 
-[5. :octicons-arrow-right-24: What to look for in immersion material - Importance of enjoyment](#what-to-look-for-in-immersion-material-importance-of-enjoyment)
-
-[6. :octicons-arrow-right-24: Enjoyment as a metric for comprehension](#enjoyment-as-a-metric-for-comprehension) and [the ratio](#the-ratio)
-
-## When to start immersion
-
-Because of this guide’s general approach, I can’t pinpoint a specific level at which you can or should start immersion. Even for a specific language, it is still hard to identify and define a level of proficiency that is best suited for diving into easy native material. As such, I can only say: **You start when you feel ready**.
-
-This could be after having learned the most frequent 1000 words in a language and having read through basic grammar guides. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent and rough foundation in the target language**.
-
-The cleanest and most recommended path to establish said foundation is by having done an Anki deck of the most frequent used words, while having done basic grammar study alongside. If you have some experience with your target language already then going through such an Anki deck and basic grammar study nonetheless doesn't hurt. 
-When doing these start Anki decks, it's best to not learn any vocab but actually frequently used vocab first, because it eases your way into doing immersion. The more frequent words you know the easier your first immersion experience will be. Same goes for grammar, the more you know about your target language's grammar the easer time you will have to parse and understand it.
-Although this doesn't mean you should learn tons of vocab as in in the thousands and memorize every grammar pattern there is to begin with. The goal in this stage is to get a **decent and rough foundation** not memorize the target language. [:octicons-arrow-right-24: A disclaimer for grammar](roadmap.md#a-disclaimer-for-grammar)
-
-!!! note "Language specific requirements"
-    
-    Depending on your target language you might need to learn the writing system or parts of it first before going through a vocab deck in Anki.
-
-!!! failure "The wrong way"
-
-    Memorizing and learning all the grammar of your target language and thousands upon thousands of vocab before actually immersing for the first time.
-
-!!! success "The right way - You start when"
-    
-    - You know around 1000-1500 words. You could start off with less than 1k words as well but I wouldn't recommend it.
-
-    - You have a rough understanding of your target language's grammar. You can name and recognize things like basic grammar particles and explain how they work. You have a rough idea of how sentence structure and your target language works.
-    
-    Combining these two factors builds a foundation comfortable enough to start immersing. 
-
-For Anki decks refer to [shared decks](https://ankiweb.net/shared/decks) or to your language specific immersion guide as immersion learning communities have their own starter deck and starter grammar resources.
-
-!!! warning "Giving up before it begins"
-    
-    During this process you will basically be doing only Anki alongside some grammar study. If you already start to hate Anki or doing grammar here, then you lost the beginner immersion mental game. The start before you can immerse is the hardest part.
+[5. 6. :octicons-arrow-right-24: Enjoyment as a metric for comprehension](#enjoyment-as-a-metric-for-comprehension) and [the ratio](#the-ratio)
 
 ---
 
+## Recap
+
+Before you can start using your [foundation](requirements immersion.md#building-a-foundation) to start immersing, we first need to go over how to choose what to immerse, define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) and answer our questions:
+
+!!! question "Why take explanations from beginner grammar guides at face value?"
+
+!!! question "How much challenge is too much and why is it part of the process?" 
+
+!!! question "How much should I understand at the beginning?"
+
+!!! question "What should I look for in immersion media?"
+
+In the section [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) we have established that immersion material has to be comprehensible enough and enjoyable. Here we are going to contextualize what comprehensible enough actually means and how to setup oneself for success.
+
 ## What "comprehensible enough" means - i+1
 
-Before you can start using your foundation to start immersing, we need to go over how to choose what to immerse in and for that we need to define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways). 
-
-In that last section we have established that immersion material has to be comprehensible enough and enjoyable. Here we are going to contextualize what comprehensible enough actually means so how to setup oneself for success.
-
 With immersion we are trying to create an environment where we are engaging with material that is optimally *slightly* above our level. The key here is slightly! For the beginning, this means to learn as effectively as possible we should not immerse in something too easy, because there wouldn't be any new information for us to learn from it, and not immerse in something too difficult, because we wouldn't be able too understand anything at all. This is the same with any learning process. 
-You have to build upon your existing knowledge i.e the **decent and rough foundation** you built in [When to start Immersion](#when-to-start-immersion) and use it to understand new kinds of information related to it. 
 
-This concept of using your existing knowledge to learn new information is referred to in immersion language learning as **i+1**. Hereby the i stands for your existing knowledge of the target language and the +1 stands for one information you don't know in a given sentence, basically meaning something that is *slightly* above your current level. That unknown piece of information (+1) can be a new grammar pattern, a new pronunciation of a known word, an idiom, or a cultural reference.
+You have to build upon your existing knowledge i.e the [foundation](requirements immersion.md#building-a-foundation) you built and use it to understand new kinds of information related to it. This actually goes way back to 1876:
+
+!!! abstract "Apperception"
+
+    “The new content of a section defined by its goal can only be made one’s own by the pupil with the help of the old and the familiar that he already possesses. Within the older material lie the conditions without which grasping the new understood as dependent on the former is not possible.”
+
+    — T. Ziller, Herbartian pedagogy 1876
+
+This concept of using your existing knowledge to learn new information is referred to in immersion language learning as **i+1**.
+
+- i = stands for your existing knowledge of the target language 
+
+- +1 = stands for one information you don't know in a given sentence. Basically meaning something that is *slightly* above your current level. That unknown piece of information (+1) can be a new grammar pattern, a new pronunciation of a known word, an idiom, or a cultural reference.
+
 The idea behind having one unknown information in a given sentence is that **you use the rest of the sentence i.e the context to understand the missing piece of information**. Here is an example:
 
 ### <span style="color: var(--md-typeset-a-color);">Example sentence</span>
@@ -90,6 +74,7 @@ Here the unknown piece of information (i+1) was the word сөйләмчәк and 
 Essentially you learned the word through context using your existing knowledge. We found the ideal type of sentence where you have a good understanding of the entire message of the sentence except for one missing piece of information you are trying to learn. 
 
 **Doing immersion is basically trying to have as many moments like this (i+1 sentences) as possible.** This is the *most optimal* case speaking from an efficiency standpoint. 
+
 
 ---
 
@@ -150,8 +135,7 @@ This is what learners who do immersion describe sometimes as magic. Even though 
     If you immediately recognized that this sentence contains a non-finite progressive passive formed with the "act upon" + preposition construction, combined with the strictly intransitive main predicate "end up ~" and the negated past-tense auxiliary "didn’t," then awesome, good job! But most native speakers couldn’t break it down like that.
     Does that mean they "don’t really know" English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.
 
-
-That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence as much as you can** but more on this in section [Whitenoising](mining notes.md#whitenoising).
+That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence as much as you can** but more on this in section [Whitenoising](appendix mining.md#whitenoising).
 
 The umbrella term for this is us training our **pattern recognition skills** which builds fluency. 
 
@@ -160,6 +144,8 @@ The umbrella term for this is us training our **pattern recognition skills** whi
     Acquisition of a language happens through tons of comprehensible immersion (exposure to the language) and seeing things like words and grammar hundreds amount of times in different contexts to grasp its full nuanced meaning.
 
 Think of it like transfer knowledge from school where you do different exercises. If you were to do all the same type of questions (i+1) then you would have trouble using your knowledge and transfer it to the exam (real world) where there could be different questions types. 
+
+[:octicons-arrow-right-24: A disclaimer for grammar](roadmap.md#a-disclaimer-for-grammar)
 
 ---
 
@@ -211,7 +197,7 @@ Challenging can mean different things.
 
 What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well. That missing piece(s) of information will stick the better the impression, you understanding of the sentence, is. It will probably stick not as easy or even not at all if you juggle multiple unknown pieces of information in a sentence, a lot of ambiguity, which will make the context less impactful and more vague.
 
-Everything comes down to your comprehension, so how do you comprehend something? What is the tool that helps you put in effort i.e comprehend a sentence? Introducing [How to start Immersion - Mining](How to start Immersion - Mining.md#how-to-start-immersion-mining).
+Everything comes down to your comprehension, so how do you comprehend something? Introducing [How To Start Immersion - Mining](How to start Immersion - Mining.md).
 
 ---
 

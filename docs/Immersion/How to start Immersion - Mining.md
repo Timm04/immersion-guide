@@ -1,44 +1,57 @@
-# How to start immersion - Mining
+!!! tldr ""
 
-## How to learn words - Anki
+    *summary to be added*
+    
+## When to start Immersion
 
-Anki is a flashcard program that helps you spend more time on challenging material, and less on what you already know. You create in Anki flashcards and review them later. It uses a spaced repetition system to make you remember vasts amount of information in the long term as efficiently and underwhelming as possible. Anki does so by optimizing memory retention by showing you flashcards you created right before you forget them, maximizing retention with minimal study time. It supports powerful customization and rich media support, allowing for add-on functionality for advanced features and offline accessibility. It's extremely efficient for learning anything from languages to complex medical facts.
+You have a good enough [foundation](requirements immersion.md#building-a-foundation) that allows you to not be completely overwhelmed when consuming native media in the language. Taking the examples from [Principles of Immersion](core concepts of immersion.md) you mainly encounter sentences where you don't know at least 1 to around 3 things ("i+1-3") **instead of** sentences where even a dictionary wouldn't help you understand ("i+n").
+
+[:octicons-arrow-right-24: How i+1 is a motivating ideal but not reality](core concepts of immersion.md#how-i1-is-a-motivating-ideal-but-not-reality)
+
+You understand that you have to build upon your existing [knowledge](requirements immersion.md#building-a-foundation) to learn something new and that challenge is part of learning. The key is here to not overwhelm yourself ("i+n") with difficulty but expose yourself to content that is mostly comprehensible ("i+1-3"). 
+
+### <span style="color: var(--md-typeset-a-color);">Dipping in your toes</span>
+
+This fine balance between "I'm struggling this is too hard" and "This is fine" changes for each person depending on one's existing [knowledge](requirements immersion.md#building-a-foundation), [enjoyment](core concepts of immersion.md#what-to-look-for-in-immersion-material-importance-of-enjoyment) and tolerance of ambiguity (=how little or how much you need to understand in order to have fun).
+
+Especially since everybody perceives things differently, everybody needs a different amount of comprehension to enjoy something. Thats why the [disclaimers](requirements immersion.md#when-can-i-start-to-immerse) say you don't need to finish your [beginner Anki deck](requirements immersion.md#basic-vocabulary) or [beginner grammar resource](requirements immersion.md#basic-grammar). Some people might be doing fine starting immersion knowing 1000 words. Some people might need to know 1500 words. This can change even more depending what content you immerse with.
+
+The bottom line is once you hit a reasonable amount of basic vocab (at least 1000 words) and basic grammar you learned, you try to immerse and see for yourself, just don't be stuck in the [beginner loop](requirements immersion.md#the-beginner-loop).
+
+---
+
+## How to start Immersion - Mining
+
+Mining is the process of immersing, looking up everything you don't know and creating flashcards for it in Anki. These flashcards, or just cards, you create are added not to your [beginner Anki deck](requirements immersion.md#basic-vocabulary) but to a separate **Mining deck** you create in Anki.
+
+Creating a mining deck and setting it up is a topic that deserves a thorough explanation though it's up to debate if this discussion would fit into this guide's theme and goal. For now I'll refer to [天・Ten (Heaven)'s Mining Guide](https://ten-heaven.vercel.app/mining).
+
+Yomitan is used to lookup, create and add cards to your mining deck. Using Yomitan is integral when doing immersion. Mining is **the** process we are going to be doing when dealing with sentences and trying to understand them. 
+
+### <span style="color: var(--md-typeset-a-color);">What is Yomitan</span>
+
+The browser addon Yomitan is a powerful and versatile pop-up dictionary for language learning used by 100,000+ language learners. It makes looking up words effortless and seamless whether you're reading a book, browsing the web or watching movies. Just hover and press a key to instantly see detailed definitions, word frequencies, native audio, examples sentence and more right where you are. With Yomitan's powerful [Anki flashcard integration](https://ankiweb.net/shared/info/2055492159 "https://ankiweb.net/shared/info/2055492159") you can turn your lookups into formatted Anki flashcards and send them straight to your deck with single key presses. 
 
 !!! note "Installation"
-    For information how to install it refer to the official [website](https://apps.ankiweb.net/).  
-    For [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) and [IOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387).
+    For now I'll refer to [天・Ten (Heaven)'s Mining Guide](https://ten-heaven.vercel.app/mining). Here's Yomitan's official [website](https://yomitan.wiki/). 
+
+### <span style="color: var(--md-typeset-a-color);">Terminology</span>
+
+- "Mining deck" = your own unique Anki deck which contains all things you mined from immersion.
+
+- "To mine (something) = creating a flashcard of something you didn't know, for example a word, with Yomitan and adding it to your mining deck.
 
 ---
 
-## Main tool for immersion - Yomitan
+!!! question "How does mining look like?"
+!!! question "When and what should I exactly mine?"
 
-The browser addon Yomitan is a powerful and versatile pop-up dictionary for language learning used by 100,000+ language learners. It makes looking up words effortless and seamless whether you're reading a book, browsing the web or watching movies. Just hover and press a key to instantly see detailed definitions, word frequencies, native audio, examples sentence and more right where you are. With Yomitan's powerful [Anki flashcard integration](https://ankiweb.net/shared/info/2055492159 "https://ankiweb.net/shared/info/2055492159") you can turn your lookups into rich and beautifully formatted Anki flashcards and send them straight to your deck with single key presses. 
-
-!!! note "Installation"
-    For information how to install it refer to the official [website](https://yomitan.wiki/). 
-
-Using Yomitan is integral when doing immersion. Looking up things we don't know in a sentence with Yomitan and turning them into flashcards in Anki is called **mining**. Mining is **the** process we are going to be doing when dealing with sentences and trying to understand them. 
+These questions alongside others will be answered during the [:octicons-arrow-right-24: process of mining](mining notes.md).
 
 ---
 
-<div class="grid cards" markdown>
-
--   :material-play-circle:{ .lg .middle } __Start Mining__
-
-    ---
-
-    Begin the step-by-step mining process to understand sentences and add words to Anki.
-
-    [:octicons-arrow-right-24: Start Mining](../Mining/step 1 read the sentence.md)
-
--   :material-file-document:{ .lg .middle } __Overview of Mining__
-
-    ---
-
-    Get a comprehensive overview of the mining process and key concepts.
-
-    [:octicons-arrow-right-24: View Overview](../Immersion/mining notes.md)
-
-</div>
-
----
+*[i+1]: one unknown piece of information
+*[i+2]: two unknown pieces of information
+*[i+3]: three unknown pieces of information
+*[i+n]: n unknown pieces of information
+*[i+1-3]: one to three unknown pieces of information

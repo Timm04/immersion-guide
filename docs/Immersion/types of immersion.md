@@ -184,7 +184,7 @@ This will lead to you improving slower compared to the amount of time you contin
 Think of leveling up in a video game. You will level up really fast at the start because you you need like 10 experience points to go from level 1 to 2 and so one. But later you need to put in way more work for the same level increase because now you don't need 10 experience points but 10 million to go from 80 to 81.
 
 <figure markdown="span", class="plateau-img">
-  [![plataeugraph](../assets/images/word_acquisition_plateau.png)](../assets/images/word_acquisition_plateau.png)
+  ![plataeugraph](../assets/images/word_acquisition_plateau.png)
   <figcaption style="margin-top: 0.5em; margin-bottom: 0.5em;">Vocabulary acquisition rate over time: listening-only learners experience rapid initial growth followed by a plateau, while reading-focused learners maintain consistent growth.</figcaption>
 </figure>
 
