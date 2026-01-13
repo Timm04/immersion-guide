@@ -28,7 +28,7 @@ Further reading:
 
 ## Recap
 
-Before you can start using your [foundation](requirements immersion.md#building-a-foundation) to start immersing, we first need to go over how to choose what to immerse, define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) and answer our questions:
+Before you can start using your [foundation](requirements immersion.md#building-a-foundation) to start immersing, we first need to go over what to look for in immersion content, define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) and answer our questions:
 
 !!! question "Why take explanations from beginner grammar guides at face value?"
 

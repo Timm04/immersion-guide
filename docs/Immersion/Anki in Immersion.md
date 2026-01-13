@@ -59,6 +59,61 @@ Unless you have an exam and want to quickly go through for example your grammar 
 
 ---
 
+## I don't have enough time today to do my reviews and new cards, which one of these should I prioritize?
+
+Try to never miss at least your reviews, make sure to do them everyday. Avoid letting your reviews spill into the next day.
+
+---
+
+## How do I reduce my reviews?
+
+Lower the amount of new cards every day,
+
+---
+
+## In what order should I do my Anki? Reviews or new cards first?
+
+However you like to. I usually like to do my reviews first then do my new cards all in the same session.
+
+---
+
+## Do I have to finish my Anki in one session?
+
+No, you can split it up if you would like to.
+Some people want to get through Anki first thing in the morning so they don't have to bother with it later during the day.
+Some people like to split up they reviews in like 10 minute sessions which they do during the day.
+Some people like to do short busts of reviews then take a few seconds long break then continue with the next batch of reviews.
+
+For learning new cards you are also free to decide for yourself.
+Some people split them up as well or do them during their day whenever they are free.
+
+See what works for you so you don't wear yourself out! Prioritize sustainability. 
+
+---
+
+## Do I have to do Anki in the first place?
+
+Not really if you immerse a ton, but doing Anki helps. There are tons of people who got to a pretty high level in their respected target language without having done Anki once in their life.
+
+Referencing [How to use Anki for immersion](#how-to-use-anki-for-immersion) if you only do Anki and not immerse then words won't really stick.
+You have to use what you learn in Anki to acquire it intuitively like a native which you do by immersing. That's why you only learn one meaning at a time on for each card because thats enough to enable comprehension. 
+
+!!! question "Why does Anki help?"
+
+    Let's say you have enough time, motivation and the "power" to do 50 new cards a day on top of your reviews in less than an hour, while immersing for 6 hours a day.
+    After three months, you would have learned around 4500 new words which would enable you to immerse even more and in a bigger variety of content which in turn exposes you to the language in more nuanced ways speeding up your acquisition of the language. So actually if you have a lot of time you could benefit from a lot of Anki.
+
+---
+
+## I hate Anki and I dread doing it everyday so much so it demotivates me
+
+Then drop it. If you don't do Anki at all then make sure to counteract it with tons of active immersion, where you read and listen a lot. 
+Otherwise you'll keep forcing yourself and eventually burn out. You can learn a language with and without Anki.
+
+!!! warning "For beginners"
+
+    If you are [getting started](requirements immersion.md) and drop Anki then you will have a hard time advancing forward to immersion. You need some kind of foundation to immerse and that is usually done in the immersion method by doing Anki.
+
 ## How much Anki you should do
 
 Anki should always make up less time than your immersion time. You don't want to spend a lot of time in Anki because there you only need to learn a new word. To make that actually stick you need to do immersion. That's why Anki should be make up 1/5 of your daily study time. 4/5 of the time should be spent immersing.

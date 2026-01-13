@@ -110,7 +110,7 @@ Let's compare two different activities:
 
 There is no universal optimum. Even if a method is 100% "efficient" at teaching the most common 1000-1500 words but alienates like 20% of learners making them quit after a month is on a systematic level inefficient. 
 
-:octicons-arrow-right-24: This is why you **have to** figure out what works for you and what you can [sustain](#sustainability-is-only-the-meaningful-metric).
+:octicons-arrow-right-24: This is why you have to figure out **what works for you** and what you can [sustain](#sustainability-is-only-the-meaningful-metric).
 
 !!! note "We can denote the TLU model using the following formula"
 

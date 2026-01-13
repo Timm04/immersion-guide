@@ -146,12 +146,12 @@ Expect daily goals to fail. Life happens and you get busy. A disruption isn't a 
 
 #### <span style="color: var(--md-typeset-a-color);">Squeezing in immersion time</span>
 
-If you happen to not have the time to for example read today like you wanted then you can try and squeeze in some other immersion time elsewhere. For example you can do some listening while cleaning, cooking or commuting and the list goes on. In these cases try to focus on your listening as much as you can while doing your mundane tasks. These pockets you can fill with immersion really add up over time! How much you get out of it depends on how well you focus during these periods of listening. 
+If you happen to not have the time to for example read today like you wanted then you can try and squeeze in some other immersion time elsewhere. For example you can do some listening while cleaning, cooking or commuting and the list goes on. In these cases try to focus on your listening as much as you can while doing your mundane tasks. These pockets you can fill with immersion really add up over time! How much you get out of it depends on how well you focus during these periods of listening.
 
 !!! note "References"
     [:octicons-arrow-right-24: Passive vs. Active Listening](roadmap.md#passive-vs-active-listening)
 
-    [:octicons-arrow-right-24: How hard should you pay attention when immersing](roadmap.md#how-hard-should-you-pay-attention-when-immersing). 
+    [:octicons-arrow-right-24: How hard should you pay attention when immersing](roadmap.md#how-hard-should-you-pay-attention-when-immersing) 
 
 #### <span style="color: var(--md-typeset-a-color);">You're (not) alone</span>
 
