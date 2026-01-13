@@ -236,7 +236,7 @@ Usually you won't need to do this after having done immersion for months because
 
 ## How to improve
 
-Challenge yourself. Set [higher goals](routine manager.md#routine-management-in-immersion). [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the mining process](../Mining/step 1 read the sentence.md), do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
+Challenge yourself. Set [higher goals](routine manager.md#routine-management-in-immersion). [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the mining process](../Mining/step 1 read the sentence.md), and *optimally* do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
 
 More concretely this means referencing media recommendation sheets for your target language based on difficulty. Let say you read a book with difficulty 4/10 then try to find something that is one or two steps higher while letting your interest guide you.
 
@@ -248,9 +248,15 @@ For example for reading:
 
 2. Make sure it's something you can justifiably stomach based on:
 
-    - Not too hard as in something like i+n, see [how i+1 is a motivating ideal but not reality](core concepts of immersion.md#how-i1-is-a-motivating-ideal-but-not-reality).
+    - [Not too hard as in something like i+n](core concepts of immersion.md#how-i1-is-a-motivating-ideal-but-not-reality):
 
-    - Such that you can [check your understanding and see what you can understand for yourself](../Mining/step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself).
+        Examples what challenging can be:
+
+        - Being familiar with a domain like fantasy but then immersing in something that has nothing to do with it like baseball or architecture. Consuming content of other domains will expose you to different and new vocabulary you can mine that is in a completely new context.
+
+        - Reading something more difficult of the same domain (=genre).
+
+    - Such that you can [reasonably check your own understanding](../Mining/step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself).
 
     - basically something you can [sustain](#sustainability-is-only-the-meaningful-metric).
 
@@ -259,7 +265,11 @@ For example for reading:
 If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
 
 !!! success "What to expect"
-    Finding something to immerse in is a process by trial and error. Expect to drop media, switch mid way through to something different, starting something but never coming back to it. Don't feel bad about doing this and rather feel good about yourself that you are not immersing in something you cannot sustain i.e forcing yourself. As long as you keep immersing you're good. But remember to improve you have to challenge yourself.
+    Finding something to immerse in is a process by trial and error. Expect to drop media, switch mid way through to something different, starting something but never coming back to it. Don't feel bad about doing this and rather feel good about yourself that you are not immersing in something you cannot sustain i.e forcing yourself. As long as you keep immersing you're good. But remember to improve in the sense of consuming more difficult content you have to challenge yourself.
+
+!!! question "What a "hard" word really is"
+
+    If you don't know a word then that's not a hard word. It's just a word you don't know.
 
 ### Focus on comprehension and not reading speed
 
