@@ -41,11 +41,29 @@ Anki and Immersion are not two separate processes. What you learn in Anki will o
 Anki alone won't make you learn a language.
 Anki doesn't replace your immersion.
 
+## How to grade Anki cards?
+
+Good: If you remembered the meaning and reading
+
+Fail: If you couldn't remember both.
+
 ---
 
 ## I finished my Anki for the day what now?
 
 Immerse.
+
+---
+
+## I ran out of new cards what now?
+
+Immerse and mine more.
+
+---
+
+## What happens if I learn too many new cards?
+
+Your reviews will increase.
 
 ---
 
@@ -81,7 +99,7 @@ However you like to. I usually like to do my reviews first then do my new cards 
 
 No, you can split it up if you would like to.
 Some people want to get through Anki first thing in the morning so they don't have to bother with it later during the day.
-Some people like to split up they reviews in like 10 minute sessions which they do during the day.
+Some people like to split up their reviews in like 10 minute sessions which they do during the day.
 Some people like to do short busts of reviews then take a few seconds long break then continue with the next batch of reviews.
 
 For learning new cards you are also free to decide for yourself.
