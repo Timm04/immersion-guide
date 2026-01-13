@@ -41,6 +41,8 @@ Anki and Immersion are not two separate processes. What you learn in Anki will o
 Anki alone won't make you learn a language.
 Anki doesn't replace your immersion.
 
+---
+
 ## How to grade Anki cards?
 
 Good: If you remembered the meaning and reading
