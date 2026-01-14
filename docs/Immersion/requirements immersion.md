@@ -54,7 +54,8 @@ In this section I will give you a flowchart you can follow to go through before 
 First you might need to learn the writing system *to some extent* first before going through the next steps. You need to be able to read in your target language to some extent before starting to learn words.
 How much of the writing system you end up having to learn depends on your target language.
 
-At this stage don't learn how to write, just learn how to read.
+At this stage you don't need to learn how to write in the language, just how to read it enough.
+Although if writing helps you to remember the writing system easier or if it's fun to you then you can totally do that as well.
 
 ---
 

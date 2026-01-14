@@ -262,7 +262,7 @@ For example for reading:
 
 3. If not then find and repeat the process with something else.
 
-If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
+If you think you found something that meets these criteria, then keep in mind [having fun](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [mining](../Mining/step 1 read the sentence.md). 
 
 !!! success "What to expect"
     Finding something to immerse in is a process by trial and error. Expect to drop media, switch mid way through to something different, starting something but never coming back to it. Don't feel bad about doing this and rather feel good about yourself that you are not immersing in something you cannot sustain i.e forcing yourself. As long as you keep immersing you're good. But remember to improve in the sense of consuming more difficult content you have to challenge yourself.
