@@ -50,8 +50,5 @@ These questions alongside others will be answered during the [:octicons-arrow-ri
 
 ---
 
-*[i+1]: one unknown piece of information
-*[i+2]: two unknown pieces of information
-*[i+3]: three unknown pieces of information
 *[i+n]: n unknown pieces of information
 *[i+1-3]: one to three unknown pieces of information
