@@ -1,6 +1,8 @@
 !!! tldr ""
 
-    *summary to be added*
+    1. Try out immersion while building your foundation. If it's too overwhelming and a struggle (too many unknown things in a sentence, "i+n",  where a dictionary won't help) go back to building your foundation. If you can stomach it and it's comprehensible ("i+1-3") then continue immersion.
+
+    2. Create a mining deck for immersion separate from your starter deck. Use Yomitan to add things you didn't know to your mining deck.
     
 ## When to start Immersion
 
@@ -34,6 +36,10 @@ The browser addon Yomitan is a powerful and versatile pop-up dictionary for lang
 
 !!! note "Installation"
     For now I'll refer to [天・Ten (Heaven)'s Mining Guide](https://ten-heaven.vercel.app/mining). Here's Yomitan's official [website](https://yomitan.wiki/). 
+
+### <span style="color: var(--md-typeset-a-color);">What to do with those mined cards?</span>
+
+You learn them in Anki. How often, when and how to do Anki will be answered in [:octicons-arrow-right-24: Using Anki](Anki in Immersion.md).
 
 ### <span style="color: var(--md-typeset-a-color);">Terminology</span>
 

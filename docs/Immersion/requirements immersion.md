@@ -171,7 +171,7 @@ A starter grammar resource should prime you on what's out there to help you unde
 
 - Basic identification
 
-!!! warning "Take basic grammar explanations in beginner grammar guides at face value. Most grammar guides are flawed in one way other another."
+!!! warning "Take basic grammar explanations in beginner grammar guides with a grain of salt. Most grammar guides are flawed in one way other another."
 
 ---
 

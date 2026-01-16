@@ -369,7 +369,11 @@ Using the [TLU model](#total-life-time-utility-model):
 
 ## General things to make things easier
 
-Care for your health. Sleep enough. Stay hydrated. Get fresh air. Do some exercise. Even standing up, working around, doing something quick like a walk or situps in between your 5min pomodoro breaks are game changers. Sleep deprivation and dehydration cause headaches, now couple it with the fact of sitting for hours starring at screens focused, thinking hard and things can get worse. Similarity fresh air and a quick walk can really boost your capacity to acquire new information. Exercise in general improves your [cognitive ability](https://pubmed.ncbi.nlm.nih.gov/28666827/). Just as important is enough sleep because even [relatively moderate sleep restriction can seriously impair waking neurobehavioral functions in healthy adults](https://pubmed.ncbi.nlm.nih.gov/12683469/). Breaking up prolonged sessions of sitting down is crucial. Same goes for your posture; your next posture is your best posture.
+- Care for your health as in sleeping and drinking enough.
+
+- Make sure too sleep enough
+
+- Do some exercise. Even standing up, working around, doing something quick like a walk or situps in between your 5min pomodoro breaks are game changers. Breaking up prolonged sessions of sitting down is crucial. Same goes for your posture; your next posture is your best posture.
 
 ---
 
