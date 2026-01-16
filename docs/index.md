@@ -36,6 +36,6 @@ More generally, I would like to thank every single person who has given others g
 
 Our community is full of hard working and talented people who have dedicated a large portion of their time for free to make language learning easier and more accessible. Alone for that I'm grateful to have met them.  
 
-One of them is Kuri, whose Japanese immersion guide heavily inspired this homepage’s design, as well as much of the visual direction and advice found throughout this guide.
+One of them is Kuri, whose [Japanese immersion guide](https://donkuri.github.io/learn-japanese/) heavily inspired this homepage’s design, as well as much of the visual direction and advice found throughout this guide.
 
 ---
