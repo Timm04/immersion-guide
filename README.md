@@ -1,5 +1,5 @@
-https://timm04.github.io/immersion-based-language-learning/
+# Immersion Guide
 
-# Repository for Immersion-based Language Learning 
+A guide on what immersion is and how to follow it to acquire your target language
 
-Made with Material for Mkdocs
+https://timm04.github.io/immersion-guide/
