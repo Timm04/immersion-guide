@@ -1,4 +1,4 @@
-https://timm04.github.io/immersion-based-language-learning/
+https://timm04.github.io/immersion-guide/
 
 # Repository for Immersion-based Language Learning 
 
