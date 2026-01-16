@@ -1,8 +1,8 @@
 # Home
 
-## An optimized and healthier approach to language learning through Immersion
+## A better approach to language learning through Immersion
 
-Welcome to Immersion-Based Language Learning, a website made for people interested in learning languages through immersion.
+Welcome to my Immersion Guide, a website made for people interested in learning languages through a method called immersion.
 
 ---
 
@@ -35,5 +35,7 @@ Special thanks also to David, who approached me for guidance. By helping him wit
 More generally, I would like to thank every single person who has given others great advice on immersion over the years. They are the true inspiration for this guide. I would like to specifically thank JJ, Dai, Chronopolize, Blt, Jakku, Danex, Bladewood, Kuri, Tyogin, Nunko, Jsph, Jazzy, Pastor Sheshbesh and Julian for their input. 
 
 Our community is full of hard working and talented people who have dedicated a large portion of their time for free to make language learning easier and more accessible. Alone for that I'm grateful to have met them.  
+
+One of them is Kuri, whose Japanese immersion guide heavily inspired this homepage’s design, as well as much of the visual direction and advice found throughout this guide.
 
 ---
