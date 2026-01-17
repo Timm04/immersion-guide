@@ -149,7 +149,7 @@ Think of it like transfer knowledge from school where you do different exercises
 
 ## What to look for in immersion material - Importance of enjoyment
 
-We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y way yet real way:
+We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y yet real way:
 
 > "Step 1: do fun stuff
 >
@@ -195,7 +195,7 @@ Challenging can mean different things.
 
 What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well. That missing piece(s) of information will stick the better the impression, you understanding of the sentence, is. It will probably stick not as easy or even not at all if you juggle multiple unknown pieces of information in a sentence, a lot of ambiguity, which will make the context less impactful and more vague.
 
-Everything comes down to your comprehension, so how do you comprehend something? Introducing [How To Start Immersion - Mining](How to start Immersion - Mining.md).
+Everything comes down to your comprehension, so how do you comprehend something? Introducing [How To Start Immersion](How to start Immersion - Mining.md).
 
 ---
 
