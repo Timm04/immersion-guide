@@ -1,0 +1,1898 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Timm">
+      
+      
+        <link rel="canonical" href="https://immersion.guide/immersion/requirements-immersion/">
+      
+      
+        <link rel="prev" href="../../definition-of-immersion/immersion-definition/">
+      
+      
+        <link rel="next" href="../core-concepts-of-immersion/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Getting Started - Immersion Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../css/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#overview" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Immersion Guide" class="md-header__button md-logo" aria-label="Immersion Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Immersion Guide
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Getting Started
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Timm04/immersion-guide.git" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Immersion Guide" class="md-nav__button md-logo" aria-label="Immersion Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Immersion Guide
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Timm04/immersion-guide.git" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Open a pull request
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/navigation-help/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How to Use This Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../introduction/problematic-surrounding-immersion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Why Mindset Matters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Before You Begin
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Before You Begin
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../traditional-methods/lead-in/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lead In
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../traditional-methods/methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Why Traditional Methods Fail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../native-language/how-natives-are-made/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Native Language Approach
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Immersion Method
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Immersion Method
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../definition-of-immersion/immersion-definition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Defining Immersion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#writing-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Writing system
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#main-tool-for-building-a-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Main tool for building a foundation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Main tool for building a foundation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-anki" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What is Anki
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#building-a-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Building a foundation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Building a foundation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#basic-vocabulary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Basic vocabulary
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic vocabulary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#going-through-beginner-anki-decks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Going through beginner Anki decks
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#basic-grammar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Basic grammar
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic grammar">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#going-through-beginner-grammar-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Going through beginner grammar resources
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#when-can-i-start-to-immerse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When can I start to immerse?
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="When can I start to immerse?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-beginner-loop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The beginner loop
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-beginner-struggle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The beginner struggle
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alternatives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Alternatives
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../core-concepts-of-immersion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../how-to-start-immersion-mining/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How to Start Immersion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_5" id="__nav_5_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mining Step-by-Step
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Mining Step-by-Step
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mining-notes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mining Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-1-read-the-sentence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Read the Sentence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-2-comprehension-check/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Check Your Understanding
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-3-yomitan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Use Yomitan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-4-reread-sentence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reread the Sentence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-5-mine-it/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How to Mine
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-6-spending-more-time/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spend more Time to Understand
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../mining/step-7-move-on/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Moving on After not Understanding
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../appendix-mining/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Appendix for Mining
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../types-of-immersion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Reading vs. Listening
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../anki-in-immersion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Using Anki in Immersion
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../roadmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Choosing Immersion Content
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../routine-manager/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Managing Your Routine
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overview
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#writing-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Writing system
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#main-tool-for-building-a-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Main tool for building a foundation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Main tool for building a foundation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-is-anki" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What is Anki
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#building-a-foundation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Building a foundation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Building a foundation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#basic-vocabulary" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Basic vocabulary
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic vocabulary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#going-through-beginner-anki-decks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Going through beginner Anki decks
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#basic-grammar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Basic grammar
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Basic grammar">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#going-through-beginner-grammar-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Going through beginner grammar resources
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#when-can-i-start-to-immerse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When can I start to immerse?
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="When can I start to immerse?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-beginner-loop" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The beginner loop
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-beginner-struggle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The beginner struggle
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alternatives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Alternatives
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Getting Started</h1>
+
+<div class="admonition tldr">
+<ol>
+<li>
+<p>Optional: Learn enough of the writing system to read somewhat.</p>
+</li>
+<li>
+<p>Install Anki:</p>
+<ul>
+<li>Anki = spaced repetition system to learn vocab (use beginner community deck).</li>
+</ul>
+</li>
+<li>
+<p>Build a rough foundation:</p>
+<ul>
+<li>
+<p>1000-1500 of the most commonly used words (Anki deck).</p>
+</li>
+<li>
+<p>Basic grammar understanding (basic particles, patterns, word order, tenses).</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Start with immersion as soon as possible, meaning when you hit those numbers.</p>
+</li>
+<li>
+<p>Skip the perfectionist loop, jump into immersion.</p>
+</li>
+</ol>
+</div>
+<p>Further reading:</p>
+<p><a href="#writing-system">1. <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Writing system</a></p>
+<p><a href="#main-tool-for-building-a-foundation">2. <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Main tool for building a foundation</a></p>
+<p><a href="#building-a-foundation">3. <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Building a foundation</a></p>
+<p><a href="#when-can-i-start-to-immerse">4. <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> When can I start to immerse</a></p>
+<p><a href="#the-beginner-loop">5. <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> The beginner loop</a></p>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<p>In this section I will give you a flowchart you can follow to go through before starting immersion (=consuming content made by natives for natives in your target language that is comprehensible enough, enjoyable and somewhat challenging). For each step I'll explain what to do and what to look out for before moving to the next step. </p>
+<figure ,="," class="miningoverview-img">
+  <img alt="immersionstart" src="../../assets/images/immersionstart.png" /><figcaption>Roadmap before starting immersion</figcaption>
+</figure>
+<div class="admonition abstract">
+<p class="admonition-title">Disclaimer from <a href="../../">Home</a></p>
+<p>This guide explains how to learn a language using the immersion method. It does <strong>not</strong> provide language specific resources. Instead it focuses on what makes up immersion and it's principles; what it is, how it works, and how you can use it yourself.</p>
+<p>The specific kind of media and resources you consume and use for immersion will depend on your target language. For example if you want to learn Japanese then you won't learn Korean words. For concrete resources and setup guides, please refer to "language specific immersion guides", such as <a href="https://www.ten.guide/">天・Ten (Heaven)</a> for Japanese. These kind of guides focus mainly on resources, media and tools. </p>
+<p>Think of this guide as a paintbrush, that offers you the method and mindset, while the colors, language resources like media and setup guides for tools, come from materials tailored to your target language. </p>
+</div>
+<hr />
+<h2 id="writing-system">Writing system<a class="headerlink" href="#writing-system" title="Permanent link">&para;</a></h2>
+<div class="admonition note">
+<p class="admonition-title">This step is optional depending on your target language.</p>
+</div>
+<p>First you might need to learn the writing system <em>to some extent</em> first before going through the next steps. You need to be able to read in your target language to some extent before starting to learn words.
+How much of the writing system you end up having to learn depends on your target language.</p>
+<p>At this stage you don't need to learn how to write in the language, just how to read it enough.
+Although if writing helps you to remember the writing system easier or if it's fun to you then you can totally do that as well.</p>
+<hr />
+<h2 id="main-tool-for-building-a-foundation">Main tool for building a foundation<a class="headerlink" href="#main-tool-for-building-a-foundation" title="Permanent link">&para;</a></h2>
+<p>This section is about Anki, one of the two main tools that make up immersion language learning. For setup guides refer to your "language specific immersion guide" like <a href="https://www.ten.guide/">天・Ten (Heaven)</a> for Japanese.</p>
+<h3 id="what-is-anki"><span style="color: var(--md-typeset-a-color);">What is Anki</span><a class="headerlink" href="#what-is-anki" title="Permanent link">&para;</a></h3>
+<p>Anki is a flashcard program that uses a spaced repetition system helping you remember vasts amount of information in the long term as efficiently and underwhelming as possible. It does so by optimizing memory retention by showing you flashcards you created right before you forget them, maximizing retention with minimal study time.</p>
+<p><em>In general Anki supports powerful customization and rich media support, allowing for add-on functionality for advanced features and offline accessibility. It's extremely efficient for learning anything from languages to complex medical facts.</em></p>
+<div class="admonition note">
+<p class="admonition-title">Installation</p>
+<p>For information how to install it refer to the official <a href="https://apps.ankiweb.net/">website</a>.<br />
+For <a href="https://play.google.com/store/apps/details?id=com.ichi2.anki">Android</a> and <a href="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387">IOS</a>.</p>
+</div>
+<hr />
+<h2 id="building-a-foundation">Building a foundation<a class="headerlink" href="#building-a-foundation" title="Permanent link">&para;</a></h2>
+<p>This is the real first step as it prepares you for consuming media in your target language (immersing). Here you first need to learn enough basic vocabulary and grammar to build a foundation good enough to immerse. This step usually takes weeks to complete depending on your time.</p>
+<p>To learn vocabulary you go through a beginner deck in Anki. </p>
+<p>To learn grammar you go through a beginner grammar resource.</p>
+<h3 id="basic-vocabulary"><span style="color: var(--md-typeset-a-color);">Basic vocabulary</span><a class="headerlink" href="#basic-vocabulary" title="Permanent link">&para;</a></h3>
+<div class="admonition success">
+<p class="admonition-title">Learn <a href="#basic-grammar">basic grammar</a> at the same.</p>
+</div>
+<p>Which Anki deck you use to learn these basic vocabulary depends on your language, so please refer to your "language specific immersion guide", like <a href="https://www.ten.guide/">天・Ten (Heaven)</a> for Japanese. They have a starter deck for Japanese.</p>
+<p>If the language you're studying doesn't have a starter Anki deck to learn basic vocabulary, a language specific immersion guide or a community, then you can also look for vocabulary decks on the Anki website under <a href="https://ankiweb.net/shared/decks">shared decks</a>.</p>
+<h4 id="going-through-beginner-anki-decks">Going through beginner Anki decks<a class="headerlink" href="#going-through-beginner-anki-decks" title="Permanent link">&para;</a></h4>
+<p>A starter Anki deck should full full these requirements so you get the most out of it:</p>
+<ol>
+<li>
+<p>It has at least 1000 to a maximum of 1500 different words for you to memorize.</p>
+</li>
+<li>
+<p>The majority of the deck should contain frequently used vocab. The more frequent words you know the easier your first immersion experience will be.</p>
+</li>
+<li>
+<p>Doesn't contain any to no obscure rarely used words.</p>
+</li>
+<li>
+<p>Doesn't contain any to no country names.</p>
+</li>
+<li>
+<p>Doesn't contain complex sentences with rare words that were not introduced already.</p>
+</li>
+<li>
+<p>Uses simple phrases (statement, existence / possession, commands, negatives, exclamations, identification, localization etc.)</p>
+</li>
+<li>
+<p>The design of each flashcard should at least look like this:</p>
+</li>
+</ol>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="front" name="__tabbed_1" type="radio" /><input id="back" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="front">Front</label><label for="back">Back</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li>The word you want to memorize and nothing else.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ol>
+<li>Definition of that word in a language you understand (optimally your native language)</li>
+<li>An example sentence that uses that word in your target language</li>
+<li>An accurate translation of that sentence.</li>
+<li>Clear and correct audio playing how that word is read i.e pronounced. At best a native.</li>
+<li>A picture to help understanding the meaning</li>
+</ol>
+</div>
+</div>
+</div>
+<hr />
+<p><span class="immersion_start"><a href="#when-can-i-start-to-immerse"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> When can I start to immerse?</a></span></p>
+<hr />
+<div class="admonition question">
+<p class="admonition-title">My target language doesn't have a starter deck from a dedicated community</p>
+<p>Use any deck you find online that full fills at least the first 3 requirements of the back. </p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">My target language doesn't have any deck online</p>
+<p>Create your own starter deck using word and frequency lists or divert back to textbook vocabulary lists.</p>
+</div>
+<hr />
+<h3 id="basic-grammar"><span style="color: var(--md-typeset-a-color);">Basic grammar</span><a class="headerlink" href="#basic-grammar" title="Permanent link">&para;</a></h3>
+<div class="admonition success">
+<p class="admonition-title">Learn <a href="#basic-vocabulary">basic vocabulary</a> at the same.</p>
+</div>
+<p>Which language resource you use to learn basic grammar depends on your language, so please refer to your "language specific immersion guide", like <a href="https://www.ten.guide/">天・Ten (Heaven)</a> for Japanese. They have tons of starter resources for grammar.</p>
+<p>If the language you're studying doesn't have a starter grammar resource to learn basic grammar, a language specific immersion guide or a community, then you can also look for grammar resources online on blog posts and youtube.</p>
+<h4 id="going-through-beginner-grammar-resources">Going through beginner grammar resources<a class="headerlink" href="#going-through-beginner-grammar-resources" title="Permanent link">&para;</a></h4>
+<p>A starter grammar resource should prime you on what's out there to help you understand:</p>
+<ul>
+<li>
+<p>How sentences are usually structured ("anatomy") and look like in your target language. </p>
+</li>
+<li>
+<p>Basic grammar particles and cases, meaning you can name and recognize basic grammar patterns and understand how they <strong>roughly</strong> work. </p>
+</li>
+<li>
+<p>Basic nouns</p>
+</li>
+<li>
+<p>Basic verbs</p>
+</li>
+<li>
+<p>Basic negation</p>
+</li>
+<li>
+<p>Basic statement patterns</p>
+</li>
+<li>
+<p>Basic existence / possession</p>
+</li>
+<li>
+<p>Basic commands / requests</p>
+</li>
+<li>
+<p>Basic tenses</p>
+</li>
+<li>
+<p>Basic exclamations </p>
+</li>
+<li>
+<p>Basic identification</p>
+</li>
+</ul>
+<div class="admonition warning">
+<p class="admonition-title">Take basic grammar explanations in beginner grammar guides with a grain of salt. Most grammar guides are flawed in one way other another.</p>
+</div>
+<hr />
+<p><span class="immersion_start"><a href="#when-can-i-start-to-immerse"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> When can I start to immerse?</a></span></p>
+<hr />
+<h2 id="when-can-i-start-to-immerse">When can I start to immerse?<a class="headerlink" href="#when-can-i-start-to-immerse" title="Permanent link">&para;</a></h2>
+<p>It's hard to pinpoint and articulate a level of proficiency that is best suited for diving into immersion, but having learned the majority of a <a href="#basic-vocabulary">beginner Anki deck</a> and having learned basic grammar from a <a href="#basic-grammar">beginner grammar resource</a> would be considered a foundation decent enough to jump into native media. Concretely this means:</p>
+<div class="admonition success">
+<p class="admonition-title">The right way - You start when</p>
+<ul>
+<li>
+<p>You know around 1000-1500 of the most common words.</p>
+</li>
+<li>
+<p>You have a rough understanding of your target language's grammar. </p>
+</li>
+</ul>
+<p>Combining these two factors builds a foundation comfortable enough to start immersing. </p>
+</div>
+<p>A few disclaimers:</p>
+<ol>
+<li>
+<p>You don't need to have finished your <a href="#basic-vocabulary">beginner Anki deck</a> to start immersing.</p>
+</li>
+<li>
+<p>You don't need to have memorized all the grammar points in your <a href="#basic-grammar">beginner grammar resource</a> to start immersing.</p>
+</li>
+<li>
+<p>If you have some experience with your target language already then going through a <a href="#basic-vocabulary">beginner Anki deck</a> and <a href="#basic-grammar">beginner grammar resource</a> nonetheless doesn't hurt. </p>
+</li>
+</ol>
+<h3 id="the-beginner-loop"><span style="color: var(--md-typeset-a-color);">The beginner loop</span><a class="headerlink" href="#the-beginner-loop" title="Permanent link">&para;</a></h3>
+<p>These disclaimers exist to keep beginners away from the beginner loop:</p>
+<div class="admonition failure">
+<p class="admonition-title">The wrong way</p>
+<p>Memorizing and learning all the grammar of your target language and thousands upon thousands of vocab before actually immersing for the first time.</p>
+<p>"Making sure" you know every single detail and nuance of the basics in and out to finally start immersing.</p>
+</div>
+<p>At the beginning you have to accept you won't understand everything completely and leave these beginner resources behind as soon as possible. In reality you won't be ready until you actually start engaging with the real language by applying what you learned.</p>
+<p>Reusing the hiking analogy from <a href="../../introduction/problematic-surrounding-immersion/#essence-of-immersion-learn-and-hike">the essence of immersion</a> would mean you spend too much time buying the right hiking equipment, studying in depth how their mechanisms work or finding the perfect clothing for every weather condition you might encounter without actually having seen a mountain or set foot onto one. Obviously preparing yourself is good but be it for hiking, language learning or anything else, but without having real experience of doing it you won't progress. No preparation here can save you from struggling or not understanding everything when you start consuming the language, but that's okay, struggling or rather <em>challenge</em> is part of the process and actually needed to acquire a language. Don't let your perfectionist mind keep you from actually starting!</p>
+<h3 id="the-beginner-struggle"><span style="color: var(--md-typeset-a-color);">The beginner struggle</span><a class="headerlink" href="#the-beginner-struggle" title="Permanent link">&para;</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Giving up before it begins</p>
+<p>During this foundation building process you will basically be doing only Anki alongside some grammar study. If you already start to hate Anki or doing grammar here, then you lost the beginner immersion mental game. The start before you can immerse is the hardest part.</p>
+</div>
+<h3 id="alternatives"><span style="color: var(--md-typeset-a-color);">Alternatives</span><a class="headerlink" href="#alternatives" title="Permanent link">&para;</a></h3>
+<p>Another way could be after having learned your target language to some extent in school or in language classes. You could go through courses on websites where you learn basic phrases, grammar and vocabulary, although I wouldn't recommend them even if you like them especially if your target language has a <a href="#basic-vocabulary">beginner Anki deck</a> and <a href="#basic-grammar">beginner grammar resources</a>. In the end what matters is having a <strong>decent foundation in the language</strong> to start immersing. </p>
+<hr />
+<div class="admonition question">
+<p class="admonition-title">Why take explanations from beginner grammar guides at face value?</p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">How much challenge is too much and why is it part of the process?</p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">How much should I understand at the beginning?</p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">What should I look for in immersion media?</p>
+</div>
+<p>These questions will be answered in the next section <a href="../core-concepts-of-immersion/"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.75.75 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0"/></svg></span> Principles of Immersion</a>.</p>
+<hr />
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="February 8, 2026 00:29:33 UTC">February 8, 2026</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../../definition-of-immersion/immersion-definition/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Defining Immersion">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Defining Immersion
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../core-concepts-of-immersion/" class="md-footer__link md-footer__link--next" aria-label="Next: Core Principles">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Core Principles
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.top", "navigation.sections", "navigation.expand", "navigation.footer", "content.tabs.link", "palette.toggle", "navigation.instant", "navigation.instant.progress", "search.suggest", "search.highlighting", "search.share"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../js/image-lightbox.js"></script>
+      
+        <script src="https://unpkg.com/mermaid@10/dist/mermaid.min.js"></script>
+      
+        <script src="../../js/mermaid-init.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
