@@ -2,7 +2,7 @@
 
 ![miningimg](../assets/images/mining.png)
 
-To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../Immersion/core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
+To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../immersion/core-concepts-of-immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
@@ -27,9 +27,9 @@ That's why its not detrimental to move on, because you will revisit whatever you
 
     If you happen to be here very often, then this might be a sign that whatever you're immersing with might be too hard for you right now. If you keep on immersing with something that is too hard for you, then you run danger of wasting time and burning out. Being here is the exception not the norm. 
     
-    [:octicons-arrow-right-24: When to drop things you are immersing with](../Immersion/roadmap.md#when-to-drop-things-you-are-immersing-with)
+    [:octicons-arrow-right-24: When to drop things you are immersing with](../immersion/roadmap.md#when-to-drop-things-you-are-immersing-with)
 
-    [:octicons-arrow-right-24: How to get the most out of Immersion](../Immersion/roadmap.md#how-to-get-the-most-out-of-immersion)
+    [:octicons-arrow-right-24: How to get the most out of Immersion](../immersion/roadmap.md#how-to-get-the-most-out-of-immersion)
 
 
 You can move on after you have gone through steps 1-5 (reading the sentence -> checking comprehension -> Looking up with Yomitan -> rereading sentence -> checking comprehension), meaning you:
@@ -55,7 +55,7 @@ As a last resort you can go and translate the sentence to your native language a
 
     Continue the mining process with the next sentence.
 
-    [:octicons-arrow-right-24: Next sentence](step 1 read the sentence.md)
+    [:octicons-arrow-right-24: Next sentence](step-1-read-the-sentence.md)
 
 -   :material-file-document:{ .lg .middle } __Mining Overview__
 
@@ -63,7 +63,7 @@ As a last resort you can go and translate the sentence to your native language a
 
     Return to the mining overview.
 
-    [:octicons-arrow-right-24: View Overview](../Immersion/mining notes.md)
+    [:octicons-arrow-right-24: View Overview](../immersion/mining-notes.md)
 
 </div>
 

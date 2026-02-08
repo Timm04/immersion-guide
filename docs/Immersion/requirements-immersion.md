@@ -211,7 +211,7 @@ These disclaimers exist to keep beginners away from the beginner loop:
 
 At the beginning you have to accept you won't understand everything completely and leave these beginner resources behind as soon as possible. In reality you won't be ready until you actually start engaging with the real language by applying what you learned.
 
-Reusing the hiking analogy from [the essence of immersion](../Introduction/problematic surrounding immersion.md#essence-of-immersion-learn-and-hike) would mean you spend too much time buying the right hiking equipment, studying in depth how their mechanisms work or finding the perfect clothing for every weather condition you might encounter without actually having seen a mountain or set foot onto one. Obviously preparing yourself is good but be it for hiking, language learning or anything else, but without having real experience of doing it you won't progress. No preparation here can save you from struggling or not understanding everything when you start consuming the language, but that's okay, struggling or rather *challenge* is part of the process and actually needed to acquire a language. Don't let your perfectionist mind keep you from actually starting!
+Reusing the hiking analogy from [the essence of immersion](../introduction/problematic-surrounding-immersion.md#essence-of-immersion-learn-and-hike) would mean you spend too much time buying the right hiking equipment, studying in depth how their mechanisms work or finding the perfect clothing for every weather condition you might encounter without actually having seen a mountain or set foot onto one. Obviously preparing yourself is good but be it for hiking, language learning or anything else, but without having real experience of doing it you won't progress. No preparation here can save you from struggling or not understanding everything when you start consuming the language, but that's okay, struggling or rather *challenge* is part of the process and actually needed to acquire a language. Don't let your perfectionist mind keep you from actually starting!
 
 ### <span style="color: var(--md-typeset-a-color);">The beginner struggle</span>
 
@@ -233,6 +233,6 @@ Another way could be after having learned your target language to some extent in
 
 !!! question "What should I look for in immersion media?"
 
-These questions will be answered in the next section [:octicons-arrow-right-24: Principles of Immersion](core concepts of immersion.md).
+These questions will be answered in the next section [:octicons-arrow-right-24: Principles of Immersion](core-concepts-of-immersion.md).
 
 ---

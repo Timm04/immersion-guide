@@ -25,7 +25,7 @@ Now rinse and repeat these steps for all sentences! This is mining!
 
     Begin the step-by-step mining process to understand sentences and add words to Anki.
 
-    [:octicons-arrow-right-24: Start Mining](../Mining/step 1 read the sentence.md)
+    [:octicons-arrow-right-24: Start Mining](../mining/step-1-read-the-sentence.md)
 
 -   :material-file-document:{ .lg .middle } __Appendix for Mining__
 
@@ -33,7 +33,7 @@ Now rinse and repeat these steps for all sentences! This is mining!
 
     General things to keep in mind for mining.
 
-    [:octicons-arrow-right-24: View](../Immersion/appendix mining.md)
+    [:octicons-arrow-right-24: View](../immersion/appendix-mining.md)
 
 </div>
 

@@ -34,7 +34,7 @@ When doing immersion it cannot be understated that what ever you're immersing wi
 
 Choosing immersion material that is also enjoyable for you **makes your time learning the target language easier**. It shifts your mind from "I have to read this book to learn my target language" to "I want to sit down and read this book because its interesting." Without it, the learning process will feel forced and dragged which should be avoided at all cost. The moment when something is not interesting to you, you should stop bothering with it and switch to something different to immerse in. That is because enjoyment keeps you going, without you would be forcing yourself which is not the ideal mind space to be in when learning any skill. Somebody that enjoys what they are doing will outperform anyone that is doing the same but with no enjoyment. Ideally enjoyment should motivate you.
 
-These two factors make up the bottom line when choosing what to immerse in. How you [actually choose immersion material](../Immersion/roadmap.md) and in what [proportions these two factors should inter play](../Immersion/core concepts of immersion.md#the-ratio) will be discussed in later sections . For now I want you to take away the following.
+These two factors make up the bottom line when choosing what to immerse in. How you [actually choose immersion material](../immersion/roadmap.md) and in what [proportions these two factors should inter play](../immersion/core-concepts-of-immersion.md#the-ratio) will be discussed in later sections . For now I want you to take away the following.
 
 ---
 
@@ -44,7 +44,7 @@ Recalling our three criteria for a good method:
 
 1. **You actually acquire the language to your desired level**: Since we are consuming content (books, shows, games, videos) made by natives for natives, we learn how the language is actually used with all it's nuances, slang and cultural context. You end up deciding what you consume yourself so immediately you acquire functional and attrition-proof because it's tied to meaningful content you enjoy.
 
-2. **The time it takes you to reach your goal**: [The power of Immersion](../Introduction/problematic surrounding immersion.md#the-power-of-immersion)
+2. **The time it takes you to reach your goal**: [The power of Immersion](../introduction/problematic-surrounding-immersion.md#the-power-of-immersion)
 
 3. **Enjoyment**: Follows from 1. Immersion by design requires the content you consume to be enjoyable for you. This creates a positive feedback loop: You enjoy the content or learning the language, which makes you consume more, which accelerates your acquisition, which allows you to enjoy even more content.
 

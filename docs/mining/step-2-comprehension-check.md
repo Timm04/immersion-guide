@@ -2,7 +2,7 @@
 
 ![miningimg](../assets/images/mining.png)
 
-To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../Immersion/core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
+To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../immersion/core-concepts-of-immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
@@ -46,7 +46,7 @@ To give you an idea how much understanding is enough and what to aim for, here a
 
 (In case you're not a native speaker of English or don't quite get it, yes, there are nonsense words in there. Those represent the uncomprehended 2%. [:octicons-arrow-right-24: Source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like))
 
-In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension.
+In our [ratio](../immersion/core-concepts-of-immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension.
 
 ---
 
@@ -58,7 +58,7 @@ In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% c
 
     Move on to the next sentence and continue the mining process.
 
-    [:octicons-arrow-right-24: Next sentence](step 1 read the sentence.md)
+    [:octicons-arrow-right-24: Next sentence](step-1-read-the-sentence.md)
 
 -   :material-magnify:{ .lg .middle } __Don't understand?__
 
@@ -66,7 +66,7 @@ In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% c
 
     Use Yomitan to look up unknown words and clarify the meaning.
 
-    [:octicons-arrow-right-24: Look it up](step 3 yomitan.md#use-yomitan-to-look-up-what-you-dont-know)
+    [:octicons-arrow-right-24: Look it up](step-3-yomitan.md#use-yomitan-to-look-up-what-you-dont-know)
 
 </div>
 

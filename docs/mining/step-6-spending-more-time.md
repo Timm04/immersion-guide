@@ -2,7 +2,7 @@
 
 ![miningimg](../assets/images/mining.png)
 
-To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../Immersion/core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
+To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [principles of Immersion](../immersion/core-concepts-of-immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
@@ -50,7 +50,7 @@ Spending too much time on a sentence will just give you mental fatigue and demot
 
     Great! You've put in the effort and it clicked. Time to mine the word.
 
-    [:octicons-arrow-right-24: Mine the word](step 5 mine it.md#mine-the-word-you-just-understood)
+    [:octicons-arrow-right-24: Mine the word](step-5-mine-it.md#mine-the-word-you-just-understood)
 
 -   :material-skip-forward:{ .lg .middle } __Still don't understand?__
 
@@ -58,7 +58,7 @@ Spending too much time on a sentence will just give you mental fatigue and demot
 
     That's okay. Move on to the next sentence and come back to this later.
 
-    [:octicons-arrow-right-24: Move on](step 7 move on.md#move-on)
+    [:octicons-arrow-right-24: Move on](step-7-move-on.md#move-on)
 
 </div>
 

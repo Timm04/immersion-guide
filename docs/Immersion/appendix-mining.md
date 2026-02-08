@@ -5,7 +5,7 @@
 
 !!! tldr ""
 
-    I recommend going through the [mining process](mining notes.md) first before advancing. 
+    I recommend going through the [mining process](mining-notes.md) first before advancing. 
 
 
 ## Whitenoising
@@ -16,7 +16,7 @@ graph LR
   B -->|No| C[Moving on]
 ```
 
-After reading a sentence for the first time, if [don't understand a sentence](../Mining/step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself) and **still** move on to the next sentence then thats considered whitenoising.
+After reading a sentence for the first time, if [don't understand a sentence](../mining/step-2-comprehension-check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself) and **still** move on to the next sentence then thats considered whitenoising.
 Moving one without having tried to understand a sentence is whitenoising and should be avoided at all costs. You learn nothing by just glossing over a sentence or letting something play in the background without paying attention. It's just a time waste.
 
 ## <span style="color: var(--md-typeset-a-color);">Checking yourself is a good habit</span>
@@ -34,23 +34,23 @@ If you think you know a word it's most often better to check yourself once in a 
 !!! note "Disclaimer"
     This is only applicable to people who are more advanced. 
 
-We can rewrite the steps we have outlined for [the process of mining](../Mining/step 1 read the sentence.md) using the [ratio](core concepts of immersion.md#the-ratio) discussed earlier: 80-85% of the time immersing should optimally be spent in **pattern recognition** (understanding sentences immediately) while 15-20% of the time we should spend in **problem solving** (pausing and trying to understand a sentence thoroughly). 
+We can rewrite the steps we have outlined for [the process of mining](../mining/step-1-read-the-sentence.md) using the [ratio](core-concepts-of-immersion.md#the-ratio) discussed earlier: 80-85% of the time immersing should optimally be spent in **pattern recognition** (understanding sentences immediately) while 15-20% of the time we should spend in **problem solving** (pausing and trying to understand a sentence thoroughly). 
 
 Below is a small overview:
 
 === "Pattern recognition"
 
-    - [Reading the sentence for the first time](../Mining/step%201%20read%20the%20sentence.md#read-through-the-sentence-normally-dont-panic)
+    - [Reading the sentence for the first time](../mining/step-1-read-the-sentence.md#read-through-the-sentence-normally-dont-panic)
 
-    - [Did I immediately understand the sentence?](../Mining/step%202%20comprehension%20check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself)
+    - [Did I immediately understand the sentence?](../mining/step-2-comprehension-check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself)
 
 === "Problem solving"
 
-    - [Using Yomitan to look up things you don't know or understand](../Mining/step%203%20yomitan.md#use-yomitan-to-look-up-what-you-dont-know)
+    - [Using Yomitan to look up things you don't know or understand](../mining/step-3-yomitan.md#use-yomitan-to-look-up-what-you-dont-know)
 
-    - [Rereading the sentence trying to understand what it now means.](../Mining/step%204%20reread%20sentence.md#reread-the-sentence-or-the-part-where-that-word-you-just-looked-up-appears-in-and-try-to-understand-the-sentence)
+    - [Rereading the sentence trying to understand what it now means.](../mining/step-4-reread-sentence.md#reread-the-sentence-or-the-part-where-that-word-you-just-looked-up-appears-in-and-try-to-understand-the-sentence)
     
-    - [Spending more time on the sentence](../Mining/step%206%20spending%20more%20time.md#if-you-dont-understand-the-sentence-then-spend-more-time-on-it-to-understand-what-its-trying-to-say)
+    - [Spending more time on the sentence](../mining/step-6-spending-more-time.md#if-you-dont-understand-the-sentence-then-spend-more-time-on-it-to-understand-what-its-trying-to-say)
 
 "Pattern recognition mode" is the sweet spot where you flow, where you are immersed in whatever medium you are consuming at the moment without pausing i.e interrupting your immersion too often. Since it's hard to come by a lot of sentences after each other where we get sentences like i+1, reaching the flow state is rare. But let's strive towards it!
 
@@ -103,7 +103,7 @@ Rinse and repeat this process for the monolingual transition.
 
 - A lot of unknown words
 
-You will probably be "dictionary diving" and looking up words within dictionaries popups. The word you don't know within dictionaries are just normal words you just don't know yet so to fix that [read more](types of immersion.md#solution-just-read-more). You can mine these words within dictionaries but keep in mind [when to mine and when not mine](../Mining/step%205%20mine%20it.md#when-to-mine-and-not-mine).
+You will probably be "dictionary diving" and looking up words within dictionaries popups. The word you don't know within dictionaries are just normal words you just don't know yet so to fix that [read more](types-of-immersion.md#solution-just-read-more). You can mine these words within dictionaries but keep in mind [when to mine and when not mine](../mining/step-5-mine-it.md#when-to-mine-and-not-mine).
 
 !!! note "Small anecdote"
     I remember mining a word once 5 dictionary pop-ups deep. Meaning I looked up a word within a definition within a definition within a definition within a definition. Let's try to avoid deep diving!

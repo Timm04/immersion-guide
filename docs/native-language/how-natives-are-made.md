@@ -20,7 +20,7 @@ Further reading:
 
 ## Learning like a native but smarter
 
-In the previous section, we dissected the [the traditional, classroom based method](../Tradtional methods/Methods.md). We concluded that while it has it's benefits speaking from a structure and social perspective, it's inclined to prioritize language *education* (passing exams, learning about culture and political system) over a more efficient language *acquisition*. It can lack expose to real native content, motivation and thus often leading to foreign language attrition.
+In the previous section, we dissected the [the traditional, classroom based method](../traditional-methods/methods.md). We concluded that while it has it's benefits speaking from a structure and social perspective, it's inclined to prioritize language *education* (passing exams, learning about culture and political system) over a more efficient language *acquisition*. It can lack expose to real native content, motivation and thus often leading to foreign language attrition.
 
 This begs the question: "What would be a method focused purely on acquisition look like?" To get the bottom of this let's look at the method we all know and have been doing ever since we were born.
 

@@ -132,7 +132,7 @@ Otherwise you'll keep forcing yourself and eventually burn out. You can learn a 
 
 !!! warning "For beginners"
 
-    If you are [getting started](requirements immersion.md) and drop Anki then you will have a hard time advancing forward to immersion. You need some kind of foundation to immerse and that is usually done in the immersion method by doing Anki.
+    If you are [getting started](requirements-immersion.md) and drop Anki then you will have a hard time advancing forward to immersion. You need some kind of foundation to immerse and that is usually done in the immersion method by doing Anki.
 
 ## How much Anki you should do
 
@@ -206,7 +206,7 @@ There are also sentence cards where on the front you see the whole sentence with
 
 ## How to make remembering easier in Anki
 
-A word should be mined according to the guidelines in [When to mine and not mine](../Mining/step 5 mine it.md#when-to-mine-and-not-mine).
+A word should be mined according to the guidelines in [When to mine and not mine](../mining/step-5-mine-it.md#when-to-mine-and-not-mine).
 
 Don't mine everything. Mine only expressions that you understand within the context of the sentence. Context is key, since the greater impression an expression/context has on you, the easier you will remember a word in Anki.
 You can boost the impression of an expression by creating as many associations with the card you can, most prominently adding more meaningful pictures to the card. Meaningful here means anything that makes YOU remember the card more easily.

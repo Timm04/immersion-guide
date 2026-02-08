@@ -20,7 +20,7 @@ Think of this guide as a paint brush. You use this paint brush (method and minds
 
     Any numerical statements like ratios or percentages are only suggestions and are subject to be changed depending on your target language peculiarities. There is no one size fits all equation especially for languages and the people who study them, so keep this in mind.
 
-[Start Guide](Introduction/navigation help.md){ .md-button .md-button--primary }
+[Start Guide](introduction/navigation-help.md){ .md-button .md-button--primary }
 
 ---
 

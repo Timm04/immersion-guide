@@ -28,7 +28,7 @@ Further reading:
 
 ## Recap
 
-Before you can start using your [foundation](requirements immersion.md#building-a-foundation) to start immersing, we first need to go over what to look for in immersion content, define our key takeaways from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) and answer our questions:
+Before you can start using your [foundation](requirements-immersion.md#building-a-foundation) to start immersing, we first need to go over what to look for in immersion content, define our key takeaways from [What Immersion tries to achieve](../definition-of-immersion/immersion-definition.md#key-takeaways) and answer our questions:
 
 !!! question "Why take explanations from beginner grammar guides at face value?"
 
@@ -38,13 +38,13 @@ Before you can start using your [foundation](requirements immersion.md#building-
 
 !!! question "What should I look for in immersion media?"
 
-In the section [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways) we have established that immersion material has to be comprehensible enough and enjoyable. Here we are going to contextualize what comprehensible enough actually means and how to setup oneself for success.
+In the section [What Immersion tries to achieve](../definition-of-immersion/immersion-definition.md#key-takeaways) we have established that immersion material has to be comprehensible enough and enjoyable. Here we are going to contextualize what comprehensible enough actually means and how to setup oneself for success.
 
 ## What "comprehensible enough" means - i+1
 
 With immersion we are trying to create an environment where we are engaging with material that is optimally *slightly* above our level. The key here is slightly! For the beginning, this means to learn as effectively as possible we should not immerse in something too easy, because there wouldn't be any new information for us to learn from it, and not immerse in something too difficult, because we wouldn't be able too understand anything at all. This is the same with any learning process. 
 
-You have to build upon your existing knowledge i.e the [foundation](requirements immersion.md#building-a-foundation) you built and use it to understand new kinds of information related to it. This actually goes way back to 1876:
+You have to build upon your existing knowledge i.e the [foundation](requirements-immersion.md#building-a-foundation) you built and use it to understand new kinds of information related to it. This actually goes way back to 1876:
 
 !!! abstract "Apperception"
 
@@ -133,7 +133,7 @@ This is what learners who do immersion describe sometimes as magic. Even though 
     If you immediately recognized that this sentence contains a non-finite progressive passive formed with the "act upon" + preposition construction, combined with the strictly intransitive main predicate "end up ~" and the negated past-tense auxiliary "didn’t," then awesome, good job! But most native speakers couldn’t break it down like that.
     Does that mean they "don’t really know" English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.
 
-That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence as much as you can** but more on this in section [Whitenoising](appendix mining.md#whitenoising).
+That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence as much as you can** but more on this in section [Whitenoising](appendix-mining.md#whitenoising).
 
 The umbrella term for this is us training our **pattern recognition skills** which builds fluency. 
 
@@ -149,7 +149,7 @@ Think of it like transfer knowledge from school where you do different exercises
 
 ## What to look for in immersion material - Importance of enjoyment
 
-We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../Definition of immersion/immersion definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y yet real way:
+We'll use the last sections about „i+1“ as motivation for defining a guiding principle, a framework so to speak, for choosing what to immerse with. We’ll also bring in the final key idea from [What Immersion tries to achieve](../definition-of-immersion/immersion-definition.md#key-takeaways); enjoyment. To illustrate this, I want to show you a quote that pretty much sums up immersion in slightly meme-y yet real way:
 
 > "Step 1: do fun stuff
 >
@@ -195,7 +195,7 @@ Challenging can mean different things.
 
 What challenging means in immersion, is having content where most sentences, if not all, have at max 2-3 unknown pieces of information you don't know. At best every sentence has 1 unknown information, meaning the context of the sentence can help you remember the word as well. That missing piece(s) of information will stick the better the impression, you understanding of the sentence, is. It will probably stick not as easy or even not at all if you juggle multiple unknown pieces of information in a sentence, a lot of ambiguity, which will make the context less impactful and more vague.
 
-Everything comes down to your comprehension, so how do you comprehend something? Introducing [How To Start Immersion](How to start Immersion - Mining.md).
+Everything comes down to your comprehension, so how do you comprehend something? Introducing [How To Start Immersion](how-to-start-immersion-mining.md).
 
 ---
 

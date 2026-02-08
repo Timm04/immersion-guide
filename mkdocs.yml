@@ -5,31 +5,31 @@ site_author: Timm
 repo_name: Open a pull request
 nav:
   - Home: 'index.md'
-  - How to Use This Guide: 'Introduction/navigation help.md'
-  - Why Mindset Matters: 'Introduction/problematic surrounding immersion.md'
+  - How to Use This Guide: 'introduction/navigation-help.md'
+  - Why Mindset Matters: 'introduction/problematic-surrounding-immersion.md'
   - 'Before You Begin':
-    - Lead In: 'Tradtional methods/lead in.md'
-    - Why Traditional Methods Fail: 'Tradtional methods/Methods.md'
-    - The Native Language Approach: 'Native Language/how natives are made.md'
+    - Lead In: 'traditional-methods/lead-in.md'
+    - Why Traditional Methods Fail: 'traditional-methods/methods.md'
+    - The Native Language Approach: 'native-language/how-natives-are-made.md'
   - 'Immersion Method':
-    - Defining Immersion: 'Definition of immersion/immersion definition.md'
-    - Getting Started: 'Immersion/requirements immersion.md'
-    - Core Principles: 'Immersion/core concepts of immersion.md'
-    - How to Start Immersion: 'Immersion/How to start Immersion - Mining.md'
+    - Defining Immersion: 'definition-of-immersion/immersion-definition.md'
+    - Getting Started: 'immersion/requirements-immersion.md'
+    - Core Principles: 'immersion/core-concepts-of-immersion.md'
+    - How to Start Immersion: 'immersion/how-to-start-immersion-mining.md'
     - 'Mining Step-by-Step':
-      - Mining Overview: 'Immersion/mining notes.md'
-      - Read the Sentence: 'Mining/step 1 read the sentence.md'
-      - Check Your Understanding: 'Mining/step 2 comprehension check.md'
-      - Use Yomitan: 'Mining/step 3 yomitan.md'
-      - Reread the Sentence: 'Mining/step 4 reread sentence.md'
-      - How to Mine: 'Mining/step 5 mine it.md'
-      - Spend more Time to Understand: 'Mining/step 6 spending more time.md'
-      - Moving on After not Understanding: 'Mining/step 7 move on.md'
-      - Appendix for Mining: 'Immersion/appendix mining.md'
-    - Reading vs. Listening: 'Immersion/types of immersion.md'
-    - Using Anki in Immersion: 'Immersion/Anki in Immersion.md'
-    - Choosing Immersion Content: 'Immersion/roadmap.md'
-    - Managing Your Routine: "Immersion/routine manager.md"
+      - Mining Overview: 'immersion/mining-notes.md'
+      - Read the Sentence: 'mining/step-1-read-the-sentence.md'
+      - Check Your Understanding: 'mining/step-2-comprehension-check.md'
+      - Use Yomitan: 'mining/step-3-yomitan.md'
+      - Reread the Sentence: 'mining/step-4-reread-sentence.md'
+      - How to Mine: 'mining/step-5-mine-it.md'
+      - Spend more Time to Understand: 'mining/step-6-spending-more-time.md'
+      - Moving on After not Understanding: 'mining/step-7-move-on.md'
+      - Appendix for Mining: 'immersion/appendix-mining.md'
+    - Reading vs. Listening: 'immersion/types-of-immersion.md'
+    - Using Anki in Immersion: 'immersion/anki-in-immersion.md'
+    - Choosing Immersion Content: 'immersion/roadmap.md'
+    - Managing Your Routine: "immersion/routine-manager.md"
 theme:
   icon:
     repo: fontawesome/brands/github
